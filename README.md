@@ -1,5 +1,5 @@
 # AdventistHymnal
-This is a management and export tool for the Seventh-day Adventist hymnal into various presentation software, such as ProPresenter.
+This is a management and export tool for the Seventh-day Adventist hymnal into various presentation software, such as ProPresenter, Proclaim, or MediaShout.
 
 The hymn files and idea came from <a>https://github.com/ariseforgod/adventist_hymnal</a>. That repository is no longer maintained, so I wrote this new program to manage the hymns and assist in the importing process into ProPresenter. Other software can be supported, but contributions will be required to get them working. The framework is here for it, though. It just needs a bit of work.
 
