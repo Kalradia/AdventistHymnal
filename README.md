@@ -6,6 +6,12 @@ The hymn files and idea came from <a>https://github.com/ariseforgod/adventist_hy
 ## How to use
 The hymns for ProPresenter are already prepared in the 'Outputs/ProPresenter' folder. If you would like to further customize the aesthetic, manual tweaking of the generation system will be required. But they work if you just mass import them as .txt files.
 
+If you build the project, you must copy the Inputs/Database folders into the root directory with the executable.
+
+- Inputs: Raw text files of all hymns.
+- Database: Imported hymn files that are parsed and turned into json.
+- Outputs: Final output hymns, ready to be imported.
+
 ## Todo
 - Improve abstraction to allow other exporters that may not have a similar syntax.
 - Review copyright information
