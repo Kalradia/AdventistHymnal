@@ -1,0 +1,59 @@
+{
+  "Number": 1,
+  "Title": "Praise to the Lord",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Praise to the Lord,",
+        "the Almighty, the King of creation!",
+        "O my soul, praise Him,",
+        "for He is thy health and salvation!",
+        "All ye who hear,",
+        "now to His temple draw near;",
+        "Join ye in glad adoration!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Praise to the Lord,",
+        "Who o’er all things so wondrously reigneth,",
+        "Shieldeth thee under His wings,",
+        "yea, so gently sustaineth!",
+        "Hast thou not seen",
+        "how thy desires e’er have been",
+        "Granted in what He ordaineth?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Praise to the Lord,",
+        "who doth prosper thy work and defend thee;",
+        "Surely His goodness and mercy",
+        "here daily attend thee.",
+        "Ponder anew what",
+        "the Almighty can do,",
+        "If with His love He befriend thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

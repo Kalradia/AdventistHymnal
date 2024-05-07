@@ -1,0 +1,44 @@
+{
+  "Number": 14,
+  "Title": "Let Us Praise the Name of the Lord",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let us praise the name of the Lord!",
+        "Give Him glory, Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Go ye into all the world.",
+        "Alleluia, Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Amen, amen,",
+        "Amen, amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

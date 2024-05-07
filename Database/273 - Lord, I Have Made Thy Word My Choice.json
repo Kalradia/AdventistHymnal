@@ -1,0 +1,63 @@
+{
+  "Number": 273,
+  "Title": "Lord, I Have Made Thy Word My Choice",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, I have made Thy word my choice,",
+        "My lasting heritage;",
+        "There shall my noblest powers rejoice,",
+        "My warmest thoughts engage."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I’ll read the histories of Thy love,",
+        "And keep Thy laws in sight;",
+        "While through Thy promises I rove,",
+        "With ever fresh delight."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "In this broad land of wealth unknown,",
+        "Where springs of life arise,",
+        "Seeds of immortal bliss are sown,",
+        "And hidden glory lies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The best relief that mourners have,",
+        "It makes our sorrows blest;",
+        "Our fairest hope beyond the grave,",
+        "And our eternal rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

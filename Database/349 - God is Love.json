@@ -1,0 +1,61 @@
+{
+  "Number": 349,
+  "Title": "God is Love",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Here in Christ we gather, love of Christ our calling.",
+        "Christ, our love, is with us, gladness be His greeting.",
+        "Let us fear Him, yes, and love Him, God eternal.",
+        "Loving Him, let each love Christ in all his brethren."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "God is love, and where true love is",
+        "God Himself is there."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "When we Christians gather, members of one body,",
+        "Let there be in us no discord but one spirit.",
+        "Banished now be anger, strife, and every quarrel.",
+        "Christ, our God, be always present here among us."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Grant us love’s fulfilment, joy with all the blessed,",
+        "When we see Your face, O Saviour, in its glory.",
+        "Shine on us, O purest Light of all creation,",
+        "Be our bliss while endless ages sing Your praises."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

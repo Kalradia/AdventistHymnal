@@ -1,0 +1,27 @@
+{
+  "Number": 672,
+  "Title": "Spirit of the Living God",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 23488,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Spirit of the living God,",
+        "Fall afresh on me!",
+        "Spirit of the living God,",
+        "Fall afresh on me!",
+        "Break me, melt me, mould me, fill me!",
+        "Spirit of the living God,",
+        "Fall afresh on me!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

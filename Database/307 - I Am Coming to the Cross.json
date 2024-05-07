@@ -1,0 +1,76 @@
+{
+  "Number": 307,
+  "Title": "I Am Coming to the Cross",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I am coming to the cross;",
+        "I am poor and weak and blind;",
+        "I am counting all but dross;",
+        "I shall full salvation find."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I am trusting, Lord, in Thee.",
+        "O thou Lamb of Calvary;",
+        "Humbly at Thy cross I bow.",
+        "Save me, Jesus, save me now."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Long my heart has sighed for Thee;",
+        "Long has evil reigned within;",
+        "Jesus sweetly speaks to me:",
+        "“I will cleanse you from all sin.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Here I give my all to Thee:",
+        "Friends and time and earthly store;",
+        "Soul and body Thine to be,",
+        "Wholly Thine forevermore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Jesus comes! He fills my soul!",
+        "Perfected in Him I am;",
+        "I am every whit made whole:",
+        "Glory, glory to the Lamb!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

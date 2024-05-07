@@ -1,0 +1,63 @@
+{
+  "Number": 293,
+  "Title": "Heavenly Father, Bless Us Now",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Heavenly Father, bless us now;",
+        "At the cross of Christ we bow;",
+        "Take our guilt and grief away;",
+        "Hear and heal us now, we pray."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Now, O Lord, this very hour,",
+        "Send Thy grace and show Thy power;",
+        "While we rest upon Thy word,",
+        "Come, and bless us now, O Lord!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Mercy now, O Lord, we plead",
+        "In this hour of utter need;",
+        "Turn us not away unblest;",
+        "Calm our anguish into rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Thou loving, blessed One,",
+        "Rising o’er us like the sun,",
+        "Light and life art Thou within:",
+        "Saviour, Thou, from every sin!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

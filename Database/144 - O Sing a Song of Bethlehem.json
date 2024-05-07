@@ -1,0 +1,62 @@
+{
+  "Number": 144,
+  "Title": "O Sing a Song of Bethlehem",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O sing a song of Bethlehem,",
+        "Of shepherds watching there,",
+        "And of the news that came to them",
+        "From angels in the air:",
+        "The light that shone on Bethlehem",
+        "Fills all the world today;",
+        "Of Jesus’ birth and peace on earth",
+        "The angels sing alway."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O sing a song of Nazareth,",
+        "Of sunny days of joy,",
+        "O sing of fragrant flowers breath,",
+        "And of the sinless Boy:",
+        "For now the flowers of Nazareth",
+        "In every heart may grow;",
+        "Now spreads the fame of His dear name",
+        "On all the winds that blow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O sing a song of Calvary,",
+        "Its glory and dismay;",
+        "Of Him who hung upon the tree,",
+        "And took our sins away:",
+        "For He who died on Calvary",
+        "Is risen from the grave;",
+        "And Christ, our Lord, by heaven adored,",
+        "Is mighty now to save."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

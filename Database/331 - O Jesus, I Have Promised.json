@@ -1,0 +1,62 @@
+{
+  "Number": 331,
+  "Title": "O Jesus, I Have Promised",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Jesus, I have promised",
+        "to serve thee to the end;",
+        "be thou forever near me,",
+        "my Master and my friend.",
+        "I shall not fear the battle",
+        "if thou art by my side,",
+        "nor wander from the pathway",
+        "if thou wilt be my guide."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O let me feel thee near me!",
+        "The world is ever near;",
+        "I see the sights that dazzle,",
+        "the tempting sounds I hear;",
+        "my foes are ever near me,",
+        "around me and within;",
+        "but Jesus, draw thou nearer,",
+        "and shield my soul from sin."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O Jesus, thou hast promised",
+        "to all who follow thee",
+        "that where thou art in glory",
+        "there shall thy servant be.",
+        "And Jesus, I have promised",
+        "to serve thee to the end;",
+        "O give me grace to follow,",
+        "my Master and my Friend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

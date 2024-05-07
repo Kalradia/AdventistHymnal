@@ -1,0 +1,71 @@
+{
+  "Number": 277,
+  "Title": "For Your Holy Book We Thank You",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "For Your holy book we thank You,",
+        "And for all who served You well,",
+        "Writing, guarding, and translating,",
+        "That its pages might forth tell",
+        "Your strong love and tender care",
+        "For Your people everywhere."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "For Your holy book we thank You,",
+        "And for those who work today,",
+        "That the people of all nations,",
+        "Reading it and following may",
+        "Know Your love and tender care",
+        "For Your people everywhere."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "For Your holy book we thank You,",
+        "May its message be our guide,",
+        "May we understand the wisdom",
+        "Of the laws it will provide:",
+        "And Your love and tender care",
+        "For Your people everywhere."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "For Your holy book we thank You,",
+        "May its message in our hearts",
+        "Lead us now to see in Jesus",
+        "All the grace Your word imparts:",
+        "All Your love and tender care",
+        "For Your people everywhere."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

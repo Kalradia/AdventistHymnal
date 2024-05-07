@@ -1,0 +1,69 @@
+{
+  "Number": 172,
+  "Title": "The Strife Is O’er",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Alleluia, alleluia, alleluia!"
+      ],
+      "Reference": {
+        "Type": "Intro",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "The strife is o’er, the battle done;",
+        "Now is the victor’s triumph won!",
+        "Now be the song of praise begun. Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The pow’rs of death have done their worst,",
+        "But Christ their legions has dispersed.",
+        "Let shouts of holy joy outburst. Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The three sad days have quickly sped,",
+        "He rises glorious from the dead.",
+        "All glory to our risen head! Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, by the stripes which wounded You,",
+        "From death’s sting free Your servants too,",
+        "That we may live and sing to You. Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Intro",
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

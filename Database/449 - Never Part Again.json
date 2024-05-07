@@ -1,0 +1,67 @@
+{
+  "Number": 449,
+  "Title": "Never Part Again",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a land of pure delight,",
+        "Where bliss eternal reigns,",
+        "Infinite day excludes the night",
+        "And pleasures banish pain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We’re trav’ling to Immanuel’s land,",
+        "We soon shall hear the trumpet sound,",
+        "And soon we shall with Jesus reign,",
+        "And never, never part again.",
+        "What! Never part again? No, never part again,",
+        "What! Never part again? No, never part again,",
+        "And soon we shall with Jesus reign,",
+        "And never, never part again."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There everlasting spring abides,",
+        "And never with’ring flowers,",
+        "And but a little space divides",
+        "This heav’nly land from ours."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Could we but stand where Moses stood,",
+        "And view the landscape o’er,",
+        "Not all this world’s pretended good",
+        "Could ever charm us more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

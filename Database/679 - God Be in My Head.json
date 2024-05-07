@@ -1,0 +1,28 @@
+{
+  "Number": 679,
+  "Title": "God Be in My Head",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God be in my head,",
+        "And in my thinking.",
+        "god be in my eyes,",
+        "And in my looking.",
+        "God be in my mouth",
+        "And in my speaking.",
+        "Oh, God be in my hear,",
+        "And in my understanding."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

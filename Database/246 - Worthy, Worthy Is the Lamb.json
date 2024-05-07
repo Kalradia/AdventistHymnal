@@ -1,0 +1,67 @@
+{
+  "Number": 246,
+  "Title": "Worthy, Worthy Is the Lamb",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Worthy, worthy is the Lamb,",
+        "Worthy, worthy is the Lamb,",
+        "Worthy, worthy is the Lamb,",
+        "That was slain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Glory, hallelujah!",
+        "Praise Him, hallelujah!",
+        "Glory, hallelujah!",
+        "To the Lamb!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Saviour, let Thy kingdom come!",
+        "Now the power of sin consume;",
+        "Bring Thy blest millennium,",
+        "Holy Lamb."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Thus may we",
+        "each moment feel,",
+        "Love Him, serve Him,",
+        "praise Him still,",
+        "Till we all on Zion’s hill",
+        "See the Lamb."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Number": 8,
+  "Title": "We Gather Together",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "We gather together to ask",
+        "the Lord’s blessing;",
+        "He chastens and hastens",
+        "His will to make known.",
+        "The wicked oppressing",
+        "now cease from distressing.",
+        "Sing praises to His Name;",
+        "He forgets not His own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Beside us to guide us,",
+        "our God with us joining,",
+        "Ordaining, maintaining",
+        "His kingdom divine;",
+        "So from the beginning the",
+        "fight we were winning;",
+        "Thou, Lord, were at our side,",
+        "all glory be Thine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We all do extol Thee,",
+        "Thou leader triumphant,",
+        "And pray that Thou still",
+        "our defender wilt be.",
+        "Let Thy congregation",
+        "escape tribulation;",
+        "Thy name be ever praised!",
+        "O Lord, make us free!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

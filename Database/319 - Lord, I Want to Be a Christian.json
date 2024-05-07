@@ -1,0 +1,63 @@
+{
+  "Number": 319,
+  "Title": "Lord, I Want to Be a Christian",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, I want to be a Christian in my heart, in my heart,",
+        "Lord, I want to be a Christian in my heart, in my heart.",
+        "In my heart, in my heart,",
+        "Lord, I want to be a Christian in my heart, in my heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord, I want to be more loving in my heart, in my heart,",
+        "Lord, I want to be more loving in my heart, in my heart.",
+        "In my heart, in my heart,",
+        "Lord, I want to be more loving in my heart, in my heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, I want to be more holy in my heart, in my heart,",
+        "Lord, I want to be more holy in my heart, in my heart.",
+        "In my heart, in my heart,",
+        "Lord, I want to be more holy in my heart, in my heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, I want to be more like Jesus in my heart, in my heart,",
+        "Lord, I want to be more like Jesus in my heart, in my heart.",
+        "In my heart, in my heart,",
+        "Lord, I want to be more like Jesus in my heart, in my heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

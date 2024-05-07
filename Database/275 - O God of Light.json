@@ -1,0 +1,65 @@
+{
+  "Number": 275,
+  "Title": "O God of Light",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O God of light, Your Word, a lamp unfailing,",
+        "Shall pierce the darkness of our earthbound way",
+        "And show Your grace,",
+        "Your plan for us unveiling,",
+        "And guide our footsteps to the perfect day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "From days of old, through blind and willful ages,",
+        "Though we rebelled, You gently sought again,",
+        "And spoke through saints,",
+        "Apostles, prophets, sages,",
+        "Who wrote with eager or reluctant pen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Undimmed by time, those words are still revealing",
+        "To sinful hearts Your justice and Your grace;",
+        "And questing mortals longing for Your healing,",
+        "See Your compassion in the Saviour’s face."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "To all the world Your summons You are sending,",
+        "Through all the earth, to ever land and race,",
+        "That myriad tongues, in one great anthem blending,",
+        "May praise and celebrate Your gift of grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "Number": 251,
+  "Title": "He Lives",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 17597,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I serve a risen Saviour,",
+        "He’s in the world today;",
+        "I know that He is living,",
+        "whatever men may say;",
+        "I see His hand of mercy,",
+        "I hear His voice of cheer",
+        "And just the time",
+        "I need Him He’s always near."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He lives, He lives,",
+        "Christ Jesus lives today!",
+        "He walks with me",
+        "and talks with me",
+        "along life’s narrow way.",
+        "He lives, He lives,",
+        "salvation to impart!",
+        "You ask me how I know He lives?",
+        "He lives within my heart."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "In all the world around me",
+        "I see His loving care,",
+        "And tho’ my heart grows weary",
+        "I never will despair;",
+        "I know that He is leading",
+        "thru all the stormy blast,",
+        "The day of His appearing",
+        "will come at last."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Rejoice, rejoice, O Christian,",
+        "lift up your voice and sing,",
+        "Eternal hallelujahs",
+        "to Jesus Christ the King!",
+        "The hope of all who seek Him,",
+        "the help of all who find,",
+        "None other is so loving,",
+        "so good and kind."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

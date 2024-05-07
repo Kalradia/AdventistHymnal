@@ -1,0 +1,62 @@
+{
+  "Number": 222,
+  "Title": "Hark! Ten Thousand Harps and Voices",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hark! ten thousand harps and voices",
+        "Sound the note of praise above;",
+        "Jesus reigns, and heaven rejoices,",
+        "Jesus reigns, the God of love:",
+        "See, He sits on yonder throne;",
+        "Jesus rules the world alone.",
+        "Alleluia! Alleluia!",
+        "Alleluia! Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "King of glory, reign forever,",
+        "Thine an everlasting crown;",
+        "Nothing from Thy love shall sever",
+        "Those whom Thou hast made Thine own;",
+        "Happy objects of Thy grace,",
+        "Destined to behold Thy face.",
+        "Alleluia! Alleluia!",
+        "Alleluia! Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Saviour, hasten Thine appearing;",
+        "Bring, O bring the glorious day,",
+        "When, the awful summons hearing,",
+        "Heaven and earth shall pass away:;",
+        "Then, with golden harps we’ll sing,",
+        "“Glory, glory to our King!”",
+        "Alleluia! Alleluia!",
+        "Alleluia! Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Number": 375,
+  "Title": "Work, for the Night Is Coming",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Work for the night is coming,",
+        "Work through the morning hours;",
+        "Work while the dew is sparkling;",
+        "Work ’mid springing flow’rs.",
+        "Work when the day grows brighter,",
+        "Work in the glowing sun;",
+        "Work for the night is coming,",
+        "When man’s work is done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Work for the night is coming,",
+        "Work thro’ the sunny noon;",
+        "Fill brightest hours with labour,",
+        "Rest comes sure and soon.",
+        "Give every flying minute",
+        "Something to keep in store;",
+        "Work for the night is coming,",
+        "When man works no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Work for the night is coming,",
+        "Under the sunset skies;",
+        "While their bright tints are glowing,",
+        "Work for daylight flies.",
+        "Work till the last beam fadeth,",
+        "Fadeth to shine no more;",
+        "Work while the night is dark’ning,",
+        "When man’s work is o’er."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

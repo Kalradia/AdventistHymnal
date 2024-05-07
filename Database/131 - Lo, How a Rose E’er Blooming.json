@@ -1,0 +1,43 @@
+{
+  "Number": 131,
+  "Title": "Lo, How a Rose E’er Blooming",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lo, how a rose e’re blooming",
+        "From tender stem hath sprung,",
+        "Of Jesse’s lineage coming",
+        "As men of old have sung.",
+        "It came, a floweret bright,",
+        "Amid the cold of winter",
+        "When half spent was the night."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Isaiah ’twas foretold it,",
+        "The Rose I have in mind,",
+        "With Mary we beheld it,",
+        "The virgin mother kind.",
+        "To show God’s love aright",
+        "She bore to them a Saviour,",
+        "When half spent was the night."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

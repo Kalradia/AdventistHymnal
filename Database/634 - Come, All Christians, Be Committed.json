@@ -1,0 +1,79 @@
+{
+  "Number": 634,
+  "Title": "Come, All Christians, Be Committed",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 4807108,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, all Christians, be committed",
+        "To the service of the lord;",
+        "Make your lives for him more fitted,",
+        "Tune your hearts with one accord.",
+        "Come into His courts with gladness,",
+        "Each his sacred vows renew,",
+        "Turn away from sin and sadness,",
+        "Be transformed with life anew."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Of your time and talents give ye,",
+        "They are gifts from God above;",
+        "To be used by Christians freely",
+        "To proclaim His wondrous love.",
+        "Come again to serve the Saviour,",
+        "Tithes and off’rings with you bring.",
+        "In your work, with Him find favour,",
+        "And with joy His praises sing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "God’s command to love each other",
+        "Is required of every one;",
+        "Showing mercy to one another",
+        "Mirrors His redemptive plan.",
+        "In compassion He has given",
+        "Of His love that is divine;",
+        "On the cross sins were forgiven;",
+        "Joy and peace are fully thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Come in praise and adoration,",
+        "All who in Christ’s name believe;",
+        "Worship Him with consecration,",
+        "Grace and love you will receive.",
+        "For His grace give Him the glory,",
+        "For the Spirit and the Word,",
+        "And repeat the gospel story",
+        "Till mankind His name has heard."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

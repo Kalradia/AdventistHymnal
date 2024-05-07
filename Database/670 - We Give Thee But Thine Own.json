@@ -1,0 +1,24 @@
+{
+  "Number": 670,
+  "Title": "We Give Thee But Thine Own",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "We give Thee but Thine own,",
+        "What-e’er the gift may be;",
+        "All that we have is Thine alone,",
+        "A trust, O Lord, from Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

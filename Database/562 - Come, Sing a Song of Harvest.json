@@ -1,0 +1,66 @@
+{
+  "Number": 562,
+  "Title": "Come, Sing a Song of Harvest",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, sing a song of harvest, Of thanks for daily food!",
+        "To offer God the first-fruits is old as gratitude."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Long, long ago, the reapers, before they kept the feast,",
+        "Put first-fruits in a basket, and took it to the priest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Shall we, sometimes forgetful oh where creation starts,",
+        "With science in our pockets lose wonder from our hearts?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "May God, the great Creator, to whom all life belongs,",
+        "Accept these gifts we offer, our service and our songs."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "And lest the world go hungry while we ourselves are fed,",
+        "Make each of us more ready to share our daily bread."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

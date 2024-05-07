@@ -1,0 +1,26 @@
+{
+  "Number": 667,
+  "Title": "Lord, Bless Thy Word to Every Heart",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, bless Thy word to every heart",
+        "In this Thy house today,",
+        "And help us each as now we part,",
+        "Its precepts to obey.",
+        "Amen",
+        "Amen"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

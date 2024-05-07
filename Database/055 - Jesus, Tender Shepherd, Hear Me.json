@@ -1,0 +1,37 @@
+{
+  "Number": 55,
+  "Title": "Jesus, Tender Shepherd, Hear Me",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, tender Shepherd, hear me,",
+        "Bless Thy little lamb tonight;",
+        "Through the darkness be Thou near me;",
+        "Watch my sleep till morning light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "All this day Thy hand has led me,",
+        "And I thank Thee for Thy care;",
+        "Thou hast clothed me, warmed and fed me;",
+        "Listen to my evening prayer."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

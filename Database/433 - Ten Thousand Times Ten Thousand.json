@@ -1,0 +1,79 @@
+{
+  "Number": 433,
+  "Title": "Ten Thousand Times Ten Thousand",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Ten thousand times ten thousand,",
+        "In sparkling raiment bright,",
+        "The armies of the ransomed saints",
+        "Throng up the steeps of light.",
+        "’Tis finished, all is finished,",
+        "Their fight with death and sin.",
+        "Fling open wide the golden gates,",
+        "And let the victors in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "What rush of hallelujahs",
+        "Fills all the earth and sky!",
+        "The ringing of a thousand harps",
+        "Proclaims the triumph high.",
+        "O day for which creation",
+        "And all its tribes were made!",
+        "O joy, for all its former woes",
+        "A thousandfold repaid!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O then what raptured greetings",
+        "On Canaan’s happy shore!",
+        "What knitting severed friendship where",
+        "Death partings are no more!",
+        "Then eyes with joy shall sparkle,",
+        "That brimmed with tears of late;",
+        "Orphans no longer fatherless,",
+        "Nor widows desolate."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Bring near Thy great salvation,",
+        "Thou Lamb for sinners slain,",
+        "Fill up the roll of Thine elect,",
+        "Then take Thy power and reign!",
+        "Appear, Desire of nations,",
+        "Thine exiles long for home;",
+        "Show in the heavens Thy promised sign;",
+        "Thou Prince and Saviour come!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Number": 605,
+  "Title": "My Soul, Be on Thy Guard",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My soul, be on they guard!",
+        "Ten thousand foes arise;",
+        "The hosts of sin are pressing hard",
+        "To draw thee from the skies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O watch, and fight, and pray!",
+        "The battle ne’er give o’er;",
+        "Renew it boldly every day,",
+        "And help divine implore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Ne’er think the victory won,",
+        "Nor lay thine armor down;",
+        "Thy arduous task will not be done",
+        "Till thou obtain the crown."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

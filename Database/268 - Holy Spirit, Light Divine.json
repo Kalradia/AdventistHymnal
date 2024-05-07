@@ -1,0 +1,63 @@
+{
+  "Number": 268,
+  "Title": "Holy Spirit, Light Divine",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Holy Spirit, light divine,",
+        "Shine upon this heart of mine,",
+        "Chase the shades of night away,",
+        "Turn my darkness into day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Holy Spirit, power divine,",
+        "Cleanse this guilty heart of mine;",
+        "Long has sin, without control,",
+        "Held dominion o’er my soul."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Holy Ghost, with joy divine,",
+        "Cheer this saddened heart of mine,",
+        "Bid my many woes depart,",
+        "Heal my wounded, bleeding heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Holy Spirit, all divine,",
+        "Dwell within this heart of mine,",
+        "Cast down every idol throne,",
+        "Reign supreme, and reign alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

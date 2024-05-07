@@ -1,0 +1,71 @@
+{
+  "Number": 5,
+  "Title": "All My Hope on God Is Founded",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All my hope on God is founded;",
+        "He doth still my trust renew.",
+        "Me through change and chance He guideth,",
+        "Only good and only true.",
+        "God unknown, He alone",
+        "Calls my heart to be His own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Pride of man and earthly glory,",
+        "Sword and crown betray his trust;",
+        "What with care and toil he buildeth,",
+        "Tower and temple fall to dust.",
+        "But God’s power, hour by hour,",
+        "Is my temple and my tower."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "God’s great goodness aye endureth,",
+        "Deep His wisdom, passing thought;",
+        "Splendour, light and life attend Him,",
+        "Beauty springeth out of naught.",
+        "Love doth stand at His hand;",
+        "Joy doth wait on His command."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Still from man to God eternal,",
+        "Sacrifice of praise be done.",
+        "High above all praises praising,",
+        "For the gift of Christ His son.",
+        "Christ doth call one and all:",
+        "Ye who follow shall not fall."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

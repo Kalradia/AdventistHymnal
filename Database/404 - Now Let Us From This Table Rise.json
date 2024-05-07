@@ -1,0 +1,63 @@
+{
+  "Number": 404,
+  "Title": "Now Let Us From This Table Rise",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 4354376,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Now let us from this table rise",
+        "Renewed in body, mind, and soul;",
+        "With Christ we die and live again,",
+        "His selfless love has made us whole."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "With minds alert, upheld by grace,",
+        "To spread the word in speech and deed,",
+        "We follow in the steps of Christ,",
+        "At one with all in hope and need."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "To fill each human house with love,",
+        "It is the sacrament of care;",
+        "The work that Christ began to do",
+        "We humbly pledge ourselves to share."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then grant us courage, Father God,",
+        "To choose again the pilgrim way",
+        "And help us to accept with joy",
+        "The challenge of tomorrow’s day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

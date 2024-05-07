@@ -1,0 +1,63 @@
+{
+  "Number": 543,
+  "Title": "Jesus, Friend of Little Children",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, Friend of little children,",
+        "Be a friend to me;",
+        "Take my hand and ever keep me",
+        "Close to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Teach me how to grow in goodness,",
+        "Daily as I grow;",
+        "Thou hast been a child, and surely",
+        "Thou dost know."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Step by step, O, lead me onward,",
+        "Upward into youth;",
+        "Wiser, stronger, still becoming",
+        "In Thy truth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Never leave me, nor forsake me;",
+        "Ever be my friend;",
+        "For I need Thee from life’s dawning",
+        "To its end."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

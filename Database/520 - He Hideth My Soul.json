@@ -1,0 +1,90 @@
+{
+  "Number": 520,
+  "Title": "He Hideth My Soul",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "A wonderful Saviour",
+        "is Jesus my Lord,",
+        "A wonderful Saviour to me,",
+        "He hideth my soul",
+        "in the cleft of the rock,",
+        "Where rivers of pleasure I see."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He hideth my soul",
+        "in the cleft of the rock",
+        "That shadows a dry,",
+        "thirsty land;",
+        "he hideth my life",
+        "in the depths of His love,",
+        "And covers me there",
+        "with His hand,",
+        "And covers me there",
+        "with His hand."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "A wonderful Saviour",
+        "is Jesus my Lord,",
+        "He taketh my burden away,",
+        "He holdeth me up,",
+        "and I shall not be moved,",
+        "He giveth me strength as my day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With numberless blessings",
+        "each moment He crowns,",
+        "And filled with His fullness divine,",
+        "I sing in my rapture,",
+        "Oh, Glory to God",
+        "For such a Redeemer as mine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When clothed in His brightness,",
+        "transported I rise",
+        "To meet Him in clouds of the sky,",
+        "His perfect salvation,",
+        "His wonderful love,",
+        "I’ll shout with the millions on high."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Number": 65,
+  "Title": "God Be With You",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God be with you till we meet again;",
+        "By His counsels guide, uphold you,",
+        "With His sheep securely fold you;",
+        "God be with you till we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Till we meet, till we meet,",
+        "Till we meet at Jesus’ feet;",
+        "Till we meet, till we meet,",
+        "God be with you till we meet again."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "God be with you till we meet again;",
+        "’Neath His wings securely hide you;",
+        "Daily manna still provide you;",
+        "God be with you till we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "God be with you till we meet again;",
+        "When life’s perils thick confound you;",
+        "Put His arms unfailing round you;",
+        "God be with you till we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "God be with you till we meet again;",
+        "Keep love’s banner floating over you,",
+        "Strike death’s threatening wave before you;",
+        "God be with you till we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

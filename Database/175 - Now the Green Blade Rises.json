@@ -1,0 +1,63 @@
+{
+  "Number": 175,
+  "Title": "Now the Green Blade Rises",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 1476522,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Now the green blade rises from the buried grain,",
+        "What that in dark earth many days has lain;",
+        "Love lives again, that with the dead has been;",
+        "Love is come again like wheat arising green."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In the grave they laid Him, love by hatred slain,",
+        "Thinking that He would never wake again,",
+        "Laid in the earth like grain that sleeps unseen;",
+        "Love is come again like wheat arising green."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Forth He came in triumph, like the risen grain,",
+        "He that for three days in the grave had lain;",
+        "Raised from the dead, my living Lord is seen;",
+        "Love is come again like wheat arising green."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When our hearts are wintry, grieving, or in pain,",
+        "Your touch can call us back to life again,",
+        "Field of our hearts that dead and bare have been;",
+        "Love is come again like wheat arising green."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Number": 455,
+  "Title": "Immortal Love, Forever Full",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Immortal Love, forever full,",
+        "Forever flowing free,",
+        "Forever shared, forever whole,",
+        "A never ebbing sea!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We nay not climb the heavenly steeps",
+        "To bring the Lord Christ down;",
+        "In vain we search the lowest deeps,",
+        "For him no depths can drown."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "But warm, so tender, even yet",
+        "A present help is He;",
+        "And faith has still its Olivet,",
+        "And love its Galilee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The healing of His seamless dress",
+        "Is by our beds of pain;",
+        "We touch Him in life’s throng and press,",
+        "And we are whole again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Through Him the first fond prayers are said,",
+        "Our lips of childhood frame;",
+        "The last low whispers of our dead",
+        "Are burdened with His name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "O Lord and Master of us all:",
+        "Whate’er our names or sign,",
+        "We own Thy sway, we hear Thy call,",
+        "We test our lives by Thine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

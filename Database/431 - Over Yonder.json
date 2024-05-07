@@ -1,0 +1,67 @@
+{
+  "Number": 431,
+  "Title": "Over Yonder",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come let us sing of homeland,",
+        "Down by the crystal sea;",
+        "Wonderful land where Jesus",
+        "Buildeth a mansion for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Over yonder, down by the crystal sea,",
+        "down              by the crystal sea,",
+        "Over yonder, there’s where I long to be,",
+        "There’s            where I long to be,",
+        "No more sorrow, toil, grief, nor care,",
+        "In the homeland bright and fair,",
+        "Over, over there.",
+        "Over there."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Water of life there floweth,",
+        "Fruit in abundant store;",
+        "Citizens of that country",
+        "Hunger and thirst never more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come go with me to homeland,",
+        "Jesus invites you there;",
+        "Help spread the invitation,",
+        "Tell it to men everywhere."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

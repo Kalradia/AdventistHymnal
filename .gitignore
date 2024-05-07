@@ -65,6 +65,9 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
+# Rider
+.idea/
+
 # Click-Once directory
 publish/
 

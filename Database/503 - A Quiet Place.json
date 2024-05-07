@@ -1,0 +1,32 @@
+{
+  "Number": 503,
+  "Title": "A Quiet Place",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 14916,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a quiet place,",
+        "Far from the rapid pace where God",
+        "can soothe my troubled mind.",
+        "Sheltered by tree and flow’r,",
+        "There in my quiet hour with Him my",
+        "cares are left behind.",
+        "Whether a garden small,",
+        "Or on a mountain tall,",
+        "New strength and courage there I find;",
+        "Then from this quiet place",
+        "I go prepared to face a new day",
+        "With love for all mankind."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

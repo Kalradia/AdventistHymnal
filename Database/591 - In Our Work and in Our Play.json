@@ -1,0 +1,56 @@
+{
+  "Number": 591,
+  "Title": "In Our Work and in Our Play",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "In our work and in our play,",
+        "Jesus, ever with us stay;",
+        "May be always strive to be",
+        "True and faithful unto Thee.",
+        "Then we truthfully can sing,",
+        "We are children of the King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "May we in Thy strength subdue",
+        "Evil tempers, words untrue,",
+        "Thoughts impure, and deeds unkind,",
+        "All things hateful to Thy mind.",
+        "Then we truthfully can sing,",
+        "We are children of the King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Children of the King are we!",
+        "May we loyal to Him be;",
+        "Try to please Him every day,",
+        "In our work and in our play.",
+        "Then we truthfully can sing,",
+        "We are children of the King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

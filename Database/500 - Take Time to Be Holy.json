@@ -1,0 +1,79 @@
+{
+  "Number": 500,
+  "Title": "Take Time to Be Holy",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Take time to be holy,",
+        "speak oft with thy Lord;",
+        "abide in him always,",
+        "and feed on his word.",
+        "Make friends of God’s children,",
+        "help those who are weak,",
+        "forgetting in nothing",
+        "his blessing to seek."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Take time to be holy,",
+        "the world rushes on;",
+        "spend much time in secret",
+        "with Jesus alone.",
+        "By looking to Jesus,",
+        "like him thou shalt be;",
+        "thy friends in thy conduct",
+        "his likeness shall see."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Take time to be holy,",
+        "let him be thy guide,",
+        "and run not before him,",
+        "whatever betide.",
+        "In joy or in sorrow,",
+        "still follow the Lord,",
+        "and, looking to Jesus,",
+        "still trust in his word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Take time to be holy,",
+        "be calm in thy soul,",
+        "each thought and each motive",
+        "beneath his control.",
+        "Thus led by his spirit",
+        "to fountains of love,",
+        "thou soon shalt be fitted",
+        "for service above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

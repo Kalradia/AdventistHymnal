@@ -1,0 +1,63 @@
+{
+  "Number": 166,
+  "Title": "Christ the Lord Is Risen Today",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christ the Lord is risen today, Alleluia!",
+        "Sons of man and angels say, Alleluia!",
+        "Raise your joys and triumphs high, Alleluia!",
+        "Sing, ye heavens, and earth reply, Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lives again our glorious King, Alleluia!",
+        "Where, O death, is now thy sting? Alleluia!",
+        "Once he died our souls to save, Alleluia!",
+        "Where’s thy victory, boasting grave? Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Love’s redeeming work is done, Alleluia!",
+        "Fought the fight, the battle won, Alleluia!",
+        "Death in vain forbids him rise, Alleluia!",
+        "Christ has opened paradise, Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Soar we now where Christ has led, Alleluia!",
+        "Following our exalted Head, Alleluia!",
+        "Made like him, like him we rise, Alleluia!",
+        "Ours the cross, the grave, the skies, Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

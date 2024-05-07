@@ -1,0 +1,89 @@
+{
+  "Number": 609,
+  "Title": "Am I a Soldier of the Cross",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Am I a soldier of the cross,",
+        "a follower of the Lamb,",
+        "and shall I fear to own his cause,",
+        "or blush to speak his name?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Must I be carried to the skies",
+        "on flowery beds of ease,",
+        "while others fought to win the prize,",
+        "and sailed through bloody seas?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Are there no foes for me to face?",
+        "Must I not stem the flood?",
+        "Is this vile world a friend to grace,",
+        "to help me on to God?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Sure I must fight, if I would reign;",
+        "increase my courage, Lord",
+        "I’ll bear the toil, endure the pain,",
+        "supported by thy word"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Thy saints in all this glorious war",
+        "shall conquer though they die;",
+        "they see the triumph from afar,",
+        "by faith they bring it nigh"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "When that illustrious day shall rise,",
+        "and all thy armies shine",
+        "in robes of victory through the skies,",
+        "the glory shall be thine"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Number": 563,
+  "Title": "Praise and Thanksgiving",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Praise and thanksgiving let everyone bring",
+        "Unto our Father for every good thing.",
+        "All together joyfully sing!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

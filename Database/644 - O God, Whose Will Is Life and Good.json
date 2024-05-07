@@ -1,0 +1,63 @@
+{
+  "Number": 644,
+  "Title": "O God, Whose Will Is Life and Good",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O God, whose will is life and good",
+        "For all of mortal breath:",
+        "Unite in bonds of servanthood",
+        "All those who strive with death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Make strong their hands and hearts and wills",
+        "To drive disease afar,",
+        "To strive against the body’s ills",
+        "And wage Your healing war."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "By healing of the sick and blind,",
+        "Christ’s mercy they proclaim,",
+        "Make known the great physician’s mind,",
+        "Affirm the Saviour’s name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Before them set Your gracious will,",
+        "That they, with heart and soul,",
+        "To You may consecrate their skill",
+        "And make the sufferer whole."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

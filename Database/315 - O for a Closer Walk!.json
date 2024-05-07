@@ -1,0 +1,63 @@
+{
+  "Number": 315,
+  "Title": "O for a Closer Walk!",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O for a closer walk with God,",
+        "A calm and heavenly frame,",
+        "A light to shine upon the road",
+        "That leads me to the Lamb!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Return, O holy Dove, return,",
+        "Sweet messenger of rest!",
+        "I hate the sins that made Thee mourn",
+        "And drove Thee from my breast."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "What peaceful hours I once enjoyed!",
+        "How sweet their memory still!",
+        "But they have left an aching void",
+        "The world can never fill."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The dearest idol I have known,",
+        "What-e’er that idol be,",
+        "Help me to tear it from Thy throne,",
+        "And worship only Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

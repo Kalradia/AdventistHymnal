@@ -1,0 +1,63 @@
+{
+  "Number": 129,
+  "Title": "As It Fell Upon a Night",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 91166,
+  "Stanzas": [
+    {
+      "Lines": [
+        "As it fell upon a night",
+        "In the winter weather,",
+        "Angels bright in starry height",
+        "Began to sing together."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Shepherds sleeping on the plain",
+        "Woke to see the glory,",
+        "All amazed they stood and gazed",
+        "And heard the angels’ story."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Unto you a child is born",
+        "In a manger lowly,",
+        "Humble, He, yet born to be",
+        "The King of Love most holy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Happy angels from afar,",
+        "Cease your singing never!",
+        "In excelsis gloria!",
+        "Forever and forever."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

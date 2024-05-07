@@ -1,0 +1,76 @@
+{
+  "Number": 372,
+  "Title": "How Beauteous Are Their Feet",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "How beauteous are their feet",
+        "Who stand on Zion’s hill;",
+        "Who bring salvation on their tongues,",
+        "And words of peace reveal!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "How charming is their voice,",
+        "So sweet the tidings are:",
+        "“Zion, behold thy Saviour King;",
+        "He reigns and triumphs here!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "How happy are our ears,",
+        "That hear the joyful sound",
+        "Which kings and prophets waited for,",
+        "And sought, but never found!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "How blessed are our eyes,",
+        "That see this heavenly light;",
+        "Prophets and kings desired it long,",
+        "But died without the sight!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "The watchmen join their voice,",
+        "And tuneful notes employ;",
+        "Jerusalem breaks forth in songs,",
+        "And deserts learn the joy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

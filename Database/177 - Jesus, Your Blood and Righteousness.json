@@ -1,0 +1,63 @@
+{
+  "Number": 177,
+  "Title": "Jesus, Your Blood and Righteousness",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, your blood and righteousness",
+        "My beauty are, my glorious dress;",
+        "Mid flaming worlds, in these arrayed,",
+        "With joy shall I lift up my head."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Bold shall I stand in that great day,",
+        "Cleansed and redeemed, no debt to pay;",
+        "For by your cross absolved I am",
+        "From sin and guilt, from fear and shame."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, I believe your precious blood,",
+        "Which at the mercy seat of God",
+        "Pleads for the captives’ liberty,",
+        "Was also shed in love for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When from the dust of death I rise",
+        "To claim my mansion in the skies,",
+        "This then shall be my only plea:",
+        "Christ Jesus lived and died for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

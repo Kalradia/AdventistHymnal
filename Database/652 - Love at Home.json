@@ -1,0 +1,62 @@
+{
+  "Number": 652,
+  "Title": "Love at Home",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is beauty all around, When there’s love at home;",
+        "There is joy in every sound, When there’s love at home.",
+        "Peace and plenty here abide, Smiling fair on every side;",
+        "Time doth softly, sweetly glide, When there’s love at home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Love at home, love at home;",
+        "Time doth softly, sweetly glide,",
+        "When there’s love at home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Kindly heaven smiles above, When there’s love at home;",
+        "All the earth is fill’d with love, When there’s love at home.",
+        "Sweeter sings the brooklet by, Brighter beams the azure sky;",
+        "O, there’s One who smiles on high When there’s love at home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Jesus, make me wholly Thine, Then there’s love at home;",
+        "May Thy sacrifice be mine, Then there’s love at home.",
+        "Safely from all harm I’ll rest, With no sinful care distress’d,",
+        "Thro’ Thy tender mercy blessed, When there’s love at home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

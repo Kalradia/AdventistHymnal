@@ -1,0 +1,63 @@
+{
+  "Number": 287,
+  "Title": "Softly and Tenderly",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Softly and tenderly Jesus is calling,",
+        "calling for you and for me;",
+        "see, on the portals he’s waiting and watching,",
+        "watching for you and for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come home, come home;",
+        "ye who are weary come home;",
+        "earnestly, tenderly, Jesus is calling,",
+        "calling, O sinner, come home!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Why should we tarry when Jesus is pleading,",
+        "pleading for you and for me?",
+        "Why should we linger and heed not his mercies,",
+        "mercies for you and for me?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Think of the wonderful love he has promised,",
+        "promised for you and for me!",
+        "Though we have sinned, he has mercy and pardon,",
+        "pardon for you and for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

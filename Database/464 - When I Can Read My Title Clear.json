@@ -1,0 +1,45 @@
+{
+  "Number": 464,
+  "Title": "When I Can Read My Title Clear",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When I can read my title clear",
+        "To mansions in the skies",
+        "I’ll bid farewell to every fear,",
+        "And wipe my weeping eyes;",
+        "And wipe my weeping eyes,",
+        "And wipe my weeping eyes,",
+        "I’ll bid farewell to every fear,",
+        "And wipe my weeping eyes."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Should earth against my soul engage,",
+        "And fiery darts be hurled,",
+        "Then I can smile at Satan’s rage,",
+        "And face a frowning world;",
+        "And face a frowning world,",
+        "And face a frowning world,",
+        "Then I can smile at Satan’s rage,",
+        "And face a frowning world."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

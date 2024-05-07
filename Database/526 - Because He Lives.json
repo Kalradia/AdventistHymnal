@@ -1,0 +1,63 @@
+{
+  "Number": 526,
+  "Title": "Because He Lives",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 16880,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God sent His Son,",
+        "they called Him Jesus,",
+        "He came to love,",
+        "heal, and forgive;",
+        "He lived and died",
+        "to buy my pardon,",
+        "An empty grave is there to prove",
+        "my Saviour lives."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Because He lives",
+        "I can face tomorrow,",
+        "Because He lives",
+        "all fear is gone;",
+        "Because I know",
+        "He holds the future.",
+        "And life is worth the living",
+        "just because He lives."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "How sweet to hold",
+        "a newborn baby,",
+        "And feel the pride,",
+        "and joy He gives;",
+        "But greater still",
+        "the calm assurance,",
+        "This child can face uncertain days",
+        "because He lives."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus"
+  ]
+}

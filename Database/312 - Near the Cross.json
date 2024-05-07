@@ -1,0 +1,75 @@
+{
+  "Number": 312,
+  "Title": "Near the Cross",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, keep me near the cross;",
+        "there a precious fountain,",
+        "free to all, a healing stream,",
+        "flows from Calvary’s mountain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In the cross, in the cross,",
+        "be my glory ever,",
+        "till my raptured soul shall find",
+        "rest beyond the river."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Near the cross, a trembling soul,",
+        "love and mercy found me;",
+        "there the bright and morning star",
+        "sheds its beams around me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Near the cross! O Lamb of God,",
+        "bring its scenes before me;",
+        "help me walk from day to day",
+        "with its shadow o’er me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Near the cross I’ll watch and wait,",
+        "hoping, trusting ever,",
+        "till I reach the golden strand"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

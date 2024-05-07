@@ -1,0 +1,63 @@
+{
+  "Number": 443,
+  "Title": "There’ll Be No Sorrow There",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There’ll be no night in heaven,",
+        "In that blest world above;",
+        "No anxious toil, no weary hours;",
+        "For labour there is love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There’ll be no sorrow there,",
+        "There’ll be no sorrow there;",
+        "In heaven above, where all is love,",
+        "There’ll be no sorrow there."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There’ll be no grief in heaven;",
+        "For life is one glad day,",
+        "And tears are those of former things",
+        "Which all have passed away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There’ll be no sin in heaven;",
+        "Behold that blessed throng,",
+        "All holy in there spotless robes,",
+        "All holy in their song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

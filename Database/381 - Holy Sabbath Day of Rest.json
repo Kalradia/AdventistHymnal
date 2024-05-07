@@ -1,0 +1,76 @@
+{
+  "Number": 381,
+  "Title": "Holy Sabbath Day of Rest",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Holy Sabbath day of rest,",
+        "By our Master richly blest,",
+        "God created and divine,",
+        "Set aside for holy time."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Yes, the holy Sabbath rest,",
+        "By our God divinely blest,",
+        "It to us a sign shall be",
+        "Throughout all eternity."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Seek not pleasures of this earth,",
+        "With its folly, noise, and mirth,",
+        "There are better things in store,",
+        "Over on the other shore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "As the Sabbath draweth on",
+        "Friday eve at set of sun,",
+        "Christian household then should meet,",
+        "Sing and pray at Jesus’ feet."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Asking Him for saving grace,",
+        "Also vict’ry in the race,",
+        "And to help us by His pow’r,",
+        "To keep holy every hour."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 654,
+  "Title": "Lord, Bless Our Homes",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, bless our homes with peace and love and laughter,",
+        "With understanding and with loyalty.",
+        "May we together follow Christ the Master",
+        "And know the blessing of His sov’reignty."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "May every heart receive His loving spirit",
+        "And know the t4ruth that makes life truly free;",
+        "Then, in that spirit may we live united,",
+        "And find in God our deep security."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Forgive the hurts our selfishness inflicted",
+        "On whose we love and those who love us best.",
+        "Christ, heal the scars and draw us all together",
+        "In Him whose will is peace and joy and rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Father, in gratitude for homes and loved one,",
+        "We open now our hearts to all mankind.",
+        "Grand us Your spirit love for one another",
+        "So in Your peace may we our concord find."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

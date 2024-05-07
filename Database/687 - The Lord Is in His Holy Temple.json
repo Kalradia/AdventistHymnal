@@ -1,0 +1,24 @@
+{
+  "Number": 687,
+  "Title": "The Lord Is in His Holy Temple",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord is in HIs holy temple,",
+        "The Lord is in His holy temple,",
+        "Let all the earth be silent",
+        "be silent before Him."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

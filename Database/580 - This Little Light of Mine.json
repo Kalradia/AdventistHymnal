@@ -1,0 +1,50 @@
+{
+  "Number": 580,
+  "Title": "This Little Light of Mine",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "This little light of mine, I’m going to let it shine, (shine)",
+        "This little light of mine, I’m going to let it shine, (shine)",
+        "This little light of mine, I’m going to let it shine,",
+        "Let it shine, let it shine, let it shine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Every where I go, I’m going to let it shine, (shine)",
+        "Every where I go, I’m going to let it shine, (shine)",
+        "Every where I go, I’m going to let it shine,",
+        "Let it shine, let it shine, let it shine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All through the night, I’m going to let it shine, (shine)",
+        "All through the night, I’m going to let it shine, (shine)",
+        "All through the night, I’m going to let it shine,",
+        "Let it shine, let it shine, let it shine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

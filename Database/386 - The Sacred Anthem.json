@@ -1,0 +1,92 @@
+{
+  "Number": 386,
+  "Title": "The Sacred Anthem",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The sacred anthem slowly rang",
+        "Across the fields of praise,",
+        "When earth’s first Sabbath made complete",
+        "All creatures and all days."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Walking with God, there,",
+        "Woman and man together share",
+        "The blessed Sabbath mood;",
+        "And in that green and golden world",
+        "Know all God’s works are good."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "But now in our diminished lives",
+        "We sing a blemished song;",
+        "The earth is worn and disarrayed",
+        "And all our work goes wrong."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Still in our worship,",
+        "Joining in praise and fellowship,",
+        "By Sabbath radiance blessed,",
+        "We put our doubt and fear away",
+        "And rest within God’s rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "And arching over time and space",
+        "The Lord of Sabbaths wills",
+        "Renewal for the weary earth",
+        "And healing for our ills."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Hearts will rejoice then;",
+        "There will be no more weeping, when",
+        "We know and shall be known.",
+        "With hosts of the redeemed we’ll sing",
+        "Around God’s shining throne."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Number": 504,
+  "Title": "Lord Jesus, Think on Me",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord Jesus, think on me, And purge away my sin;",
+        "From earth-born passions set me free, And make me pure within."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord Jesus, think on me, With care and woe oppressed;",
+        "Let me Thy loving servant be, And taste Thy promised rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord Jesus, think on me, Nor let me go astray;",
+        "Through darkness and perplexity Point Thou the heavenly way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord Jesus, think on me, That I may sing above",
+        "To Father, Spirit, and to Thee, The strains of praise and love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

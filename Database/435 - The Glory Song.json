@@ -1,0 +1,63 @@
+{
+  "Number": 435,
+  "Title": "The Glory Song",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When all my labours and trails are o’er,",
+        "And I am safe on that beautiful shore,",
+        "Just to be near the Lord I adore,",
+        "Will through the ages be glory for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O that will be glory for me,",
+        "Glory for me, Glory for me;",
+        "When by His grace I shall look on His face,",
+        "That will be glory, be glory for me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "When, by the gift of His infinite grace,",
+        "I am accorded in heaven a place,",
+        "Just to be there and to look on His face,",
+        "Will through the ages be glory for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Friends will be there I have loved long ago;",
+        "Joy like a river around me will flow,",
+        "Yet, just a smile form my Saviour, I know,",
+        "Will through the ages be glory for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

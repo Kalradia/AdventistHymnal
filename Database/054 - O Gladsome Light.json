@@ -1,0 +1,56 @@
+{
+  "Number": 54,
+  "Title": "O Gladsome Light",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O gladsome light,",
+        "Of God the Father’s face,",
+        "The eternal splendour wearing;",
+        "Celestial, holy, blest,",
+        "Our Saviour, Jesus Christ,",
+        "Joyful in Thine appearing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Now e’er day fadeth quite,",
+        "We see the evening light,",
+        "Our wonted hymn outpouring;",
+        "Father of might unknown,",
+        "Thee His incarnate Son,",
+        "And Holy Spirit adoring."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "To Thee of right belongs",
+        "All praise of holy songs,",
+        "O Son of God, life giver;",
+        "Thee, therefore, O most high,",
+        "The world doth glorify",
+        "And shall exalt forever."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

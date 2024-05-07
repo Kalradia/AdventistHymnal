@@ -1,0 +1,63 @@
+{
+  "Number": 42,
+  "Title": "Now That the Daylight Fills the Sky",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Now that the daylight fills the sky,",
+        "We lift our hearts to God on high,",
+        "That He, in all we do or say,",
+        "Would keep us free from harm today;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Would guard our hearts and tongues from strife;",
+        "From anger’s din would shield our life;",
+        "From evil sights would turn our eyes,",
+        "And close our ears to vanities;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "So we, when this new day is gone",
+        "And night in turn is drawing on,",
+        "With conscience by the world unstained",
+        "Shall praise His name for vict’ry gained."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "“All praise to You, creator Lord!",
+        "All praise to You, eternal Word!",
+        "All praise to You, O Spirit wise!”",
+        "We sing as daylight fills the skies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

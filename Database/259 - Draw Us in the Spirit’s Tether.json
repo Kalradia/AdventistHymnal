@@ -1,0 +1,56 @@
+{
+  "Number": 259,
+  "Title": "Draw Us in the Spirit’s Tether",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Draw us in the Spirit’s tether,",
+        "For when humbly in Thy name,",
+        "Two or three are met together",
+        "Thou are in the midst of them;",
+        "Alleluia! Alleluia!",
+        "Touch we now Thy garment’s hem."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "As the brethren used to gather",
+        "In the name of Christ to sup,",
+        "Then with thanks to God the Father",
+        "Break the bread and bless the cup,",
+        "Alleluia! Alleluia!",
+        "So knit Thou our friendship up."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All our meals and all our living",
+        "Make as sacraments of Thee,",
+        "That by caring, helping, giving",
+        "We may true disciples be.",
+        "Alleluia! Alleluia!",
+        "We will serve Thee faithfully."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 16,
+  "Title": "All People That on Earth Do Well",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All people that on earth do dwell,",
+        "sing to the Lord with cheerful voice.",
+        "Him serve with mirth, his praise forth tell;",
+        "come ye before him and rejoice."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Know that the Lord is God indeed;",
+        "without our aid he did us make;",
+        "we are his folk, he doth us feed,",
+        "and for his sheep he doth us take."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O enter then his gates with praise;",
+        "approach with joy his courts unto;",
+        "praise, laud, and bless his name always,",
+        "for it is seemly so to do."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "For why! the Lord our God is good;",
+        "his mercy is forever sure;",
+        "his truth at all times firmly stood,",
+        "and shall from age to age endure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

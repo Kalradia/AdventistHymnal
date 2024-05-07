@@ -1,0 +1,63 @@
+{
+  "Number": 402,
+  "Title": "By Christ Redeemed",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "By Christ redeemed, In Christ restored,",
+        "We keep the memory adored,",
+        "And show the death of our dear Lord,",
+        "Until He come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "His broken body in our stead is here,",
+        "In his memorial bread;",
+        "And so our feeble love is fed,",
+        "Until He come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "His fearful drops of agony,",
+        "His lifeblood shed for us we see;",
+        "The wine shall tell the mystery,",
+        "Until He come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And thus that dark betrayal night,",
+        "With the last advent we unite",
+        "The shame, the glory, by this rite,",
+        "Until He come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

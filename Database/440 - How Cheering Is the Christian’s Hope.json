@@ -1,0 +1,63 @@
+{
+  "Number": 440,
+  "Title": "How Cheering Is the Christian’s Hope",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "How cheering is the Christian’s hope,",
+        "While toiling here below!",
+        "It bouys us up while this passing through",
+        "This wilderness of woe,"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "It bouys us up while this passing through",
+        "This wilderness of woe,",
+        "It bouys us up while passing through",
+        "This wilderness of woe."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "It points us to a land of rest,",
+        "Where saints with Christ will reign;",
+        "Where we shall meet the loved of earth,",
+        "And never part again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Fly, lingering moments, fly, O, fly,",
+        "Dear Saviour, quickly come!",
+        "We long to see Thee as Thou art,",
+        "And reach that blissful home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

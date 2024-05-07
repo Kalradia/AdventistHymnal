@@ -1,0 +1,63 @@
+{
+  "Number": 197,
+  "Title": "The King of Love My Shepherd Is",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The King of love my Shepherd is,",
+        "Whose goodness faileth never;",
+        "I nothing lack if I am His,",
+        "And He is mine forever."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Where streams of living water flow",
+        "My ransomed soul He leadeth,",
+        "And, where the verdant pastures grow,",
+        "With food celestial feedeth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Perverse and foolish, oft I strayed,",
+        "But yet in love He sought me,",
+        "And on His shoulder gently laid,",
+        "And home, rejoicing, brought me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And so through all the length of days",
+        "Thy goodness faileth never;",
+        "Good Shepherd! I would sing Thy praise",
+        "Within Thy house forever."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

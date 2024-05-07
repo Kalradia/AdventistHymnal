@@ -1,0 +1,59 @@
+{
+  "Number": 68,
+  "Title": "On Our Way Rejoicing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "On our way rejoicing",
+        "Gladly let us go;",
+        "Conquer’d hath our Leader,",
+        "Vanquish’d is the foe.",
+        "Christ without, our safety;",
+        "Christ within, our joy;",
+        "Who, if we be faithful,",
+        "Can our hope destroy?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "On our way rejoicing",
+        "As we forward move,",
+        "Hearken to our praises,",
+        "O blest God of love!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Unto God the Father",
+        "Joyful songs we sing,",
+        "Unto God the Saviour",
+        "Thankful hearts we bring,",
+        "Unto God the Spirit",
+        "Bow we and adore,",
+        "On our way rejoicing",
+        "Now and evermore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus"
+  ]
+}

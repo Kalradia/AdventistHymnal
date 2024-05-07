@@ -1,0 +1,24 @@
+{
+  "Number": 691,
+  "Title": "Lead Me, Lord",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lead me, Lord, lead me in thy righteousness;",
+        "make thy way plain before my face.",
+        "For it is thou, Lord, thou, Lord only,",
+        "that makest me dwell in safety."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

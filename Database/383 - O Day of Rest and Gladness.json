@@ -1,0 +1,62 @@
+{
+  "Number": 383,
+  "Title": "O Day of Rest and Gladness",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O day of rest and gladness,",
+        "O day of joy and light,",
+        "O balm of care and sadness,",
+        "Most beautiful, most bright,",
+        "On thee the high and lowly",
+        "Before th’ eternal throne",
+        "Sing, “Holy, holy, holy,”",
+        "To the great Three in One."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou art a port protected",
+        "From storms that round us rise;",
+        "A garden intersected",
+        "With streams of paradise;",
+        "Thou art a cooling fountain",
+        "In life’s dry dreary sand;",
+        "From Thee, like Pisgah’s mountain,",
+        "We view our promised land."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "A day of sweet reflection",
+        "Thou art, a day of love,",
+        "A day to raise affection",
+        "From earth to things above.",
+        "New graces ever gaining",
+        "From this our day of rest,",
+        "We seek the rest remaining",
+        "To mansions of the blest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

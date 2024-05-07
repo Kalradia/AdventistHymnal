@@ -1,0 +1,72 @@
+{
+  "Number": 147,
+  "Title": "Christ Upon the Mountain Peak",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 4720096,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christ upon the mountain peak",
+        "Stands alone in glory blazing;",
+        "Let us, if we dare to speak,",
+        "With the saints and angels praise Him:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Alleluia, Alleluia, Alleluia."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Trembling at His feet we saw",
+        "Moses and Elijah speaking;",
+        "All the prophets and the law",
+        "Shout thro’ them their joyful greeting:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Swift the cloud of glory came,",
+        "God proclaiming in the thunder",
+        "Jesus as His Son by name;",
+        "Nations cry aloud in wonder!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "This is God’s beloved Son:",
+        "Law and prophets fade before Him;",
+        "First and last, the only One,",
+        "Let creation now adore Him."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

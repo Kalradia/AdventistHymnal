@@ -1,0 +1,56 @@
+{
+  "Number": 646,
+  "Title": "To the Name That Brings Salvation",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "To the name that brings salvation",
+        "Let the nations bow the head;",
+        "Let them kneel in adoration",
+        "When this name of names is said;",
+        "Let them pray for restoration",
+        "Of all things in Christ the head."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He through every generation",
+        "Rules in endless majesty;",
+        "May the kings of every nation",
+        "Now foreswear their enmity,",
+        "And with humble veneration",
+        "In the love of God agree."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, we pray for upright rulers:",
+        "Guard them surely in their need",
+        "From the vanity of power",
+        "And the emptiness of greed;",
+        "Let them see the truth of lowness,",
+        "And on justice let them feed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

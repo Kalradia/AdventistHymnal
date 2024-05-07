@@ -1,0 +1,50 @@
+{
+  "Number": 406,
+  "Title": "Love Consecrates the Humblest Act",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Love consecrates the humblest act",
+        "And haloes mercy’s deeds;",
+        "It sheds a benediction sweet",
+        "And hallows human needs."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "When in the shadow of the cross",
+        "Christ knelt and washed the feet",
+        "Of His disciples, He gave us",
+        "A sign of love complete."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Love serves and willing, stoops to serve;",
+        "What Christ in love so true",
+        "Has freely done for one and all,",
+        "Let us now gladly do!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 494,
+  "Title": "We Would See Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "“We would see Jesus;” for the shadows lengthen",
+        "Across the little landscape of our life;",
+        "We would see Jesus, our weak faith to strengthen",
+        "For the last conflict, in this mortal strife."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "“We would see Jesus,” Rock of our salvation,",
+        "Where on our feet were set with sovereign grace;",
+        "Not life, nor death, with all their agitation,",
+        "Can thence remove us, gazing on His face."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "“We would see Jesus;” other lights are paling,",
+        "Which for long years we did rejoice to see;",
+        "The blessings of this sinful world are failing;",
+        "We would not mourn them, in exchange for Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "“We would see Jesus;” this is all we’re needing-",
+        "Strength, joy and willingness come with the sight;",
+        "We would see Jesus, dying, risen, pleading,",
+        "Soon to return and end this mortal night!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

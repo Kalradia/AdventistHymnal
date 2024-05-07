@@ -1,0 +1,79 @@
+{
+  "Number": 512,
+  "Title": "Just When I Need Him Most",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Just when I need Him, Jesus is near,",
+        "Just when I falter, just when I fear;",
+        "Ready to help me, ready to cheer,",
+        "Just when I need Him most.",
+        "Just when I need Him most,",
+        "Just when I need Him most,",
+        "Jesus is near to comfort and cheer,",
+        "Just when I need Him most."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Just when I need Him, Jesus is true,",
+        "Never forsaking, all the way through,",
+        "Giving for burdens pleasures anew,",
+        "Just when I need Him most.",
+        "Just when I need Him most,",
+        "Just when I need Him most,",
+        "Jesus is near to comfort and cheer,",
+        "Just when I need Him most."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Just when I need Him, Jesus is strong,",
+        "Bearing my burdens all the day long;",
+        "For all my sorrow giving a song,",
+        "Just when I need Him most.",
+        "Just when I need Him most,",
+        "Just when I need Him most,",
+        "Jesus is near to comfort and cheer,",
+        "Just when I need Him most."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Just when I need Him, He is my all,",
+        "Answering when upon Him I call;",
+        "Tenderly watching lest I should fall,",
+        "Just when I need Him most.",
+        "Just when I need Him most,",
+        "Just when I need Him most,",
+        "Jesus is near to comfort and cheer,",
+        "Just when I need Him most."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

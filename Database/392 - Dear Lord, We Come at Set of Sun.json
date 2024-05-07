@@ -1,0 +1,63 @@
+{
+  "Number": 392,
+  "Title": "Dear Lord, We Come at Set of Sun",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Dear Lord, we come at set of sun,",
+        "And at Your feet we kneel",
+        "To worship You, Creator, King,",
+        "This day, Your sign and seal."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Our earthly tasks we lay aside,",
+        "According to Your Word,",
+        "To enter now Your holy rest,",
+        "The Sabbath of the Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sweet Sabbath rest, your sacred hours",
+        "Are as a golden chain",
+        "That reaches back to Eden’s gate",
+        "And points us home again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And when this earth shall be renewed,",
+        "And sin and death destroyed,",
+        "Shall all redeemed each Sabbath day",
+        "Still meet to praise their God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

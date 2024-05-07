@@ -1,0 +1,25 @@
+{
+  "Number": 688,
+  "Title": "Surely, Surely",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Surely, surely the Lord has been here,",
+        "Surely angels still linger near;",
+        "I hear music soft on my ear,",
+        "I feel His Spirit,",
+        "I have no fear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

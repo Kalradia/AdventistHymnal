@@ -1,0 +1,76 @@
+{
+  "Number": 264,
+  "Title": "O for That Flame of Living Fire",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O for that flame of living fire",
+        "Which shone so bright in saints of old;",
+        "Which bade their souls to heaven aspire,",
+        "Calm in distress, in danger bold!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Where is that spirit, Lord, which dwelt",
+        "In Abram’s breast, and sealed Him Thine?",
+        "Which made Paul’s heart with sorrow melt,",
+        "And glow with energy divine?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "That spirit which from age to age",
+        "Proclaimed Thy love, and taught Thy ways?",
+        "Brightened Isaiah’s vivid page,",
+        "And breathed in David’s hallowed lays?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Is not Thy grace as mighty now",
+        "As when Elijah felt its power?",
+        "When glory beamed from Moses’ brow,",
+        "Or Job endured the trying hour?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Remember, Lord, the ancient days;",
+        "Renew Thy work, Thy grace restore;",
+        "And while to Thee our hearts we raise,",
+        "On us Thy Holy Spirit pour."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

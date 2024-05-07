@@ -1,0 +1,71 @@
+{
+  "Number": 59,
+  "Title": "Great Our Joy as Now We Gather",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 3578500,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Great our joy as now we gather",
+        "Where the Master makes us one:",
+        "Where we worship God the Father",
+        "Thro’ the Spirit of His Son.",
+        "All who search for His church",
+        "Find it where His will is done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Precious is the tie that binds us",
+        "To our God when faith grows cold;",
+        "Precious all that now reminds us",
+        "He is still our safe stronghold.",
+        "Faithful love serves to prove",
+        "Here the Shepherd has His fold."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "May we learn from Christ’s example",
+        "How to use this house of prayer:",
+        "He who loved and cleansed His temple",
+        "Wants us all to worship there.",
+        "God the Son shuts out none:",
+        "In His kingdom all may share."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, inspire us with Your vision",
+        "Of a world which must be won!",
+        "Glorious is the church’s mission,",
+        "Long endeavoured, scarce begun!",
+        "Faithful now - this is how",
+        "God’s eternal will is done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 176,
+  "Title": "Hail the Day That Sees Him Rise",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hail the day that sees Him rise, Alleluia!",
+        "Glorious to His native skies; Alleluia!",
+        "Christ, awhile to mortals giv’n, Alleluia!",
+        "Enters now the highest heav’n! Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There the glorious triumph waits; Alleluia!",
+        "Lift your heads, eternal gates! Alleluia!",
+        "Wide unfold the radiant scene; Alleluia!",
+        "Take the King of glory in! Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "See! He lifts His hands above; Alleluia!",
+        "See! He shows the prints of love: Alleluia!",
+        "Hark! His gracious lips bestow, Alleluia!",
+        "Blessings on His Church below. Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord beyond our mortal sight, Alleluia!",
+        "Raise our hearts to reach Thy height, Alleluia!",
+        "There Thy face unclouded see, Alleluia!",
+        "Find our heav’n of heav’ns in Thee. Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 414,
+  "Title": "Fruitful Trees, the Spirit’s Sowing",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 4497893,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Fruitful trees, the Spirit’s sowing,",
+        "May we ripen and increase,",
+        "Fruit to life eternal growing,",
+        "Rich in love and joy and peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Laden branches freely bearing",
+        "Gifts the Giver loves to bless;",
+        "Here is fruit that grows by sharing,",
+        "Patience, kindness, gentleness."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Rooted deep in Christ, our Master,",
+        "Christ, our pattern and our goal,",
+        "Teach us, as the years fly faster,",
+        "Goodness, faith, and self control."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Fruitful trees, the Spirit’s tending,",
+        "May we grow till harvests cease;",
+        "Till we taste, in life unending,",
+        "Heaven’s love and joy and peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

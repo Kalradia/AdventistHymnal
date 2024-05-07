@@ -1,0 +1,50 @@
+{
+  "Number": 683,
+  "Title": "Jesus, Stand Among Us",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, stand among us",
+        "In Thy risen power;",
+        "Let this time of worship",
+        "Be a hallowed hour."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Breathe the Holy Spirit",
+        "Into every heart;",
+        "Bid the fears and sorrows",
+        "From each soul depart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Thus with quickened footsteps",
+        "We pursue our way,",
+        "Watching for the dawning",
+        "Of eternal day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

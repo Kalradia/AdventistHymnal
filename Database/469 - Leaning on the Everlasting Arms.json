@@ -1,0 +1,63 @@
+{
+  "Number": 469,
+  "Title": "Leaning on the Everlasting Arms",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "What a fellowship, what a joy divine,",
+        "leaning on the everlasting arms;",
+        "what a blessedness, what a peace is mine,",
+        "leaning on the everlasting arms."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Leaning, leaning,",
+        "safe and secure from all alarms;",
+        "leaning, leaning,",
+        "leaning on the everlasting arms."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "O how sweet to walk in this pilgrim way,",
+        "leaning on the everlasting arms;",
+        "O how bright the path grows from day to day,",
+        "leaning on the everlasting arms."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "What have I to dread, what have I to fear,",
+        "leaning on the everlasting arms?",
+        "I have blessed peace with my Lord so near,",
+        "leaning on the everlasting arms."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Number": 545,
+  "Title": "Saviour, Like a Shepherd",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Saviour, like a shepherd lead us,",
+        "much we need thy tenderest care;",
+        "in thy pleasant pastures feed us,",
+        "for our use thy folds prepare.",
+        "Blessed Jesus, blessed Jesus!",
+        "Thou hast bought us, thine we are.",
+        "Blessed Jesus, blessed Jesus!",
+        "Thou hast bought us, thine we are."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We are thine, thou dost befriend us,",
+        "be the guardian of our way;",
+        "keep thy flock, from sin defend us,",
+        "seek us when we go astray.",
+        "Blessed Jesus, blessed Jesus!",
+        "Hear, O hear us when we pray.",
+        "Blessed Jesus, blessed Jesus!",
+        "Hear, O hear us when we pray."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Thou hast promised to receive us,",
+        "poor and sinful though we be;",
+        "thou hast mercy to relieve us,",
+        "grace to cleanse and power to free.",
+        "Blessed Jesus, blessed Jesus!",
+        "We will early turn to thee.",
+        "Blessed Jesus, blessed Jesus!",
+        "We will early turn to thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

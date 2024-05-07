@@ -1,0 +1,56 @@
+{
+  "Number": 157,
+  "Title": "Go to Dark Gethsemane",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Go to dark Gethsemane,",
+        "Ye who feel the tempter’s power",
+        "Your Redeemer’s conflict see.",
+        "Watch with him one bitter hour;",
+        "Turn not from his griefs away;",
+        "Learn from Jesus Christ to pray."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "See Him at the judgment hall,",
+        "Beaten, bound, reviled, arraigned;",
+        "See Him meekly bearing all;",
+        "Love to man His soul sustained!",
+        "Shun not suffering, shame, or loss;",
+        "Learn from him to bear the cross."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Calvary’s mournful mountain climb;",
+        "There, adoring at his feet,",
+        "Mark that miracle of time,",
+        "God’s own sacrifice complete.",
+        "“It is finished!” hear him cry;",
+        "Learn from Jesus Christ to die."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

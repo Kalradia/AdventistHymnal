@@ -1,0 +1,79 @@
+{
+  "Number": 557,
+  "Title": "Come, Ye Thankful People",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, ye thankful people, come,",
+        "Raise the song of harvest home;",
+        "All is safely gathered in,",
+        "Ere the winter storms begin.",
+        "God our Maker doth provide",
+        "For our wants to be supplied;",
+        "Come to God’s own temple, come;",
+        "Raise the song of harvest home!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We ourselves are God’s own field,",
+        "Fruit unto His praise to yield;",
+        "Wheat and tares together sown,",
+        "Unto joy or sorrow grown;",
+        "First the blade and then the ear,",
+        "Then the full corn shall appear;",
+        "Grant, O harvest Lord, that we",
+        "Wholesome grain and pure may be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "For the Lord our God shall come,",
+        "And shall take His harvest home;",
+        "From His field shall purge away",
+        "All that doth offend, that day;",
+        "Give His angels charge at last",
+        "In the fire the tares to cast;",
+        "But the fruitful ears to store",
+        "In His garner evermore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then, thou church triumphant, come,",
+        "Raise the song of harvest home;",
+        "All are safely gathered in,",
+        "Free from sorrow, free from sin,",
+        "There, forever purified,",
+        "In God’s garner to abide;",
+        "Come, ten thousand angels, come,",
+        "Raise the glorious harvest home!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

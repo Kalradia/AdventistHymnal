@@ -1,0 +1,75 @@
+{
+  "Number": 388,
+  "Title": "Don’t Forget the Sabbath",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Don’t forget the Sabbath,",
+        "The Lord our God hath blest,",
+        "Of all the week the brightest,",
+        "Of all the week the best;",
+        "It brings repose from labour,",
+        "It tells of joy divine,",
+        "Its beams of light descending,",
+        "With heavenly beauty shine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Welcome, welcome, ever welcome,",
+        "Blessed Sabbath day,",
+        "Welcome, welcome, ever welcome,",
+        "Blessed Sabbath day."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Keep the Sabbath holy,",
+        "And worship Him today,",
+        "Who said to His disciples,",
+        "“I am the living way;”",
+        "And if we meekly follow",
+        "Our Saviour here below,",
+        "He’ll give us of the fountain",
+        "Whose streams eternal flow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Day of sacred pleasure!",
+        "Its golden hours we’ll spend",
+        "In thankful hymns to Jesus,",
+        "The children’s dearest Friend;",
+        "O gentle loving, Saviour,",
+        "How good and kind Thou art,",
+        "How precious is Thy promise",
+        "To dwell in every heart!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

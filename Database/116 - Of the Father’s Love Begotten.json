@@ -1,0 +1,59 @@
+{
+  "Number": 116,
+  "Title": "Of the Father’s Love Begotten",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Of the Father’s love begotten,",
+        "Ere the worlds began to be,",
+        "He is Alpha and Omega,",
+        "He the source, the ending He,",
+        "Of the things that are, that have been,",
+        "And that future years shall see,",
+        "Evermore and evermore! Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O ye heights of heaven adore Him;",
+        "Angel hosts, His praises sing;",
+        "Powers, dominions, bow before Him,",
+        "And extol our God and King;",
+        "Let no tongue on earth be silent,",
+        "Every voice in concert ring,",
+        "Evermore and evermore! Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Christ, to Thee with God the Father",
+        "And, O Holy Ghost, to Thee,",
+        "Hymn and chant and high thanksgiving",
+        "And unwearied praises be.",
+        "Honour, glory, and dominion,",
+        "And eternal victory,",
+        "Evermore and evermore! Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

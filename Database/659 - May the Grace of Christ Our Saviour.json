@@ -1,0 +1,37 @@
+{
+  "Number": 659,
+  "Title": "May the Grace of Christ Our Saviour",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "May the grace of Christ our Saviour",
+        "And the Father’s boundless love,",
+        "With the Holy Spirit’s favour,",
+        "Rest upon them from above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thus may they abide in union",
+        "With each other and the Lord,",
+        "And possess, in sweet communion,",
+        "Joys which earth cannot afford."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

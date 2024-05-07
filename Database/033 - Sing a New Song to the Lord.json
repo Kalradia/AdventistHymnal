@@ -1,0 +1,64 @@
+{
+  "Number": 33,
+  "Title": "Sing a New Song to the Lord",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 142895,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sing a new song to the Lord,",
+        "He to whom wonders belong.",
+        "Rejoice in His triumph and tell of His power.",
+        "O sing a new song to the Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Now to the ends of the earth",
+        "See His salvation is shown.",
+        "And still He remembers His mercy and truth,",
+        "Unchanging in love to His own."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sing a new song and rejoice.",
+        "Publish His praises abroad.",
+        "Let voices in chorus with trumpet and horn,",
+        "Resound for the joy of the Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Join with the hills and the sea,",
+        "Thunders of praise to prolong.",
+        "In judgement and justice",
+        "He comes to the earth",
+        "O sing a new song to the Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

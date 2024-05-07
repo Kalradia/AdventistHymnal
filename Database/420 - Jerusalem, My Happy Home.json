@@ -1,0 +1,63 @@
+{
+  "Number": 420,
+  "Title": "Jerusalem, My Happy Home",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jerusalem, my happy home,",
+        "O how I long for thee!",
+        "When will my sorrows have an end,",
+        "The joys when shall I see?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The walls are all of precious stone,",
+        "Most glorious to behold;",
+        "Thy gates are richly set with pearl,",
+        "Thy streets are paved with gold."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Thy garden and thy pleasant walks",
+        "My study long have been;",
+        "Such dazzling views by human sight",
+        "Have never yet been seen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, help us by Thy mighty grace,",
+        "To keep in view the prize,",
+        "Till Thou dost come to take us home",
+        "To that blessed paradise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

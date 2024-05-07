@@ -1,0 +1,50 @@
+{
+  "Number": 52,
+  "Title": "Now the Day Is Over",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Now the day is over,",
+        "night is drawing nigh,",
+        "Shadows of the evening",
+        "steal across the sky."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Father, give the weary,",
+        "calm and sweet repose;",
+        "With Thy tenderest blessing",
+        "May our eyelids close."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Through the long night watches,",
+        "may thine angels spread",
+        "Their white wings above me,",
+        "watching round my bed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 462,
+  "Title": "Blessed Assurance, Jesus is Mine!",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Blessed assurance, Jesus is mine!",
+        "O what a foretaste of glory divine!",
+        "Heir of salvation, purchase of God,",
+        "born of his Spirit, washed in his blood."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "This is my story, this is my song,",
+        "praising my Saviour all the day long;",
+        "this is my story, this is my song,",
+        "praising my Saviour all the day long."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Perfect submission, perfect delight,",
+        "visions of rapture now burst on my sight;",
+        "angels descending bring from above",
+        "echoes of mercy, whispers of love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Perfect submission, all is at rest;",
+        "I in my Saviour am happy and blest,",
+        "watching and waiting, looking above,",
+        "filled with his goodness, lost in his love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

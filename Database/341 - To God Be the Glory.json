@@ -1,0 +1,65 @@
+{
+  "Number": 341,
+  "Title": "To God Be the Glory",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "To God be the glory, great things he hath done!",
+        "So loved he the world that he gave us his Son,",
+        "who yielded his life an atonement for sin,",
+        "and opened the lifegate that all may go in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Praise the Lord, praise the Lord,",
+        "let the earth hear his voice!",
+        "Praise the Lord, praise the Lord,",
+        "let the people rejoice!",
+        "O come to the Father thru Jesus the Son,",
+        "and give him the glory, great things he hath done!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "O perfect redemption, the purchase of blood,",
+        "to every believer the promise of God;",
+        "the vilest offender who truly believes,",
+        "that moment from Jesus a pardon receives."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Great things he hath taught us, great things he hath done,",
+        "and great our rejoicing thru Jesus the Son;",
+        "but purer, and higher, and greater will be",
+        "our wonder, our transport, when Jesus we see."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

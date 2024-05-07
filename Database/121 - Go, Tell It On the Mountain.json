@@ -1,0 +1,66 @@
+{
+  "Number": 121,
+  "Title": "Go, Tell It On the Mountain",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 7040771,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Go, tell it on the mountain,",
+        "Over the hills and everywhere:",
+        "Go, tell it on the mountain",
+        "That Jesus Christ is born!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "While shepherds kept their watching",
+        "O’er silent flocks by night,",
+        "Behold throughout the heavens",
+        "There shone a holy light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The shepherds feared and trembled",
+        "When lo! Above the earth",
+        "Rang out the angel chorus",
+        "That hailed our Saviour’s birth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Down in a lowly manger",
+        "The humble Christ was born,",
+        "And brought us God’s salvation",
+        "That blessed Christmas morn."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Chorus",
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

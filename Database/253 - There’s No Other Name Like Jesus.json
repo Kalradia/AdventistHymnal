@@ -1,0 +1,89 @@
+{
+  "Number": 253,
+  "Title": "There’s No Other Name Like Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There’s no other name like Jesus,",
+        "’Tis the dearest name we know,",
+        "’Tis the angel’s joy in heaven,",
+        "’Tis the Christian’s joy below."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Sweet name, (sweet name) dear name, (dear name)",
+        "There’s no other name like Jesus;",
+        "Sweet name, (sweet name) dear name, (dear name)",
+        "There’s no other name like Jesus."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There’s no other name like Jesus",
+        "When the heart with grief is sad,",
+        "There’s no other name like Jesus",
+        "When the heart is free and glad."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "’Tis the hope that I shall see Him",
+        "When in glory He appears,",
+        "’Tis the hope to hear His welcome",
+        "That my fainting spirit cheers."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "If He wills that I should labour",
+        "In His vineyard day by day,",
+        "Then ’tis well if only Jesus",
+        "Blesses all I do or say."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "If He wills that death’s cold finger",
+        "Touch my feeble, mortal clay,",
+        "Then ’tis well if only Jesus",
+        "Is my dying trust and stay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

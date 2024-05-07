@@ -1,0 +1,63 @@
+{
+  "Number": 352,
+  "Title": "This Is My Will",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "This is My will, My one command,",
+        "That love should dwell among you all.",
+        "This is My will that you should love",
+        "As I have shown that I love you."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "No greater love a man can have",
+        "Than that he die to save his friends.",
+        "You are My friends if you obey",
+        "What I command that you should do."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "You chose not Me, but I chose you",
+        "That you should go and bear much fruit.",
+        "I chose you out that you in Me",
+        "Should bear much fruit that will abide."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All that I ask My Father, dear,",
+        "For My name’s sake you shall receive.",
+        "This is My will, My one command,",
+        "That love should dwell in each, in all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Number": 196,
+  "Title": "Tell Me the Old, Old Story",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Tell me the old, old story",
+        "of unseen things above,",
+        "Of Jesus and His glory,",
+        "of Jesus and His love.",
+        "Tell me the story simply,",
+        "as to a little child,",
+        "For I am weak and weary,",
+        "and helpless and defiled."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Tell me the old, old story,",
+        "tell me the old, old story,",
+        "Tell me the old, old story,",
+        "of Jesus and His love."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Tell me the story softly,",
+        "with earnest tones and grave;",
+        "Remember I’m the sinner",
+        "whom Jesus came to save.",
+        "Tell me the story always,",
+        "if you would really be,",
+        "In any time of trouble,",
+        "a comforter to me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Tell me the same old story",
+        "when you have cause to fear",
+        "That this world’s empty glory",
+        "is costing me too dear.",
+        "Yes, and when that world’s glory",
+        "is dawning on my soul,",
+        "Tell me the old, old story:",
+        "“Christ Jesus makes thee whole.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

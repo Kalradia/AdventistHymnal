@@ -1,0 +1,50 @@
+{
+  "Number": 452,
+  "Title": "What Heavenly Music",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "What heavenly music steals over the sea!",
+        "Entrancing the senses like sweet melody!",
+        "’Tis the voice of the angels borne soft on the air;",
+        "For me they are singing; their welcome I hear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "On the banks of old Jordan, here gazing I stand,",
+        "And earnestly longing, I stretch forth my hand;",
+        "Send a convoy of angels, dear Jesus, I pray!",
+        "Let me join that sweet music; come, take me away."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Though dark are the waters and rough is the wave,",
+        "If Jesus permit, the wild surges I’ll brave;",
+        "For that heavenly music hath ravished me so,",
+        "I must join in that chorus! I’ll go! let me go!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

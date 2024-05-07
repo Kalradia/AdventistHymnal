@@ -1,0 +1,37 @@
+{
+  "Number": 58,
+  "Title": "Hark, the Vesper Hymn Is Stealing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hark! the vesper hymn is stealing",
+        "O’er the waters soft and clear;",
+        "Jubilate, Jubilate, Jubilate,",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Nearer yet, and nearer pealing,",
+        "Soft it breaks upon the ear.",
+        "Jubilate, Jubilate, Jubilate,",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

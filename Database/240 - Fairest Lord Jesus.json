@@ -1,0 +1,63 @@
+{
+  "Number": 240,
+  "Title": "Fairest Lord Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Fairest Lord Jesus, ruler of all nature,",
+        "O thou of God and man the Son!",
+        "Thee will I cherish, Thee will I honour,",
+        "thou, my soul’s glory, joy, and crown."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Fair are the meadows, fairer still the woodlands,",
+        "robed in the blooming garb of spring:",
+        "Jesus is fairer, Jesus is purer",
+        "who makes the woeful heart to sing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Fair is the sunshine, fairer still the moonlight,",
+        "and all the twinkling starry host:",
+        "Jesus shines brighter, Jesus shines purer",
+        "than all the angels heaven can boast."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Beautiful Saviour! Lord of all the nations,",
+        "Son of God and Son of Man!",
+        "Glory and honour, praise, adoration,",
+        "now and forevermore be thine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

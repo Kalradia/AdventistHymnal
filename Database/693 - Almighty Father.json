@@ -1,0 +1,23 @@
+{
+  "Number": 693,
+  "Title": "Almighty Father",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Almighty Father, hear our prayer,",
+        "and bless all souls that wait before Thee.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

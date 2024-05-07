@@ -1,0 +1,79 @@
+{
+  "Number": 189,
+  "Title": "All That Thrills My Soul",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 12884,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Who can cheer the heart like Jesus,",
+        "By His presence all divine?",
+        "True and tender, pure and precious,",
+        "Oh, how blest to call Him mine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "All that thrills my soul is Jesus;",
+        "He is more than life to me; (to me;)",
+        "And the fairest of ten thousand,",
+        "In my blessed Lord I see."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Love of Christ so freely given,",
+        "Grace of God beyond degree,",
+        "Mercy higher than the heaven,",
+        "Deeper than the deepest sea."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Every need His hand supplying,",
+        "Every good in Him I see;",
+        "On His strength divine relying,",
+        "He is All in All to me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "By the crystal flowing river",
+        "With the ransomed I will sing,",
+        "And forever and forever",
+        "Praise and glorify the King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

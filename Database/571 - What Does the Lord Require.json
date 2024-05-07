@@ -1,0 +1,47 @@
+{
+  "Number": 571,
+  "Title": "What Does the Lord Require",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 287413,
+  "Stanzas": [
+    {
+      "Lines": [
+        "What does the Lord require for praise and offering?",
+        "What sacrifice, desire or tribute bid you bring?",
+        "Do justly; Love mercy; Walk humbly with your God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Rulers of men, give ear! Should you not justice show?",
+        "Will God your pleading hear, while crime and cruelty grow?",
+        "Do justly; Love mercy; Walk humbly with your God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "How shall our life fulfil God’s law so hard and high?",
+        "Let Christ endue our will with grace to fortify.",
+        "Then justly, in mercy we’ll humbly walk with God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

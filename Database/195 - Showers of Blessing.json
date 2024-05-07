@@ -1,0 +1,79 @@
+{
+  "Number": 195,
+  "Title": "Showers of Blessing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "“There shall be showers of blessing;”",
+        "This is the promise of love;",
+        "There shall be seasons refreshing,",
+        "Sent from the Saviour above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Showers of blessing,",
+        "Showers of blessing we need;",
+        "Mercy drops round us are falling,",
+        "But for the showers we plead."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "“There shall be showers of blessing;”",
+        "Precious reviving again;",
+        "Over the hills and the valleys,",
+        "Sound of abundance of rain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "“There shall be showers of blessing;”",
+        "Send them upon us, O Lord;",
+        "Grant to us now a refreshing;",
+        "Come, and now honour Thy word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "“There shall be showers of blessing;”",
+        "O that today they might fall,",
+        "Now as to God were confessing,",
+        "Now as on Jesus we call!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

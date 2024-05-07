@@ -1,0 +1,63 @@
+{
+  "Number": 397,
+  "Title": "An Upper Room",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 7015408,
+  "Stanzas": [
+    {
+      "Lines": [
+        "An upper room did our Lord prepare",
+        "For those loved until the end:",
+        "And His disciples still gather there,",
+        "To celebrate their risen Friend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "And after supper He washed their feet,",
+        "For service, too, is sacrament.",
+        "In Him our joy shall be made complete",
+        "Sent out to serve, as He was sent."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "A lasting gift Jesus gave His own:",
+        "To share His bread, His loving cup.",
+        "Whatever burdens may bow us down,",
+        "He by His cross shall lift us up."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "No end there is! we depart in peace.",
+        "He loves beyond our uttermost:",
+        "In every room in our Father’s house,",
+        "He will be there, as Lord and host."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 77,
+  "Title": "O Love of God Most Full",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O love of God most full,",
+        "O love of God most free,",
+        "Come warm my heart, come fill my soul,",
+        "Come lead me unto Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Warm as the glowing sun",
+        "So shines Thy love on me,",
+        "It wraps me ’round with kindly care,",
+        "It draws me unto Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The wildest sea is calm,",
+        "The tempest brings no fear,",
+        "The darkest night is full of light,",
+        "Because Thy love is near."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O love of God most full,",
+        "O love of God most free,",
+        "It warms my heart, it fills my soul,",
+        "With might it strengthens me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

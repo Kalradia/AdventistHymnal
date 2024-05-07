@@ -1,0 +1,62 @@
+{
+  "Number": 415,
+  "Title": "Christ the Lord, All Power Possessing",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christ, the Lord, all power possessing,",
+        "Parting, mounted heaven’s height,",
+        "Gracious hands outstretched in blessing,",
+        "Clouds received His from their sight.",
+        "Christ ascended, Christ ascended,",
+        "Christ ascended on the clouds.",
+        "(on the clouds)",
+        "Christ ascended on the clouds."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Daniel views earth’s judgment hour,",
+        "Angels gathering open books.",
+        "God enthroned inflaming power",
+        "For His Son’s arrival looks.",
+        "Christ approaches, Christ approaches,",
+        "Christ approaches on the clouds.",
+        "(on the clouds)",
+        "Christ approaches on the clouds."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Revelation’s word fulfilling,",
+        "Trumpet, voices pierce the air.",
+        "Saint and sinner fainting, thrilling,",
+        "Every eye behold Him there.",
+        "Christ is coming, Christ is coming,",
+        "Christ is coming on the clouds.",
+        "(on the clouds)",
+        "Christ is coming on the clouds."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

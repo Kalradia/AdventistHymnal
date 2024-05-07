@@ -1,0 +1,50 @@
+{
+  "Number": 70,
+  "Title": "Praise Ye the Father",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Praise ye the Father for His loving kindness,",
+        "Tenderly cares He for His erring children;",
+        "Praise Him, ye angels, praise Him in the heavens;",
+        "Praise ye Jehovah!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Praise ye the Saviour, great is the compassion,",
+        "Graciously cares He for His chosen people;",
+        "Young men and maidens, ye old men and children,",
+        "Praise ye the Saviour!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Praise ye the Spirit, comforter of Israel,",
+        "Sent of the Father and the Son to bless us;",
+        "Praise ye the Father, Son, and Holy Spirit,",
+        "Praise the Eternal Three!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

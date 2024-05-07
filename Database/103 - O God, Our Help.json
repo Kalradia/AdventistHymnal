@@ -1,0 +1,76 @@
+{
+  "Number": 103,
+  "Title": "O God, Our Help",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O God, our help in ages past,",
+        "our hope for years to come,",
+        "our shelter from the stormy blast,",
+        "and our eternal home!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Under the shadow of thy throne,",
+        "still may we dwell secure;",
+        "sufficient is thine arm alone,",
+        "and our defence is sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Before the hills in order stood,",
+        "or earth received her frame,",
+        "from everlasting, thou art God,",
+        "to endless years the same."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "A thousand ages, in thy sight,",
+        "are like an evening gone;",
+        "short as the watch that ends the night,",
+        "before the rising sun."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "O God, our help in ages past,",
+        "our hope for years to come;",
+        "be thou our guide while life shall last,",
+        "and our eternal home!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

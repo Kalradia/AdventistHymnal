@@ -1,0 +1,63 @@
+{
+  "Number": 369,
+  "Title": "Bringing in the Sheaves",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sowing in the morning, sowing seeds of kindness,",
+        "Sowing in the noontide and the dewy eve,",
+        "Waiting for the harvest and the time of reaping –",
+        "We shall come rejoicing, bringing in the sheaves."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Bringing in the sheaves, bringing in the sheaves,",
+        "We shall come rejoicing, bringing in the sheaves.",
+        "Bringing in the sheaves, bringing in the sheaves,",
+        "We shall come rejoicing, bringing in the sheaves."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Sowing in the sunshine, sowing in the shadows,",
+        "Fearing neither clouds nor winter’s chilling breeze;",
+        "By and by the harvest and the labour ended –",
+        "We shall come rejoicing, bringin in the sheaves."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Going forth with weeping, sowing for the Master,",
+        "Tho the loss sustained our spirit often grieves;",
+        "When our weeping’s over He will bid us welcome –",
+        "We shall come rejoicing, bringing in the sheaves"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

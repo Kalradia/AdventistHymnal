@@ -1,0 +1,71 @@
+{
+  "Number": 46,
+  "Title": "Abide With Me, ’Tis Eventide",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Abide with me, ’tis eventide!",
+        "The day is past and gone;",
+        "The shadows of the evening fall;",
+        "The night is coming on!",
+        "Within my heart a welcome guest,",
+        "Within my home abide;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O Saviour, stay this night with me;",
+        "Behold, ’tis eventide!",
+        "O Saviour, stay this night with me;",
+        "Behold, ’tis eventide."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Abide with me, ’tis eventide!",
+        "Thy walk today with me",
+        "Has made my heart within me burn,",
+        "As I communed with Thee.",
+        "Thy earnest words have filled my soul",
+        "And kept me near Thy side;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Abide with me, ’tis eventide!",
+        "And lone will be the night,",
+        "If I cannot commune with Thee,",
+        "Nor find in Thee my light.",
+        "The darkness of the world, I fear,",
+        "Would in my home abide;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

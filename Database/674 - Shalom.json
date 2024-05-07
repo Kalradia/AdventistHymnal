@@ -1,0 +1,26 @@
+{
+  "Number": 674,
+  "Title": "Shalom",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Shalom, my friends,",
+        "shalom, my friends,",
+        "shalom, shalom.",
+        "Till we meet again,",
+        "till we meet again,",
+        "shalom, shalom."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 519,
+  "Title": "Give to the Winds Your Fears",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Give to the winds your fears;",
+        "In hope be undismayed:",
+        "God hears your sighs and coundts your tears,",
+        "God shall lift up your head."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "To Him commit your griefs;",
+        "Your ways put in His hands",
+        "To His sure truth adn tender care",
+        "Who earth adn heave commands."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O put your trust in God;",
+        "In duty’s path go on.",
+        "Walk in His strength with faith and hope,",
+        "So shall your work be done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Leave to His sovereign sway",
+        "To choose and to command;",
+        "So you shall, faithful, seek His way",
+        "how wise, how strong His hand!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

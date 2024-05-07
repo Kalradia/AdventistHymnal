@@ -1,0 +1,52 @@
+{
+  "Number": 133,
+  "Title": "Now Is Born the Divine Christ Child",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Now is born the divine Christ child,",
+        "Play the musette, play the tuneful oboe,",
+        "Now is born the divine Christ child,",
+        "Sing we all and rejoice this day."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "He was born in a stable bare,",
+        "On bed of straw how He sleeps so soundly,",
+        "He was born in a stable bare,",
+        "Let us worship and to Him bow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Ages long since are past and gone,",
+        "When the wise men foretold His coming,",
+        "Ages long since are past and gone,",
+        "When the wise men foretold His birth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Chorus",
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus"
+  ]
+}

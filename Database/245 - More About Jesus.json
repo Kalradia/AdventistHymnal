@@ -1,0 +1,79 @@
+{
+  "Number": 245,
+  "Title": "More About Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "More about Jesus, I would know,",
+        "More of His grace to others show;",
+        "More of His saving fullness see,",
+        "More of His love who died for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "More, more about Jesus,",
+        "More, more about Jesus;",
+        "More of His saving fullness see,",
+        "More of His love who died for me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "More about Jesus, let me learn,",
+        "More of His holy will discern;",
+        "Spirit of God, my teacher be,",
+        "Showing the things of Christ to me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "More about Jesus, in His word,",
+        "Holding communion with my Lord;",
+        "Hearing His voice in every line,",
+        "Making each faithful saying mine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "More about Jesus, on His throne,",
+        "Riches in glory all His own;",
+        "More of His kingdom’s sure increase,",
+        "More of His coming, Prince of Peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

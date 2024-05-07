@@ -1,0 +1,76 @@
+{
+  "Number": 368,
+  "Title": "Watchman, Blow the Gospel Trumpet",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Watchman, blow the gospel trumpet,",
+        "Every soul a warning give;",
+        "Whosoever hears the message",
+        "May repent, and, turn and live."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Blow the trumpet, trusty watchman,",
+        "Blow it loud o’er land and sea;",
+        "God commissions, sound the message!",
+        "Every captive may be free."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Sound it loud o’er every hilltop,",
+        "Gloomy shade and sunny plain;",
+        "Ocean depths repeat the message,",
+        "Full salvation’s glad refrain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sound it in the hedge and highway,",
+        "Earth’s dark spots where exiles roam;",
+        "Let it tell all things are ready,",
+        "Father waits to welcome home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Sound it for the heavy laden,",
+        "Weary, longing to be free;",
+        "Sound a Saviour’s invitation,",
+        "Sweetly saying, “Come to me.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

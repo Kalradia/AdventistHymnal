@@ -1,0 +1,63 @@
+{
+  "Number": 639,
+  "Title": "A Diligent and Grateful Heart",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "A diligent and grateful heart",
+        "Prompts me to sing Thy praise.",
+        "Thy love and mercies from the start",
+        "Have blessed me all my days."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I thank Thee for the means to serve",
+        "With talents and with tithes,",
+        "For sharing brings the utmost joy",
+        "When lifting other lives."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "My thanks I give you for stewardship",
+        "To minister through deeds,",
+        "To serve and share with patient care",
+        "Thy people in their needs."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Lord, I dedicate my all",
+        "In this response to Thee.",
+        "Help me to magnify this call",
+        "In deep humility."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

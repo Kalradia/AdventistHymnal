@@ -1,0 +1,52 @@
+{
+  "Number": 387,
+  "Title": "Come, O Sabbath Day",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Peace and healing on thy wing;",
+        "And to every troubled breast",
+        "Speak of the divine behest:",
+        "Thou shalt rest, Thou shalt rest!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Earthly longings bid retire,",
+        "Quench the passions’ hurtful fire;",
+        "To the wayward, sin oppressed,",
+        "Bring thou thy divine behest:",
+        "Thou shalt rest, Thou shalt rest!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Wipe from every cheek the tear,",
+        "Banish care and silence fear;",
+        "All things working for the best,",
+        "Teach us the divine behest:",
+        "Thou shalt rest, Thou shalt rest!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Number": 541,
+  "Title": "Lord, Speak to Me",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, speak to me, that I may speak",
+        "in living echoes of thy tone;",
+        "as thou has sought, so let me seek",
+        "thine erring children lost and lone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O lead me, Lord, that I may lead",
+        "the wandering and the wavering feet;",
+        "O feed me, Lord, that I may feed",
+        "thy hungering ones with manna sweet."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O strengthen me, that while I stand",
+        "firm on the rock, and strong in thee,",
+        "I may stretch out a loving land",
+        "to wrestlers with the troubled sea."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

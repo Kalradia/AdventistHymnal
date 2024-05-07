@@ -1,0 +1,25 @@
+{
+  "Number": 684,
+  "Title": "Hear Our Prayer, O Lord",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hear Our Prayer, O Lord,",
+        "Hear our prayer, O Lord;",
+        "Incline Thine ear to us,",
+        "And grant us Thy peace.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

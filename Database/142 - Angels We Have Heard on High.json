@@ -1,0 +1,74 @@
+{
+  "Number": 142,
+  "Title": "Angels We Have Heard on High",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Angels we have heard on high",
+        "Sweetly singing o’er the plains,",
+        "And the mountains in reply",
+        "Echoing their joyous strains."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Gloria, in excelsis Deo!",
+        "Gloria, in excelsis Deo!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Shepherds, why this jubilee?",
+        "Why your joyous strains prolong?",
+        "What the gladsome tidings be",
+        "Which inspire your heavenly song?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come to Bethlehem and see",
+        "Christ Whose birth the angels sing;",
+        "Come, adore on bended knee,",
+        "Christ the Lord, the newborn King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "See Him in a manger laid,",
+        "Whom the choirs of angels praise;",
+        "Mary, Joseph, lend your aid,",
+        "While our hearts in love we raise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Number": 631,
+  "Title": "When on Life a Darkness Falls",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 3594319,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When on life a darkness falls,",
+        "When the mist flows chilling,",
+        "Paths and sign posts lost in doubt,",
+        "Loveless, unfulfilling,",
+        "Reach us, Jesus, from Your cross,",
+        "Though we feel forsaken;",
+        "Keep us through the aching night",
+        "Till new dawns awaken."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "When the dreams and vows of youth",
+        "Painfully accuse us,",
+        "Stab our conscience, steal our worth,",
+        "Christ will not refuse us:",
+        "Peace the world cannot provide,",
+        "Daily resurrection,",
+        "Strong companion at our side",
+        "For each new direction."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come and meet Him, Friend and Lord,",
+        "Thro’ the gospel story:",
+        "Open door to life and peace,",
+        "Window into glory.",
+        "All who seek Him, soon are found,",
+        "Made His close relation:",
+        "Christ our pathway, Christ our home,",
+        "Christ our sure foundation."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

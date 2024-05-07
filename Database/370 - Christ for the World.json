@@ -1,0 +1,59 @@
+{
+  "Number": 370,
+  "Title": "Christ for the World",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christ for the world we sing,",
+        "the world to Christ we bring,",
+        "with loving zeal;",
+        "the poor, and them that mourn,",
+        "the faint and overborne,",
+        "sinsick and sorrow-worn,",
+        "whom Christ doth heal."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Christ for the world we sing,",
+        "the world to Christ we bring,",
+        "with fervent prayer;",
+        "the wayward and the lost,",
+        "by restless passions tossed,",
+        "redeemed at countless cost,",
+        "from dark despair."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Christ for the world we sing,",
+        "the world to Christ we bring,",
+        "with joyful song;",
+        "the newborn souls, whose days,",
+        "reclaimed from error’s ways,",
+        "inspired with hope and praise,",
+        "to Christ belong."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

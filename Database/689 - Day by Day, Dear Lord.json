@@ -1,0 +1,23 @@
+{
+  "Number": 689,
+  "Title": "Day by Day, Dear Lord",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Day by day, Dear Lord, of Thee three things I pray:",
+        "To see Thee more clearly, Love Thee more dearly,",
+        "Follow Thee more nearly, Day by day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

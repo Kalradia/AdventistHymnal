@@ -1,0 +1,76 @@
+{
+  "Number": 260,
+  "Title": "Hover O’er Me, Holy Spirit",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Hover o’er me, Holy Spirit,",
+        "Bathe my trembling heart and brow;",
+        "Fill me with Thy hallowed presence,",
+        "Come, O come and fill me now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Fill me now, fill me now,",
+        "Jesus, come and fill me now.",
+        "Fill me with Thy hallowed presence,",
+        "Come, O come and fill me now."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Thou canst fill me, gracious Spirit,",
+        "Though I cannot tell Thee how;",
+        "But I need Thee, greatly need Thee;",
+        "Come, O come and fill me now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I am weakness, full of weakness;",
+        "At Thy sacred feet I bow;",
+        "Blest, divine, eternal Spirit,",
+        "Fill with love, and fill me now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Cleanse and comfort, bless and save me;",
+        "Bathe, O, bathe my heart and brow;",
+        "Thou art comforting and saving,",
+        "Thou art sweetly filling now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

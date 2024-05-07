@@ -1,0 +1,63 @@
+{
+  "Number": 502,
+  "Title": "Sun of My Soul",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sun of my soul, O Saviour dear!",
+        "It is not night if Thou be near;",
+        "O may no earth-born cloud arise",
+        "To hide Thee from Thy servant’s eyes."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "When soft the dews of kindly sleep",
+        "My weary eyelids gently steep,",
+        "Be my last thought how sweet to rest",
+        "Forever on my Saviour’s breast!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Abide with me from morn till eve,",
+        "For without Thee I cannot live;",
+        "Abide with me when night is nigh,",
+        "For without Thee I dare not die."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Be near and bless me when I wake,",
+        "Ere through the world my way I take;",
+        "Till in the ocean of Thy love",
+        "I lose myself in heaven above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

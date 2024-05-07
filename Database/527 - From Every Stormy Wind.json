@@ -1,0 +1,66 @@
+{
+  "Number": 527,
+  "Title": "From Every Stormy Wind",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "From every stormy wind that blows, From every swelling tide of woes,",
+        "There is a calm, a sure retreat: ’Tis found beneath the mercy seat."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "There is a place where Jesus sheds The oil of gladness on our heads,",
+        "A place than all besides more sweet; It is the blood-bought mercy seat."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There is a scene where spirits blend, Where friend holds fellowship with friend;",
+        "Though sundered far, by faith they meet Around one common mercy seat."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "There, there, on angel’s wings we soar, And earthly cares molest no more,",
+        "And heaven comes down our souls to greet, And glory crowns the mercy seat."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Ah! whither should we flee for aid, When tempted, desolate dismayed?",
+        "Or how the hosts of sin defeat, Had suffering saints no mercy seat?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

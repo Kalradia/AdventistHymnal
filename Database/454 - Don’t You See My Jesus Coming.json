@@ -1,0 +1,49 @@
+{
+  "Number": 454,
+  "Title": "Don’t You See My Jesus Coming",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Don’t you see my Jesus coming,",
+        "See Him come in yonder cloud?",
+        "With ten thousand angels round Him,",
+        "How they do my Jesus crowd!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I am bound for the kingdom,",
+        "Will you go to glory with me?",
+        "Hallelujah! O praise ye the Lord!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Don’t you see the saints ascending,",
+        "Hear them shouting thro’ the air.",
+        "Jesus smiling, trumpets sounding,",
+        "Now His glory they shall share."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2"
+  ]
+}

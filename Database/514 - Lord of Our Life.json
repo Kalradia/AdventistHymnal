@@ -1,0 +1,63 @@
+{
+  "Number": 514,
+  "Title": "Lord of Our Life",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord of our life, and God of our salvation,",
+        "Star of our night, and hope of every nation,",
+        "Hear and receive Thy church’s supplication,",
+        "Lord God Almighty."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord, Thou canst help when earthly armor faileth;",
+        "Lord, Thou canst save when deadly sin assaileth;",
+        "Lord, o’er Thy rock nor death nor hell prevaileth;",
+        "Grant us Thy peace, Lord"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Peace in our hearts our evil thoughts assuaging;",
+        "Peace in Thy church, where brothers are engaging;",
+        "Peace, when the world its busy war is waging;",
+        "Send us, O Saviour."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Grant us Thy help till foes are backward driven;",
+        "Grant them Thy truth that they may be forgiven;",
+        "Grant peace on earth, and, after we have striven,",
+        "Peace in Thy heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

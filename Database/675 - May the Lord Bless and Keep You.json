@@ -1,0 +1,23 @@
+{
+  "Number": 675,
+  "Title": "May the Lord Bless and Keep You",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "May the Lord bless you and keep you",
+        "both now and evermore.",
+        "Amen, Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

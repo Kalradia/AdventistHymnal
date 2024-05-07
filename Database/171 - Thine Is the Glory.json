@@ -1,0 +1,70 @@
+{
+  "Number": 171,
+  "Title": "Thine Is the Glory",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thine is the glory,",
+        "Risen, conquering Son;",
+        "Endless is the victory thou o’er death hast won.",
+        "Angels in bright raiment rolled the stone away,",
+        "Kept the folded grave-clothes where Thy body lay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thine is the glory,",
+        "Risen, conquering Son;",
+        "Endless is the victory Thou o’er death hast won."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Lo! Jesus meets us.",
+        "Risen from the tomb,",
+        "Lovingly He greets us,",
+        "Scatters fear and gloom;",
+        "Let His Church with gladness hymns of triumph sing,",
+        "For her Lord now liveth;",
+        "Death has lost its sting."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "No more we doubt Thee,",
+        "Glorious Prince of life!",
+        "Life is nought without Thee;",
+        "Aid us in our strife;",
+        "Make us more than conquerors through Thy deathless love",
+        "Bring us safe through Jordan to Thy home above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

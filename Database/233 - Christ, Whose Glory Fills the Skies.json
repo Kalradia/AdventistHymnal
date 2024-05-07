@@ -1,0 +1,56 @@
+{
+  "Number": 233,
+  "Title": "Christ, Whose Glory Fills the Skies",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christ, whose glory fills the skies,",
+        "Christ, the true, the only light,",
+        "Sun of Righteousness, arise,",
+        "triumph o’er the shades of night;",
+        "Dayspring from on high, be near;",
+        "Daystar, in my heart appear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Dark and cheerless is the morn",
+        "unaccompanied by thee;",
+        "joyless is the day’s return,",
+        "till thy mercy’s beams I see;",
+        "till they inward light impart,",
+        "cheer my eyes and warm my heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Visit then this soul of mine;",
+        "pierce the gloom of sin and grief;",
+        "fill me, Radiancy divine,",
+        "scatter all my unbelief;",
+        "more and more thyself display,",
+        "shining to the perfect day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "Number": 208,
+  "Title": "There’ll Be No Dark Valley",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There’ll be no dark valleys when Jesus comes,",
+        "There’ll be no dark valleys when Jesus comes,",
+        "There’ll be no dark valleys when Jesus comes,",
+        "To gather His loved ones home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "To gather His loved ones home,",
+        "To gather His loved ones home.",
+        "There’ll be no dark valleys when Jesus comes,",
+        "To gather His loved ones home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There’ll be no more sorrow when Jesus comes,",
+        "There’ll be no more sorrow when Jesus comes,",
+        "There’ll be a happy tomorrow when Jesus comes,",
+        "To gather His loved ones home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There’ll be songs of greeting when Jesus comes,",
+        "There’ll be songs of greeting when Jesus comes,",
+        "There’ll be songs of greeting when Jesus comes,",
+        "To gather His loved ones home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

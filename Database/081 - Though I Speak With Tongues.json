@@ -1,0 +1,62 @@
+{
+  "Number": 81,
+  "Title": "Though I Speak With Tongues",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 3597574,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Though I speak with tongues of men and angels,",
+        "Though I have the prophet’s gift,",
+        "Though I hold the keys to hidden knowledge,",
+        "Though my faith can mountains shift;",
+        "Without love I am no better,",
+        "Without love it’s all for naught;",
+        "Lord, You spent Your life in loving others:",
+        "What this means I would be taught."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Love is patient, knows no envy,",
+        "Never gloats when others sin;",
+        "Love is never glad to see injustice,",
+        "Always wants the truth to win.",
+        "There’s no end to love’s endurance,",
+        "There’s no test it cannot face;",
+        "Lord, You spent Your life in loving others:",
+        "I shall fail without Your grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Though there’ll be an end to hidden knowledge,",
+        "Visions, raptures, prophecy:",
+        "Faith and hope and love shall last forever,",
+        "Love the greatest of the three.",
+        "Without love I am no better,",
+        "Without love it’s all for naught;",
+        "Lord, You gave Your life in saving others:",
+        "What this means I would be taught."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

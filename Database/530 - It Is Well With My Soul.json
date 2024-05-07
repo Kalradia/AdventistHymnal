@@ -1,0 +1,61 @@
+{
+  "Number": 530,
+  "Title": "It Is Well With My Soul",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When peace, like a river, attendeth my way,",
+        "when sorrows like sea billows roll;",
+        "whatever my lot, thou hast taught me to say,",
+        "It is well, it is well with my soul."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "It is well with my soul,",
+        "it is well, it is well with my soul."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "My sin–oh, the joy of this glorious thought–",
+        "My sin, not in part but the whole,",
+        "is nailed to the cross, and I bear it no more,",
+        "praise the Lord, praise the Lord, O my soul!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And, Lord, haste the day when my faith shall be sight,",
+        "the clouds be rolled back as a scroll;",
+        "the trump shall resound, and the Lord shall descend,",
+        "even so, it is well with my soul."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

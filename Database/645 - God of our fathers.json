@@ -1,0 +1,63 @@
+{
+  "Number": 645,
+  "Title": "God of our fathers",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God of our fathers, Whose almighty hand",
+        "Leads forth in beauty all the starry band",
+        "Of shining worlds in splendour through the skies",
+        "Our grateful songs before Thy throne arise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thy love divine hath led us in the past,",
+        "In this free land by Thee our lot is cast,",
+        "Be Thou our Ruler, Guardian, Guide and Stay,",
+        "Thy Word our law, Thy paths our chosen way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "From war’s alarms, from deadly pestilence,",
+        "Be Thy strong arm our ever sure defence;",
+        "Thy true religion in our hearts increase,",
+        "Thy bounteous goodness nourish us in peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Refresh Thy people on their toilsome way,",
+        "Lead us from night to never ending day;",
+        "Fill all our lives with love and grace divine,",
+        "And glory, laud, and praise be ever Thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

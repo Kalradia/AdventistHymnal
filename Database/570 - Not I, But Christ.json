@@ -1,0 +1,79 @@
+{
+  "Number": 570,
+  "Title": "Not I, But Christ",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Not I, but Christ,",
+        "be honoured, loved, exalted;",
+        "Not I, but Christ,",
+        "be seen, be known, be heard;",
+        "Not I, but Christ,",
+        "in every look and action,",
+        "Not I, but Christ,",
+        "in every thought and word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Not I, but Christ,",
+        "to gently soothe in sorrow,",
+        "Not I, but Christ,",
+        "to wipe the falling tear;",
+        "Not I, but Christ,",
+        "to lift the weary burden,",
+        "Not I, but Christ,",
+        "to hush away all fear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Christ, only Christ!",
+        "No idle words e’er falling,",
+        "Christ, only Christ;",
+        "no needless bustling sound;",
+        "Christ, only Christ,",
+        "no self important bearing;",
+        "Christ, only Christ,",
+        "no trace of “I” be found."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Not I, but Christ,",
+        "my every need supplying,",
+        "Not I, but Christ,",
+        "my strength and health to be;",
+        "Christ, only Christ, ",
+        "for body, soul, and spirit,",
+        "Christ, only Christ,",
+        "here and eternally."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

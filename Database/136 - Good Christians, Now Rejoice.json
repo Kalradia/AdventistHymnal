@@ -1,0 +1,62 @@
+{
+  "Number": 136,
+  "Title": "Good Christians, Now Rejoice",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Good Christians, now rejoice,",
+        "With heart, and soul, and voice;",
+        "Give ye heed to what we say:",
+        "Jesus Christ is born today;",
+        "Ox and ass before Him bow,",
+        "And He is in the manger now.",
+        "Christ is born today!",
+        "Christ is born today!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Good Christians, now rejoice,",
+        "With heart, and soul, and voice;",
+        "Now ye hear of endless bliss:",
+        "Jesus Christ was born for this!",
+        "He hath ope’d the heav’nly door,",
+        "And we are blessed evermore.",
+        "Christ was born for this!",
+        "Christ was born for this!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Good Christians, now rejoice,",
+        "With heart, and soul, and voice;",
+        "Now ye need not fear the grave:",
+        "Jesus Christ was born to save!",
+        "Calls you one and calls you all",
+        "To gain His everlasting hall.",
+        "Christ was born to save!",
+        "Christ was born to save!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

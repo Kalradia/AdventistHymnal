@@ -1,0 +1,65 @@
+{
+  "Number": 327,
+  "Title": "I’d Rather Have Jesus",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 16653,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I’d rather have Jesus than silver or gold;",
+        "I’d rather be His than have riches untold;",
+        "I’d rather have Jesus than houses or land;",
+        "I’d rather be led by His nail-pierced hand:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Than to be the king of a vast domain",
+        "or be held in sin’s dread sway!",
+        "I’d rather have Jesus than anything",
+        "this world affords today."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I’d rather have Jesus than men’s applause;",
+        "I’d rather be faithful to His dear cause;",
+        "I’d rather have Jesus than world-wide fame;",
+        "I’d rather be true to His holy name:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "He’s fairer than lilies of rarest bloom;",
+        "He’s sweeter than honey from out the comb;",
+        "He’s all that my hungering spirit needs –",
+        "I’d rather have Jesus and let Him lead:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

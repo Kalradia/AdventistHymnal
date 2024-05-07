@@ -1,0 +1,62 @@
+{
+  "Number": 194,
+  "Title": "Sing We of the Modern City",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 1052032,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sing we of the modern city,",
+        "Scene alike of joy and stress;",
+        "Sing we of its nameless people",
+        "In their urban wilderness.",
+        "Into endless rows of houses",
+        "Life is set a millionfold,",
+        "Life expressed in human beings",
+        "Daily born and growing old."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In the city full of people,",
+        "World of speed and hectic days,",
+        "In the ever-changing setting",
+        "Of the latest trend and craze,",
+        "Christ is present, and among us;",
+        "In the crowd we see Him stand.",
+        "In the bustle of the city",
+        "Jesus Christ is every man."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "God is not remote in heaven,",
+        "But on earth to share our shame,",
+        "Changing graph and mass and number",
+        "Into persons with a name.",
+        "Christ has shown, beyond statistics,",
+        "Human life with glory crowned,",
+        "By His timeless presence proving",
+        "People matter, people count!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

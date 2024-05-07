@@ -1,0 +1,63 @@
+{
+  "Number": 106,
+  "Title": "Give to Our god Immortal Praise",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Give to our God immortal praise;",
+        "Mercy and truth are all His ways:",
+        "Wonders of grace to God belong,",
+        "Repeat His mercies in your song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Give to the Lord of lords renown,",
+        "The King of kings with glory crown:",
+        "His mercies ever shall endure",
+        "When lords and kings are known no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "He sent His Son with power to save",
+        "From guilt and darkness and the grave:",
+        "Wonders of grace to God belong,",
+        "Repeat His mercies in your song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thro’ this vain world He guides our feet,",
+        "And leads us to His heav’nly seat;",
+        "His mercies ever shall endure,",
+        "When this vain world shall be no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

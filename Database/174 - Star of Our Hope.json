@@ -1,0 +1,63 @@
+{
+  "Number": 174,
+  "Title": "Star of Our Hope",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Star of our hope! He’ll soon appear,",
+        "The last loud trumpet speaks Him near;",
+        "Hail Him, all saints, from pole to pole-",
+        "How welcome to the faithful soul!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "From heaven angelic voices sound:",
+        "Behold the Lord of glory crowned,",
+        "Arrayed in majesty divine,",
+        "And in His highest glories shine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The grave yields up its precious trust,",
+        "Which long has slumbered in the dust,",
+        "Resplendent forms ascending, fair,",
+        "Now meet the Saviour in the air."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Descending with His azure throne,",
+        "He claims the kingdom for His own;",
+        "The saints rejoice, they shout, they sing,",
+        "And hail Him their triumphant King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

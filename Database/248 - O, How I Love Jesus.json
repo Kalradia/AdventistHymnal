@@ -1,0 +1,65 @@
+{
+  "Number": 248,
+  "Title": "O, How I Love Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is a Name I love to hear,",
+        "I love to sing its worth;",
+        "It sounds like music in my ears,",
+        "The sweetest Name on earth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O how I love Jesus,",
+        "O how I love Jesus,",
+        "O how I love Jesus,",
+        "Because He first loved me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "It tells me of a Saviour’s love,",
+        "Who died to set me free;",
+        "It tells me of a Saviour’s blood,",
+        "The sinners’ perfect plea."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "It tells of one whose loving heart",
+        "Can feel my deepest woe;",
+        "Who in each sorrow bears",
+        "A part that none can bear below."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

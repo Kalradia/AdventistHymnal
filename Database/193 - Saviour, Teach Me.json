@@ -1,0 +1,76 @@
+{
+  "Number": 193,
+  "Title": "Saviour, Teach Me",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Saviour, teach me day by day,",
+        "Love’s sweet lesson to obey,",
+        "Sweeter lesson cannot be,",
+        "Loving Him who first loved me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "With a child’s glad heart of love,",
+        "At Thy bidding may I move,",
+        "Prompt to serve and follow Thee,",
+        "Loving Him who first loved me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Teach me I am not my own,",
+        "I am Thine, and Thine alone;",
+        "Thine to keep, to rule, to save",
+        "From all sin that would enslave."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Love in loving finds employ,",
+        "In obedience all her joy;",
+        "Ever new that joy will be,",
+        "Loving Him who first loved me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Teach me thus Thy steps to trace,",
+        "Strong to follow in Thy grace.",
+        "Learning how to love from Thee,",
+        "Loving Him who first loved me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

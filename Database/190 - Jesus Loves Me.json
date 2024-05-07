@@ -1,0 +1,65 @@
+{
+  "Number": 190,
+  "Title": "Jesus Loves Me",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus loves me! this I know,",
+        "For the Bible tells me so;",
+        "Little ones to Him belong",
+        "They are weak but He is strong"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Yes, Jesus loves me!",
+        "Yes, Jesus loves me!",
+        "Yes, Jesus loves me!",
+        "The Bible tells me so."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Jesus loves me! He who died",
+        "Heaven’s gate to open wide:",
+        "He will wash away my sin,",
+        "Let His little child come in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Jesus, take this heart of mine,",
+        "Make it pure and wholly thine;",
+        "On the cross You died for me,",
+        "I will love and live for Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

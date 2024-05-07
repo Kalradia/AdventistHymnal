@@ -1,0 +1,79 @@
+{
+  "Number": 492,
+  "Title": "Like Jesus",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 536487,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Teach, me, Father, what to say;",
+        "Teach me, Father, how to pray;",
+        "Teach me all along the way",
+        "How to be like Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I would be like Jesus,",
+        "I would be like Jesus!",
+        "Help me, Lord, to daily grow",
+        "More and more like Jesus!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Teach me as the days go by,",
+        "Teach me not to reason why,",
+        "Teach me that to do and die,",
+        "Is to be like Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Teach me that the time is short,",
+        "Teach me how to live and work,",
+        "Teach me that to never shirk",
+        "Is to be like Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Teach me how we may be one,",
+        "Like the Father and the Son;",
+        "And when all is overcome,",
+        "I will be like Jesus."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

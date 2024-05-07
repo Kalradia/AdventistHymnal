@@ -1,0 +1,63 @@
+{
+  "Number": 458,
+  "Title": "More Love to Thee",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "More love to thee, O Christ, more love to thee!",
+        "Hear thou the prayer I make on bended knee.",
+        "This is my earnest plea: More love, O Christ, to thee;",
+        "more love to thee, more love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Once earthly joy I craved, sought peace and rest;",
+        "now thee alone I seek, give what is best.",
+        "This all my prayer shall be: More love, O Christ, to thee;",
+        "more love to thee, more love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Let sorrow do its work, come grief and pain;",
+        "sweet are thy messengers, sweet their refrain,",
+        "when they can sing with me: More love, O Christ, to thee;",
+        "more love to thee, more love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Then shall my latest breath whisper thy praise;",
+        "this be the parting cry my heart shall raise;",
+        "this still its prayer shall be: More love, O Christ, to thee;",
+        "more love to thee, more love to thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

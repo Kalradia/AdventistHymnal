@@ -1,0 +1,63 @@
+{
+  "Number": 641,
+  "Title": "God in His Love for Us",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 7049924,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God in His love for us lent us this planet,",
+        "Gave it a purpose in time and in space:",
+        "Small as a spark from the fire of creation,",
+        "Cradle of life and the home of our race."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thanks be to God for its bounty and beauty,",
+        "Life that sustains us in body and mind:",
+        "Plenty for all, if we learn how to share it,",
+        "Riches undreamed of to fathom and find."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Long have our human wars ruined its harvest;",
+        "Long has earth bowed to the terror of forced;",
+        "Long have we wasted what others have need of,",
+        "Poisoned the fountain of life at its source."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Earth is the Lord’s: it is ours to enjoy it,",
+        "Ours, as His stewards, to farm and defend.",
+        "From its pollution, misuse, and destruction,",
+        "Good Lord, deliver us, world without end!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

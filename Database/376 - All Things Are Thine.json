@@ -1,0 +1,76 @@
+{
+  "Number": 376,
+  "Title": "All Things Are Thine",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All things are Thine; no gift have we,",
+        "Lord of all gifts, to offer Thee;",
+        "And hence with grateful hearts today,",
+        "Thine own before Thy feet we lay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thy will was in the builder’s thought;",
+        "Thy hand unseen amidst us wrought;",
+        "Thro’ mortal motive, scheme and plan,",
+        "Thy wise, eternal purpose ran."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "No lack Thy perfect fullness knew;",
+        "For human needs and longings grew",
+        "This house of prayer- this home of rest.",
+        "Here may Thy saints be often blessed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In weakness and in want we call",
+        "On Thee, for whom the heav’ns are small;",
+        "Thy glory is Thy children’s good,",
+        "Thy joy Thy tender Fatherhood."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "O Father! deign these walls to bless;",
+        "Make this the abode of righteousness,",
+        "And let these doors a gateway be",
+        "To lead us from ourselves to Thee!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

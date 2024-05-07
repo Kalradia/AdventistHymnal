@@ -1,0 +1,37 @@
+{
+  "Number": 9,
+  "Title": "Let All the World in Every Corner Sing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let all the world in every corner sing, My God and King!",
+        "The heavens are not too high, His praise may thither fly;",
+        "The earth is not too low, His praises there may grow.",
+        "Let all the world in every corner sing, My God and King!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Let all the world in every corner sing, My God and King!",
+        "The church with psalms must shout, No door can keep them out;",
+        "But, above all, the heart must bear the longest part.",
+        "Let all the world in every corner sing, My God and King!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Number": 668,
+  "Title": "O Thou Who Hearest",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Thou who hearest every heartfelt prayer,",
+        "With Thy rich grace, Lord, all our hearts prepare;",
+        "Thou art our life, Thou art our love and light,",
+        "O let this Sabbath hour with Him be bright. Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

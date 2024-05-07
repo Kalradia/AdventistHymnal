@@ -1,0 +1,59 @@
+{
+  "Number": 538,
+  "Title": "Guide Me, O Thou Great Jehovah",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Guide me, O thou great Jehovah,",
+        "pilgrim through this barren land.",
+        "I am weak, but thou art mighty;",
+        "hold me with thy powerful hand.",
+        "Bread of heaven, bread of heaven,",
+        "feed me till I want no more;",
+        "feed me till I want no more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Open now the crystal fountain,",
+        "whence the healing stream doth flow;",
+        "let the fire and cloudy pillar",
+        "lead me all my journey through.",
+        "Strong deliverer, strong deliverer,",
+        "be thou still my strength and shield;",
+        "be thou still my strength and shield."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "When I tread the verge of Jordan,",
+        "bid my anxious fears subside;",
+        "death of death and hell’s destruction,",
+        "land me safe on Canaan’s side.",
+        "Songs of praises, songs of praises,",
+        "I will ever give to thee;",
+        "I will ever give to thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

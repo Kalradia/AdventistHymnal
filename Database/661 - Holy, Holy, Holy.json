@@ -1,0 +1,37 @@
+{
+  "Number": 661,
+  "Title": "Holy, Holy, Holy",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Holy, holy, holy, Holy is the Lord!",
+        "Holy, holy, holy, Holy is our God!",
+        "He who always liveth, Evermore the same",
+        "Heav’n and earth He ruleth, Come and praise His name!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Holy, holy, holy, Holy is the Lord!",
+        "Holy, holy, holy, Holy is our God!",
+        "Glorious adn beloved Is the One adored!",
+        "Holy, holy, holy, Holy is the Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

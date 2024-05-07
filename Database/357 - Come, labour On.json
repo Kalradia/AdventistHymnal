@@ -1,0 +1,53 @@
+{
+  "Number": 357,
+  "Title": "Come, labour On",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, labour on.",
+        "Who dares stand idle on the harvest plain",
+        "While all around him waves the golden grain?",
+        "And to each servant does the Master say,",
+        "“Go work today.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come, labour on.",
+        "Claim the high calling angels cannot share;",
+        "To young and old the gospel gladness bear;",
+        "Redeem the time; its hours too swiftly fly.",
+        "The night draws nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come, labour on.",
+        "No time for rest; till glows the western sky,",
+        "Till the long shadows o’er our pathway lie,",
+        "And a glad sound comes with the setting sun,",
+        "“Well done, well done!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

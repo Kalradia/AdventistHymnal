@@ -1,0 +1,45 @@
+{
+  "Number": 128,
+  "Title": "Break Forth, O Beauteous Heavenly Light",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 965986,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Break forth, O beauteous heavenly light,",
+        "And usher in the morning;",
+        "Ye shepherds, shrink not with affright,",
+        "But hear the angel’s warning.",
+        "This Child, now weak in infancy,",
+        "Our confidence and joy shall be,",
+        "The power of Satan breaking,",
+        "Our peace eternal making."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Break forth, O beauteous heavenly light,",
+        "To herald our salvation;",
+        "He stoops to earth - the God of might,",
+        "Our hope and expectation.",
+        "He comes in human flesh to dwell,",
+        "Our God with us, Immanuel,",
+        "The night of darkness ending,",
+        "Our fallen race befriending."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

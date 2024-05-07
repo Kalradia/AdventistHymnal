@@ -1,0 +1,76 @@
+{
+  "Number": 524,
+  "Title": "Tis So Sweet to Trust in Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "’Tis so sweet to trust in Jesus,",
+        "and to take him at his word;",
+        "just to rest upon his promise,",
+        "and to know, “Thus saith the Lord.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Jesus, Jesus, how I trust him!",
+        "How I’ve proved him o’er and o’er!",
+        "Jesus, Jesus, precious Jesus!",
+        "O for grace to trust him more!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "O how sweet to trust in Jesus,",
+        "just to trust his cleansing blood;",
+        "and in simple faith to plunge me",
+        "neath the healing, cleansing flood!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Yes, ’tis sweet to trust in Jesus,",
+        "just from sin and self to cease;",
+        "just from Jesus simply taking",
+        "life and rest, and joy and peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "I’m so glad I learned to trust thee,",
+        "precious Jesus, Saviour, friend;",
+        "and I know that thou art with me,",
+        "wilt be with me to the end."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

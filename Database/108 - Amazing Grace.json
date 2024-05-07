@@ -1,0 +1,76 @@
+{
+  "Number": 108,
+  "Title": "Amazing Grace",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Amazing grace! How sweet the sound",
+        "that saved a wretch like me!",
+        "I once was lost, but now am found;",
+        "was blind, but now I see."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "’Twas grace that taught my heart to fear,",
+        "and grace my fears relieved;",
+        "how precious did that grace appear",
+        "the hour I first believed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The Lord has promised good to me,",
+        "his word my hope secures;",
+        "he will my shield and portion be,",
+        "as long as life endures."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Through many dangers, toils, and snares,",
+        "I have already come;",
+        "’tis grace hath brought me safe thus far,",
+        "and grace will lead me home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "When we’ve been there ten thousand years,",
+        "bright shining as the sun,",
+        "we’ve no less days to sing God’s praise",
+        "than when we first begun."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

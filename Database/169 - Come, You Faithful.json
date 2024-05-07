@@ -1,0 +1,61 @@
+{
+  "Number": 169,
+  "Title": "Come, You Faithful",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, you faithful, raise the strain",
+        "Of triumphant gladness;",
+        "God has brought His people",
+        "Now rejoice, Jerusalem,",
+        "And with true affection",
+        "Welcome in unwearied strains",
+        "Jesus’ resurrection."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "’Tis the spring of souls today;",
+        "Christ has burst His prison",
+        "From the frost and gloom of death",
+        "light and life have risen",
+        "All the winter of our sins,",
+        "Long and dark, is flying",
+        "From His light, to whom we give",
+        "Thanks and praise undying."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "“Alleluia!” now we cry",
+        "to our King immortal,",
+        "Who, triumphant, burst the",
+        "bars of the tomb’s dark portal",
+        "“Alleluia!” with the Son,",
+        "God the Father praising;",
+        "“Alleluia!” yet again to",
+        "the Spirit raising."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

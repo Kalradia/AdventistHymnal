@@ -1,0 +1,24 @@
+{
+  "Number": 681,
+  "Title": "This Is the Day the Lord Hath Made",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "This is the day the Lord hath made;",
+        "he calls the hours his own.",
+        "Let heaven rejoice, let earth be glad,",
+        "and praise surround the throne."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

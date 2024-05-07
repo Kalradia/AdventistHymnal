@@ -1,0 +1,71 @@
+{
+  "Number": 15,
+  "Title": "My Maker and My King",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My Maker and my King,",
+        "To Thee my all I owe;",
+        "Thy sovereign bounty is the spring",
+        "Whence all my blessings flow;",
+        "Thy sovereign bounty is the spring",
+        "Whence all my blessings flow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The creature of Thy hand,",
+        "On Thee alone I live;",
+        "My God, Thy benefits demand",
+        "More praise than I can give.",
+        "My God, Thy benefits demand",
+        "More praise than I can give."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, what can I impart",
+        "When all is Thine before?",
+        "Thy love demands a thankful heart;",
+        "The gift, alas! how poor.",
+        "Thy love demands a thankful heart;",
+        "The gift, alas! how poor."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O! let Thy grace inspire",
+        "My soul with strength divine;",
+        "Let every word each desire",
+        "And all my days be Thine.",
+        "Let every word each desire",
+        "And all my days be Thine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

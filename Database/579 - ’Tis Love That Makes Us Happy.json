@@ -1,0 +1,65 @@
+{
+  "Number": 579,
+  "Title": "’Tis Love That Makes Us Happy",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "’Tis love that makes us happy,",
+        "’Tis love that smooths the way;",
+        "It helps us mind, it makes us kind",
+        "To others every day."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "God is love; we’re His little children.",
+        "God is love; we would be like Him.",
+        "’Tis love that makes us happy,",
+        "’Tis love that smooths the way;",
+        "It helps us mind, it makes us kind",
+        "To others every day."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "This world is full of sorrow,",
+        "Of sickness, death, and sin;",
+        "With loving heart we’ll do our part,",
+        "And try some soul to win."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And when this life is over,",
+        "And we are called above",
+        "Our song shall be, eternally,",
+        "Of Jesus and His love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

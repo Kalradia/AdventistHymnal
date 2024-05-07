@@ -1,0 +1,76 @@
+{
+  "Number": 252,
+  "Title": "Come, Let Us Sing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, let us sing the song of songs-",
+        "The angels first began the strain-",
+        "The homage which to Christ belongs:",
+        "“Worthy the Lamb, for He was slain!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Slain to redeem us by His blood,",
+        "To cleanse from every sinful stain,",
+        "And make us kings and priests to God:",
+        "“Worthy the Lamb, for He was slain!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "To Him who suffered on the tree,",
+        "Our souls, at His soul’s price, to gain,",
+        "Blessing, and praise, and glory be:",
+        "“Worthy the Lamb, for He was slain!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "To Him, enthroned by filial right",
+        "All power in heaven and earth proclaim,",
+        "Honour, and majesty, and might:",
+        "“Worthy the Lamb, for He was slain!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Long as we live, and when we die,",
+        "And while in heaven with Him we reign,",
+        "This song our song of songs shall be:",
+        "“Worthy the Lamb, for He was slain!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

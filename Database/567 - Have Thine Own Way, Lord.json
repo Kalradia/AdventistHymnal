@@ -1,0 +1,63 @@
+{
+  "Number": 567,
+  "Title": "Have Thine Own Way, Lord",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Have thine own way, Lord! Have thine own way!",
+        "Thou art the potter, I am the clay.",
+        "Mold me and make me after thy will,",
+        "while I am waiting, yielded and still."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Have thine own way, Lord! Have thine own way!",
+        "Search me and try me, Saviour today!",
+        "Wash me just now, Lord, wash me just now,",
+        "as in thy presence humbly I bow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Have thine own way, Lord! Have thine own way!",
+        "Wounded and weary, help me I pray!",
+        "Power, all power, surely is thine!",
+        "Touch me and heal me, Saviour divine!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Have thine own way, Lord! Have thine own way!",
+        "Hold o’er my being absolute sway.",
+        "Fill with thy Spirit till all shall see",
+        "Christ only, always, living in me!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

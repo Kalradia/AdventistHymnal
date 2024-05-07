@@ -1,0 +1,63 @@
+{
+  "Number": 539,
+  "Title": "I Will Early Seek the Saviour",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I will early seek the Saviour,",
+        "I will learn of Him each day;",
+        "I will follow in His footsteps,",
+        "I will walk the narrow way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "For He loves me, yes, He loves me,",
+        "Jesus loves me, this I know.",
+        "Jesus loves me, died to save me,",
+        "This is why I love Him so."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I will hasten where He bids me,",
+        "I am not too young to go",
+        "In the pathway where He leadeth,",
+        "Not too young His will to know."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "He is standing at the doorway",
+        "Of escape from every sin;",
+        "I will knock, for He has promised,",
+        "He will hear and let me in."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

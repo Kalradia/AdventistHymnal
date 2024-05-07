@@ -1,0 +1,63 @@
+{
+  "Number": 597,
+  "Title": "Ye Servants of the Lord",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Ye servants of the Lord,",
+        "Each in his office wait,",
+        "Observant of His heavenly Word,",
+        "And watchful at His gate."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Let all your lamps be bright,",
+        "And trim the golden flame,",
+        "Gird up your loins as in His sight,",
+        "His coming thus proclaim."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Watch, ’tis your Lord’s command,",
+        "And while we speak He’s near;",
+        "Mark the first signal of His hand,",
+        "And ready all appear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O happy servant, he,",
+        "In such a posture found!",
+        "He shall His Lord with rapture see,",
+        "And be with honour crowned."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

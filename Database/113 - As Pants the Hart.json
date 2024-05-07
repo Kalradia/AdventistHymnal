@@ -1,0 +1,63 @@
+{
+  "Number": 113,
+  "Title": "As Pants the Hart",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "As pants the hart for cooling streams",
+        "When heated in the chase,",
+        "So longs my soul, O God, for Thee,",
+        "And Thy refreshing grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "For Thee, my God, the living God,",
+        "My thirsty soul doth pine:",
+        "O when shall I behold Thy face,",
+        "Thou Majesty divine?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Why restless, why cast down, my soul?",
+        "Hope still, and thou shalt sing",
+        "The praise of Him who is thy God,",
+        "Thy health’s eternal spring."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "To Father, Son, and Holy Ghost,",
+        "The God whom we adore,",
+        "Be glory, as it was, is now,",
+        "And shall be evermore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

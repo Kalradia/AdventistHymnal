@@ -1,0 +1,76 @@
+{
+  "Number": 93,
+  "Title": "All Things Bright and Beautiful",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All things bright and beautiful",
+        "All creatures great and small",
+        "All things wise and wonderful",
+        "The Lord God made them all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Each little flow’r that opens",
+        "Each little bird that sings",
+        "He made their glowing colours",
+        "He made their tiny wings."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The purple-headed mountain",
+        "The river running by",
+        "The sunset and the morning",
+        "That brighten up the sky."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The cold wind in the winter",
+        "The pleasant summer sun",
+        "The ripe fruits in the garden",
+        "He made them, every one."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "He gave us eyes to see them",
+        "And lips that we might tell",
+        "How great is God Almighty",
+        "Who has made all things well."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

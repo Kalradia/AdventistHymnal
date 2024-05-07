@@ -1,0 +1,76 @@
+{
+  "Number": 232,
+  "Title": "At the Name of Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "At the name of Jesus every knee shall bow,",
+        "Every tongue confess Him King of glory now;",
+        "“Tis the Father’s pleasure we should call Him Lord,",
+        "Who from the beginning was the mighty Word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "At His voice creation sprang at once to sight,",
+        "All the angel faces, All the hosts of light,",
+        "Thrones and dominations stars upon their way,",
+        "All the heavenly orders in their great array."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Humbled for a season, To receive a name",
+        "From the lips of sinners, Unto whom He came;",
+        "He is God the Saviour, He is Christ the Lord,",
+        "Ever to be worshiped, Trusted and adored."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In your hearts enthrone Him: There let Him subdue",
+        "All that is not holy, All that is not true;",
+        "Crown Him as your captain in temptation’s hour,",
+        "Let His will enfold you in its light and power."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Surely, this Lord Jesus shall return again,",
+        "With His Father’s glory, With His angel train;",
+        "For all wreaths of empire meet upon His brow,",
+        "And our hearts confess Him King of glory now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

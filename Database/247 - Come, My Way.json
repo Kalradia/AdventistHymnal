@@ -1,0 +1,50 @@
+{
+  "Number": 247,
+  "Title": "Come, My Way",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, my Way, my Truth, my Life:",
+        "such a way as gives us breath,",
+        "such a truth as ends all strife,",
+        "such a life as killeth death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come, my Light, my Feast, my Strength:",
+        "such a light as shows a feast,",
+        "such a feast as mends in length,",
+        "such a strength as makes his guest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come, my Joy, my Love, my Heart:",
+        "such a joy as none can move,",
+        "such a love as none can part,",
+        "such a heart as joys in love."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

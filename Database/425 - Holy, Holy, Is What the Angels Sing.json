@@ -1,0 +1,95 @@
+{
+  "Number": 425,
+  "Title": "Holy, Holy, Is What the Angels Sing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There is singing up in heaven",
+        "such as we have never known,",
+        "Where the angels sing the praises",
+        "of the Lamb upon the throne;",
+        "Their sweet harps are ever tuneful",
+        "and their voices are always clear,",
+        "O that we might be more like them",
+        "while we serve the Master here!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Holy, holy, is what the angels sing,",
+        "And I expect to help them make",
+        "the courts of heaven ring;",
+        "But when I sing redemption’s story,",
+        "they will fold their wings,",
+        "For angels never felt the joys",
+        "that our salvation brings."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "But I hear another anthem,",
+        "blending voices clear and strong,",
+        "“Unto Him who hath redeemed us",
+        "and hath bought us,” is the song;",
+        "We have come thro’ tribulations",
+        "to this land so fair and bright,",
+        "In the fountain freely flowing",
+        "He hath made our garments white."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Then the angels stand and listen,",
+        "for they cannot join that song,",
+        "Like the sound of many waters,",
+        "by that happy, blood-washed throng;",
+        "For they sing about great trials,",
+        "battles fought and vict’ries won,",
+        "And they praised the great Redeemer,",
+        "who hath said to them, “Well done.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "So, although I’m not an angel,",
+        "yet I know that over there",
+        "I will join a blessed chorus",
+        "that the angels cannot share;",
+        "I will sing about my Saviour,",
+        "who upon dark Calvary",
+        "Freely pardoned my transgressions,",
+        "died to set the sinner free."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

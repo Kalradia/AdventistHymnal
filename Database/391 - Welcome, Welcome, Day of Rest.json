@@ -1,0 +1,62 @@
+{
+  "Number": 391,
+  "Title": "Welcome, Welcome, Day of Rest",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "To the world in kindness given;",
+        "Welcome to this humble breast,",
+        "As the beaming light from heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Day of calm and sweet repose,",
+        "Gently now thy moments run;",
+        "Balm to soothe our cares and woes,",
+        "Till our labour here is done."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Holy day that most we prize,",
+        "Day of solemn praise and prayer,",
+        "Day to make the simple wise,",
+        "O, how great thy blessings are!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Welcome, welcome, day of rest,",
+        "With thy influence all divine;",
+        "May thy hallowed hours be blessed",
+        "to this waiting heart of mine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

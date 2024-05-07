@@ -1,0 +1,96 @@
+{
+  "Number": 158,
+  "Title": "Were You There",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Were you there when",
+        "they crucified my Lord?",
+        "Were you there when",
+        "they crucified my Lord?",
+        "O! Sometimes it causes me to",
+        "tremble, tremble, tremble.",
+        "Were you there when",
+        "they crucified my Lord?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Were you there when",
+        "they nailed Him to the tree?",
+        "Were you there when",
+        "they nailed Him to the tree?",
+        "O! Sometimes it causes me to",
+        "tremble, tremble, tremble.",
+        "Were you there when",
+        "they nailed Him to the tree?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Were you there when",
+        "they pierced Him in the side?",
+        "Were you there when",
+        "they pierced Him in the side?",
+        "O! Sometimes it causes me to",
+        "tremble, tremble, tremble.",
+        "Were you there when",
+        "they pierced Him in the side?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Were you there when",
+        "the sun refused to shine?",
+        "Were you there when",
+        "the sun refused to shine?",
+        "O! Sometimes it causes me to",
+        "tremble, tremble, tremble.",
+        "Were you there when",
+        "the sun refused to shine?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Were you there when",
+        "they laid Him in the tomb?",
+        "Were you there when",
+        "they laid Him in the tomb?",
+        "O! Sometimes it causes me to ",
+        "tremble, tremble, tremble.",
+        "Were you there when",
+        "they laid Him in the tomb?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

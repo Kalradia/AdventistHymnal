@@ -1,0 +1,63 @@
+{
+  "Number": 395,
+  "Title": "As Birds Unto the Genial Homeland",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "As birds unto the genial homeland fly,",
+        "The winter’s cold and low’ring skies to flee,",
+        "So seeks my soul Thy gracious presence here",
+        "And finds, O God, its rest and peace in Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Here at Thy shrine we leave all vexing care,",
+        "For get the disappointment, grief and tear,",
+        "And on the wings of hopeful song and prayer",
+        "We rise, and rising feel Thy Spirit here."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Bless all who spend this night in pain and woe,",
+        "The burdened heart, the fainting, and distressed,",
+        "Thy comfort send to darkened homes bereaved,",
+        "Thy saving help to those by want oppressed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Come, Sabbath joy, each trusting heart now fill,",
+        "And blissful peace within our homes abide,",
+        "May thankful praise each grateful heart now thrill,",
+        "And to God’s loving care their lives confide."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

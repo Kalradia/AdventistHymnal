@@ -1,0 +1,67 @@
+{
+  "Number": 76,
+  "Title": "O Love That Wilt Not Let Me Go",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Love that wilt not let me go,",
+        "I rest my weary soul in thee;",
+        "I give thee back the life I owe,",
+        "that in thine ocean depths",
+        "its flow may richer, fuller be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O Light that followest all my way,",
+        "I yield my flickering torch to thee;",
+        "my heart restores its borrowed ray,",
+        "that in they sunshine’s blaze",
+        "its day may brighter, fairer be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O Joy that seekest me through pain,",
+        "I cannot close my heart to thee;",
+        "I trace the rainbow thru the rain,",
+        "and feel the promise is not vain,",
+        "that morn shall tearless be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Cross that liftest up my head,",
+        "I dare not ask to fly from thee;",
+        "I lay in dust life’s glory dead,",
+        "and from the ground there blossoms",
+        "red life that shall endless be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

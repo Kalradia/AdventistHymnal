@@ -1,0 +1,63 @@
+{
+  "Number": 308,
+  "Title": "Wholly Thine",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I would be, dear Saviour, wholly Thine;",
+        "Teach me how, teach me how;",
+        "I would do Thy will, O Lord, not mine;",
+        "Help me, help me now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Wholly Thine, wholly Thine,",
+        "Wholly Thine, this is my vow;",
+        "Wholly Thine, wholly Thine,",
+        "Wholly Thine, O Lord, just now."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "What is worldly pleasure, wealth or fame,",
+        "Without Thee, without Thee?",
+        "I will leave them all for Thy dear Name,",
+        "This my wealth shall be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "As I cast earth’s transient joys behind,",
+        "Come Thou near, come Thou near;",
+        "In Thy presence all in all I find,",
+        "’Tis my comfort here."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

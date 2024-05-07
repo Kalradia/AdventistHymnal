@@ -1,0 +1,79 @@
+{
+  "Number": 206,
+  "Title": "Face to Face",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Face to face with Christ my Saviour,",
+        "Face to face, what will it be,",
+        "When with rapture I behold Him,",
+        "Jesus Christ, who died for me?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Face to face shall I behold Him,",
+        "Far beyond the starry sky;",
+        "Face to face in all His glory",
+        "I shall see Him by and by!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Only faintly now I see Him,",
+        "With the darkening veil between,",
+        "But a blessed day is coming,",
+        "When His glory shall be seen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "What rejoicing in His presence,",
+        "When are banished grief and pain;",
+        "When the crooked ways are straightened,",
+        "And the dark things shall be plain!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Face to face! oh, blissful moment!",
+        "Face to face to see and know;",
+        "Face to face with my Redeemer,",
+        "Jesus Christ, who loves me so."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

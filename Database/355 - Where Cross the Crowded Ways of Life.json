@@ -1,0 +1,76 @@
+{
+  "Number": 355,
+  "Title": "Where Cross the Crowded Ways of Life",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Where cross the crowded ways of life,",
+        "where sound the cries of race and clan,",
+        "above the noise of selfish strife,",
+        "we hear your voice, O Son of Man."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "From tender childhood’s helplessness,",
+        "from woman’s grief, man’s burdened toil,",
+        "from famished souls, from sorrow’s stress,",
+        "your heart has never known recoil."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The cup of water given for you still",
+        "holds the freshness of your grace;",
+        "yet long these multitudes to view",
+        "the sweet compassion of your face."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Master, from the mountainside",
+        "make haste to heal these hearts of pain;",
+        "among these restless throngs abide;",
+        "O tread the city’s streets again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Till all the world shall learn your love",
+        "and follow where your feet have trod,",
+        "till, glorious from your heaven above,",
+        "shall come the city of our God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

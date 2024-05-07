@@ -1,0 +1,63 @@
+{
+  "Number": 350,
+  "Title": "Blest Be the Tie That Binds",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Blest be the tie that binds",
+        "our hearts in Christian love;",
+        "the fellowship of kindred minds",
+        "is like to that above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Before our Father’s throne",
+        "we pour our ardent prayers;",
+        "our fears, our hopes, our aims are one,",
+        "our comforts and our cares."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We share each other’s woes,",
+        "our mutual burdens bear;",
+        "and often for each other flows",
+        "the sympathising tear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "When we asunder part,",
+        "it gives us inward pain;",
+        "but we shall still be joined in heart,",
+        "and hope to meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

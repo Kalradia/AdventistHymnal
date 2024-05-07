@@ -1,0 +1,62 @@
+{
+  "Number": 230,
+  "Title": "All Glory, Laud, and Honour",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All glory, laud, and honour,",
+        "to thee, Redeemer, King,",
+        "to whom the lips of children",
+        "made sweet hosannas ring.",
+        "Thou art the King of Israel,",
+        "thou David’s royal Son,",
+        "who in the Lord’s name comest,",
+        "the King and Blessed One."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The company of angels",
+        "are praising thee on high,",
+        "and we with all creation",
+        "in chorus make reply.",
+        "The people of the Hebrews",
+        "with psalms before thee went;",
+        "our prayer and praise and anthems",
+        "before thee we present."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "To thee, before thy passion,",
+        "they sang their hymns of praise;",
+        "to thee, now high exalted,",
+        "our melody we raise.",
+        "Thou didst accept their praises;",
+        "accept the prayers we bring,",
+        "who in all good delightest,",
+        "thou good and gracious King."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Number": 523,
+  "Title": "My Faith Has Found a Resting Place",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My faith has found a resting place,",
+        "Not in a manmade creed;",
+        "I trust the ever living One,",
+        "That He for me shall plead."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I need no other evidence,",
+        "I need no other plea;",
+        "It is enough that Jesus died,",
+        "And rose again for me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Enough for me that Jesus saves,",
+        "This ends my fear and doubt;",
+        "A sinful soul, I come to Him,",
+        "He will not cast me out."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "My soul is resting on the Word,",
+        "The living Word of God,",
+        "Salvation in my Saviour’s name,",
+        "Salvation through His blood."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "My great Physician heals the sick,",
+        "The lost He came to save;",
+        "For me His precious blood He shed,",
+        "For me His life He gave."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

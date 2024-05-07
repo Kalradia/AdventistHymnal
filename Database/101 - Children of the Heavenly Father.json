@@ -1,0 +1,76 @@
+{
+  "Number": 101,
+  "Title": "Children of the Heavenly Father",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Children of the heavenly Father",
+        "Safely in His bosom gather;",
+        "Nestling bird nor star in heaven",
+        "Such a refuge e’er was given."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "God His own doth tend and nourish,",
+        "In His holy love they flourish;",
+        "From all evil things He spares them,",
+        "In His mighty arms He bears them."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Neither life nor death shall ever",
+        "From the Lord His children sever;",
+        "Unto them His grace He showeth,",
+        "And their sorrows all He knoweth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Praise the Lord in joyful numbers,",
+        "Your Protector never slumbers;",
+        "At the will of your Defender",
+        "Every foe-man must surrender."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Though He giveth or He taketh,",
+        "God His children ne’er forsaketh;",
+        "His the loving purpose solely",
+        "To preserve them pure and holy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

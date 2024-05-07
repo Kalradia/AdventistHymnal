@@ -1,0 +1,59 @@
+{
+  "Number": 162,
+  "Title": "Wondrous Love",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "What wondrous love is this,",
+        "O my soul, O my soul?",
+        "What wondrous love is this, O my soul?",
+        "What wondrous love is this",
+        "That caused the Lord of bliss",
+        "To bear the dreadful curse for my soul, for my soul;",
+        "To bear the dreadful curse for my soul."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "To God and to the Lamb",
+        "I will sing, I will sing;",
+        "To God and to the Lamb, I will sing;",
+        "To God and to the Lamb",
+        "Who is the great I am,",
+        "While millions join the theme, I will sing, I will sing;",
+        "While millions join the theme, I will sing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And when from death I’m free,",
+        "I’ll sing on, I’ll sing on;",
+        "And when from death I’m free, I’ll sing on;",
+        "And when from death I’m free,",
+        "I’ll sing and joyful be,",
+        "And through eternity I’ll sing on, I’ll sing on!",
+        "And through eternity, I’ll sing on."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

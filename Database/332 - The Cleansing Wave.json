@@ -1,0 +1,76 @@
+{
+  "Number": 332,
+  "Title": "The Cleansing Wave",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Oh now I see the crimson wave,",
+        "The fountain deep and wide;",
+        "Jesus, my Lord, mighty to save,",
+        "Points to His wounded side."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The cleansing stream I see, I see,",
+        "I plunge, and O, it cleanseth me!",
+        "O praise the Lord! it cleanseth me,",
+        "It cleanseth me, yes, cleanseth me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I see the new creation rise,",
+        "I hear the speaking blood;",
+        "It speaks polluted nature dies,",
+        "Sinks ’neath the cleansing flood."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I rise to walk in heaven’s own light,",
+        "Above the world and sin;",
+        "With heart made pure and garments white,",
+        "And Christ enthroned within."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Amazing grace! ’tis heaven below",
+        "To feel the blood applied,",
+        "And Jesus, only Jesus, know,",
+        "My Jesus crucified."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

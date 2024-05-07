@@ -1,0 +1,66 @@
+{
+  "Number": 111,
+  "Title": "It Took a Miracle",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 2588,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My Father is omnipotent",
+        "And that you can’t deny;",
+        "A God of might and miracles;",
+        "’Tis written in the sky."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "It took a miracle to put the stars in place;",
+        "It took a miracle to hang the world in space.",
+        "But when He saved my soul,",
+        "Cleansed and made me whole,",
+        "It took a miracle of love and grace!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Though here His glory has been shown,",
+        "We still can’t fully see",
+        "The wonders of His might, His throne;",
+        "’Till eternity."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The Bible tells us of His power",
+        "And wisdom all way through;",
+        "And every little bird and flower",
+        "Are testimonies, too."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

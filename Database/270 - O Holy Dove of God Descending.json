@@ -1,0 +1,63 @@
+{
+  "Number": 270,
+  "Title": "O Holy Dove of God Descending",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 212299,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O holy Dove of God descending,",
+        "You are the love that knows no ending.",
+        "All of our shattered dreams You’re mending:",
+        "Spirit, now live in me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O holy Wind of God now blowing,",
+        "You are the seed that God us sowing.",
+        "You are the life that starts us growing:",
+        "Spirit, now live in me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O holy Rain of God now falling,",
+        "You make the Word of God enthralling,",
+        "You are that inner voice now calling:",
+        "Spirit, now live in me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O holy Flame of God now burning,",
+        "You are the power of Christ returning.",
+        "You are the answer to our yearning:",
+        "Spirit, now live in me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

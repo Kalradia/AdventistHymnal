@@ -1,0 +1,79 @@
+{
+  "Number": 184,
+  "Title": "Jesus Paid It All",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I hear the Saviour say,",
+        "“Thy strength indeed is small;",
+        "Child of weakness, watch and pray,",
+        "Find in Me thine all in all.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Jesus paid it all,",
+        "All to Him I owe;",
+        "Sin had left a crimson stain,",
+        "He washed it white as snow."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Lord, now indeed I find",
+        "Thy power and Thine alone,",
+        "Can change the leper’s spots",
+        "And melt the heart of stone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Since nothing good have I",
+        "Whereby Thy grace to claim,",
+        "I’ll wash my garments white",
+        "In the blood of Calv’ry’s Lamb."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "And when before the throne",
+        "I stand in Him complete,",
+        "I’ll lay my trophies down",
+        "All down at Jesus’ feet."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus"
+  ]
+}

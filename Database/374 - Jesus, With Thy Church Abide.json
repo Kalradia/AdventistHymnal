@@ -1,0 +1,63 @@
+{
+  "Number": 374,
+  "Title": "Jesus, With Thy Church Abide",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, with Thy church abide;",
+        "Be her Saviour, Lord, and Guide,",
+        "While on earth her faith is tried:",
+        "We beseech Thee, hear us."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "May her voice be ever clear,",
+        "Warning of a judgment near,",
+        "Telling of a Saviour dear:",
+        "We beseech Thee, hear us."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "May she guide the poor and blind,",
+        "Seek the lost until she find,",
+        "And the broken hearted bind:",
+        "We beseech Thee, hear us."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "May she holy triumps win,",
+        "Overthrow the hosts of sin,",
+        "Gather all the nations in:",
+        "We beseech Thee, hear us."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

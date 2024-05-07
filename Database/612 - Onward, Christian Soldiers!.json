@@ -1,0 +1,74 @@
+{
+  "Number": 612,
+  "Title": "Onward, Christian Soldiers!",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Onward, Christian soldiers, marching as to war,",
+        "with the cross of Jesus going on before.",
+        "Christ, the royal Master, leads against the foe;",
+        "forward into battle see his banners go!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Onward, Christian soldiers, marching as to war,",
+        "with the cross of Jesus going on before."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Like a mighty army moves the church of God;",
+        "brothers, we are treading where the saints have trod.",
+        "We are not divided, all one body we,",
+        "one in hope and doctrine, one in charity."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Crowns and thrones my perish, kingdoms rise and wane,",
+        "but the church of Jesus constant will remain.",
+        "Gates of hell can never ’gainst that church prevail;",
+        "we have Christ’s own promise, and that cannot fail."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Onward then, ye people, join our happy throng,",
+        "blend with ours your voices in the triumph song.",
+        "Glory, laud, and honour unto Christ the King,",
+        "this through countless ages men and angels sing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Number": 203,
+  "Title": "This Is the Threefold Truth",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 57746,
+  "Stanzas": [
+    {
+      "Lines": [
+        "This is the threefold truth",
+        "On which our faith depends;",
+        "And with this joyful cry",
+        "Worship begins and ends;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Christ has died!",
+        "Christ is risen!",
+        "Christ will come again!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "By this we are upheld",
+        "When doubt and grief assails",
+        "Our Christian fortitude,",
+        "And only grace avails."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "This is the threefold truth",
+        "Which, if we hold it fast,",
+        "Changes the world and us",
+        "And brings us home at last."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

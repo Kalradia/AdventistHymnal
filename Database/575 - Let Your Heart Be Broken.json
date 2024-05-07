@@ -1,0 +1,76 @@
+{
+  "Number": 575,
+  "Title": "Let Your Heart Be Broken",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let your heart be broken for a world in need:",
+        "Feed the mouths that hunger, soothe the wounds that bleed,",
+        "Give the cup of water and the loaf of bread",
+        "Be the hands of Jesus, serving in His stead."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Here on earth applying principles of love,",
+        "Visible expression - God still rules above",
+        "Living illustration of the Living Word",
+        "To the minds of all who’ve Never seen or heard."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Blest to be a blessing privileged to care,",
+        "Challenged by the need apparent everywhere.",
+        "Where mankind is wanting, fill the vacant place.",
+        "Be the means through which the Lord reveals His grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Add to your believing deeds that prove it true,",
+        "Knowing Christ as Saviour, make Him Master, too.",
+        "Follow in His footsteps, go where He has trod;",
+        "In the world’s great trouble risk yourself for God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Let your heart be tender and your vision clear;",
+        "See mankind as God sees, serve Him far and near.",
+        "Let your heart be broken by a brother’s pain;",
+        "Share your rich resources, give and give again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

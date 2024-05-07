@@ -1,0 +1,65 @@
+{
+  "Number": 3,
+  "Title": "God Himself Is With Us",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God Himself is with us;",
+        "Let us all adore Him,",
+        "And with awe appear before Him.",
+        "God is here within us;",
+        "Soul, in silence fear Him,",
+        "Humbly, fervently draw near Him.",
+        "Now His own who have known God,",
+        "In worship lowly,",
+        "Yield their spirits wholly."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come, abide within me;",
+        "Let my soul, like Mary,",
+        "Be Thine earthly sanctuary.",
+        "Come, indwelling Spirit,",
+        "With transfigured splendour;",
+        "Love and honour will I render.",
+        "Where I go here below,",
+        "Let me bow before Thee,",
+        "Know Thee and adore Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Gladly we surrender",
+        "Earth’s deceitful treasures,",
+        "Pride of life and sinful pleasures:",
+        "Gladly, Lord, we offer",
+        "Thine to be forever,",
+        "Soul and life and each endeavour.",
+        "Thou alone shall be known",
+        "Lord of all our being,",
+        "Life’s true way decreeing."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

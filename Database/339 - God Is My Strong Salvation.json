@@ -1,0 +1,45 @@
+{
+  "Number": 339,
+  "Title": "God Is My Strong Salvation",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God is my strong salvation,",
+        "What foe have I to fear?",
+        "In darkness and temptation,",
+        "My Light, my Help, is near:",
+        "Though hosts encamp around me,",
+        "Firm in the fight I stand;",
+        "What terror can confound me,",
+        "With God at my right hand?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Place on the reliance;",
+        "My soul with courage wait;",
+        "His truth be thine affiance,",
+        "When faint and desolate.",
+        "His might thy heart shall strengthen,",
+        "His love thy joy increase;",
+        "Mercy thy days shall lengthen;",
+        "The Lord will give thee peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

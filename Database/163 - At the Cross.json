@@ -1,0 +1,66 @@
+{
+  "Number": 163,
+  "Title": "At the Cross",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Alas! and did my Saviour bleed,",
+        "and did my Sovereign die?",
+        "Would he devote that sacred head",
+        "for sinners such as I?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "At the cross, at the cross,",
+        "where I first saw the light,",
+        "and the burden of my heart rolled away;",
+        "it was there by faith I received my sight,",
+        "and now I am happy all the day!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Was it for crimes that I have done,",
+        "he groaned upon the tree?",
+        "Amazing pity! Grace unknown!",
+        "And love beyond degree!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "But drops of grief can ne’er repay",
+        "the debt of love I owe:",
+        "Here, Lord, I give myself away;",
+        "’tis all that I can do!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Number": 161,
+  "Title": "Throned Upon the Awful Tree",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Throned upon the awful tree,",
+        "Lamb of God, Your grief we see.",
+        "Darkness veils Your anguished face;",
+        "None its lines of woe can trace.",
+        "None can tell what pangs unknown",
+        "Hold You silent and alone."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Silent through those three dread hours,",
+        "Wrestling with the evil powers,",
+        "Left alone with human sin,",
+        "Gloom around You and within,",
+        "Till th’appointed time is nigh,",
+        "Till the Lamb of God may die."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Hark, that cry that peals aloud",
+        "Upward through the whelming cloud!",
+        "You, the Father’s only Son,",
+        "You, His own anointed one,",
+        "You are asking- can it be?",
+        "“Why have You forsaken Me?”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, should fear and anguish roll",
+        "Darkly o’er our sinful soul,",
+        "You, who once were thus bereft",
+        "That Your own might ne’er be left,",
+        "Teach us by that bitter cry",
+        "In the gloom to know You nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

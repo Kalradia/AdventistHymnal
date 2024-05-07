@@ -1,0 +1,76 @@
+{
+  "Number": 79,
+  "Title": "O Love of God, How Strong and True!",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O love of God, how strong and true!",
+        "Eternal, and yet ever new;",
+        "Uncomprehended and unbought,",
+        "Beyond all knowledge and all thought."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O love of God, how deep and great,",
+        "Far deeper than man’s deepest hate;",
+        "Self-fed, self-kindled like the light,",
+        "Changeless, eternal, infinite."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We read thee best in Him who cam",
+        "To bear for us the cross of shame;",
+        "Sent by the Father from on high,",
+        "Our life to live, our death to die."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "We read thy power to bless and save,",
+        "E’en in the darkness of the grave;",
+        "Still more in resurrection light",
+        "We read the fullness of thy might."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "O love of God, our shield and stay",
+        "Through all the perils of our way!",
+        "Eternal love, in thee we rest,",
+        "Forever safe, forever blest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

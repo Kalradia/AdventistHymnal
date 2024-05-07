@@ -1,0 +1,63 @@
+{
+  "Number": 320,
+  "Title": "Lord of Creation",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord of creation, to you be all praise!",
+        "Most mighty your working, most wondrous your ways!",
+        "Your glory and might are beyond us to tell,",
+        "And yet in the heart of the humble you dwell."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord of all power, I give you my will,",
+        "In joyful obedience your tasks to fulfill.",
+        "Your bondage is freedom; your service is song;",
+        "And held in your keeping, my weakness is strong."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord of all wisdom, I give you my mind,",
+        "Rich truth that surpasses man’s knowledge to find;",
+        "What eye has not seen and what ear has not heard",
+        "Is taught by your spirit and shines from your word."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord of all being, I give you my all,",
+        "If I ever disown you, I stumble and fall;",
+        "But led in your service your word to obey,",
+        "I’ll walk in your freedom to the end of the way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

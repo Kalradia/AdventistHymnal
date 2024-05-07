@@ -1,0 +1,55 @@
+{
+  "Number": 463,
+  "Title": "Peace, Perfect Peace",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Peace, perfect peace, in this dark world of sin?",
+        "The blood of Jesus whispers peace within."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Peace, perfect peace, by thronging duties pressed?",
+        "To do the will of Jesus: this is rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Peace, perfect peace, with loved ones far away?",
+        "In Jesus’ keeping we are safe, and they."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Peace, perfect peace, our future all unknown?",
+        "Jesus we know, and He is on the throne."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "Number": 309,
+  "Title": "I Surrender All",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All to Jesus I surrender;",
+        "all to him I freely give;",
+        "I will ever love and trust him,",
+        "in his presence daily live."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I surrender all, I surrender all,",
+        "all to thee, my blessed Saviour,",
+        "I surrender all."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "All to Jesus I surrender;",
+        "humbly at his feet I bow,",
+        "worldly pleasures all forsaken;",
+        "take me, Jesus, take me now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All to Jesus I surrender;",
+        "make me, Saviour, wholly thine;",
+        "fill me with thy love and power;",
+        "truly know that thou art mine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "All to Jesus I surrender;",
+        "now I feel the sacred flame.",
+        "O the joy of full salvation!",
+        "Glory, glory, to his name!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

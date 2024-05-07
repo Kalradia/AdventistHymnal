@@ -1,0 +1,50 @@
+{
+  "Number": 477,
+  "Title": "Come, Ye Disconsolate",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, ye disconsolate, where’er ye languish.",
+        "come to the mercy seat, fervently kneel.",
+        "Here bring your wounded hearts, here tell your anguish;",
+        "earth has no sorrow that heaven cannot heal."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Joy of the desolate, light of the straying,",
+        "hope of the penitent, fadeless and pure!",
+        "Here speaks the Comforter, tenderly saying,",
+        "“Earth has no sorrow that heaven cannot cure.”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Here see the bread of life; waters flowing",
+        "forth from the throne of God, pure from above.",
+        "Come to the feast of love; come, ever knowing",
+        "earth has no sorrow but heaven can remove."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

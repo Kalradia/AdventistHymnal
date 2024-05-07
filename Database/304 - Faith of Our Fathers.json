@@ -1,0 +1,56 @@
+{
+  "Number": 304,
+  "Title": "Faith of Our Fathers",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Faith of our fathers, living still,",
+        "In spite of dungeon, fire and sword;",
+        "O how our hearts beat high with joy",
+        "Whenever we hear that glorious Word!",
+        "Faith of our fathers, holy faith!",
+        "We will be true to thee till death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Our fathers, chained in prisons dark,",
+        "Were still in heart and conscience free:",
+        "How sweet would be their children’s fate.",
+        "If they, like them, could die for thee!",
+        "Faith of our fathers, holy faith!",
+        "We will be true to thee till death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Faith of our fathers, we will love",
+        "Both friend and foe in all our strife;",
+        "And preach Thee, too, as love knows how",
+        "By kindly words and virtuous life.",
+        "Faith of our fathers, holy faith!",
+        "We will be true to thee till death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

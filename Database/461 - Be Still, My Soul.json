@@ -1,0 +1,65 @@
+{
+  "Number": 461,
+  "Title": "Be Still, My Soul",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Be still, my soul:",
+        "the Lord is on thy side;",
+        "Bear patiently the cross of grief or pain;",
+        "Leave to thy God to order and provide;",
+        "In every change He faithful will remain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Be still, my soul:",
+        "thy best, thy heavenly friend",
+        "Through thorny ways leads to a joyful end."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Be still, my soul:",
+        "thy God doth undertake",
+        "To guide the future as He has the past.",
+        "Thy hope, thy confidence let nothing shake;",
+        "All now mysterious shall be bright at last."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Be still, my soul:",
+        "the hour is hastening on",
+        "When we shall be forever with the Lord,",
+        "When disappointment, grief, and fear are gone,",
+        "Sorrow forgot, love’s purest joys restored."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

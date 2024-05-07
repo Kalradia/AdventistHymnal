@@ -1,0 +1,89 @@
+{
+  "Number": 250,
+  "Title": "O for a Thousand Tongues to Sing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O for a thousand tongues to sing",
+        "my great Redeemer’s praise,",
+        "the glories of my God and King,",
+        "the triumphs of his grace!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "My gracious Master and my God,",
+        "assist me to proclaim,",
+        "to spread through all the earth abroad",
+        "the honours of thy name."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Jesus! the name that charms our fears,",
+        "that bids our sorrows cease;",
+        "’tis music in the sinner’s ears,",
+        "’tis life, and health, and peace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He breaks the power of canceled sin,",
+        "he sets the prisoner free;",
+        "his blood can make the foulest clean;",
+        "his blood availed for me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "He speaks, and listening to his voice,",
+        "new life the dead receive;",
+        "the mournful, broken hearts rejoice,",
+        "the humble poor believe."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Hear him, ye deaf; his praise, ye dumb,",
+        "your loosened tongues employ;",
+        "ye blind, behold your saviour come,",
+        "and leap, ye lame, for joy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

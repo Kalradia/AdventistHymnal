@@ -1,0 +1,66 @@
+{
+  "Number": 603,
+  "Title": "Christian, Seek Not Repose",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christian, seek not yet repose, Cast thy dreams of ease away;",
+        "Thou aret in teh midst of foes; Watch and pray!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Gird thy heavenly armor on, Wear it ever, night and day;",
+        "Ambushed lies the evil one; Watch and pray!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Hear the victors who o’ercame; Still they mark each warrior’s way;",
+        "All with one sweet voice exclaim: “Watch and pray!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Hear, above all, hear thy Lord, Him thou lovest to obey;",
+        "Hide within thy heart His word; “Watch and pray!”"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Watch, as if on that alone Hung the issue of teh day;",
+        "Pray that help may be send down; Watch and pray!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

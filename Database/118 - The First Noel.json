@@ -1,0 +1,91 @@
+{
+  "Number": 118,
+  "Title": "The First Noel",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The first noel the angel did say",
+        "Was to certain poor shepherds in fields where they lay;",
+        "In fields where they lay keeping their sheep,",
+        "On a cold winter’s night that was so deep."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Noel, Noel, Noel, Noel,",
+        "Born is the King of Israel"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "They looked up and say a star",
+        "Shining in the east, beyond them far,",
+        "And to the earth it gave great light,",
+        "And so it continued both day and night."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And by the light of that same star,",
+        "Three wise men came from country far,",
+        "And to the earth it gave great light,",
+        "And to follow the star wherever it went."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "This star drew nigh to the northwest,",
+        "O’er Bethlehem it took its rest,",
+        "And there it did both stop and stay,",
+        "Right over the place where Jesus lay."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Then entered in those wise men three,",
+        "Full reverently upon the knee,",
+        "And offered there, in His presence,",
+        "Their gold, and myrrh, and frankincense."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus",
+    "Verse 4",
+    "Chorus",
+    "Verse 5",
+    "Chorus"
+  ]
+}

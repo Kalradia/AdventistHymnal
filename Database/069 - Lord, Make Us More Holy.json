@@ -1,0 +1,65 @@
+{
+  "Number": 69,
+  "Title": "Lord, Make Us More Holy",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, make us more holy;",
+        "Lord, make us more holy;",
+        "Lord, make us more holy",
+        "Until we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Lord, make us more faithful;",
+        "Lord, make us more faithful;",
+        "Lord, make us more faithful",
+        "Until we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord, make us more humble;",
+        "Lord, make us more humble;",
+        "Lord, make us more humble",
+        "Until we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, make us more loving;",
+        "Lord, make us more loving;",
+        "Lord, make us more loving",
+        "Until we meet again.",
+        "Like Jesus, the Saviour,",
+        "Until we meet again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

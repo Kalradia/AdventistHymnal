@@ -1,0 +1,54 @@
+{
+  "Number": 289,
+  "Title": "The Saviour Is Waiting",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 16206,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Saviour is waiting to enter your heart",
+        "Why don’t you let Him come in?",
+        "There’s nothing in this world to keep you apart",
+        "What is your answer to Him?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Time after time",
+        "He has waited before",
+        "And now He is waiting again",
+        "To see if you are willing",
+        "To open the door",
+        "Oh, how He wants to come in."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "If you’ll take one step",
+        "Toward the Saviour, my friend,",
+        "You’ll find His arms open wide.",
+        "Receive Him, and all of your darkness will end",
+        "Within your heart He’ll abide."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus"
+  ]
+}

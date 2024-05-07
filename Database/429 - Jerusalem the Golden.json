@@ -1,0 +1,79 @@
+{
+  "Number": 429,
+  "Title": "Jerusalem the Golden",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jerusalem the golden,",
+        "With milk and honey blest,",
+        "Beneath thy contemplation",
+        "Sink heart and voice oppressed.",
+        "I know not, O I know not",
+        "What holy joys are there;",
+        "What radiancy of glory,",
+        "What bliss beyond compare."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "They stand, those hall of Zion,",
+        "All jubilant with song,",
+        "And bright with many an angel,",
+        "And all the martyr throng.",
+        "The Prince is ever in them,",
+        "The daylight is serene;",
+        "The pastures of the blessed",
+        "Are deck in glorious sheen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "There is the throne of David,",
+        "And there, from care released,",
+        "The shout of them that triumph,",
+        "The song of them that feast;",
+        "And they who, with their Leader,",
+        "Have conquered in the fight,",
+        "Forever and forever",
+        "Are clad in robes of white."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O sweet and blessed country,",
+        "The home of God’s elect!",
+        "O sweet and blessed country,",
+        "That eager hearts expect!",
+        "Jesus, in mercy bring us",
+        "To that dear land of rest;",
+        "Who art, with God the Father,",
+        "And Spirit, ever blest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

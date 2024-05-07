@@ -1,0 +1,76 @@
+{
+  "Number": 588,
+  "Title": "Lord of All Nations",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord of all nations, grant me grace",
+        "To love all people, every race,",
+        "And in each person may I see",
+        "My kindred loved, redeemed by Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Break down the wall that would divide",
+        "Thy children, Lord, on every side.",
+        "My neighbour’s good let me pursue;",
+        "Let Christian love bind warm and true."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Forgive me, Lord, where I have erred",
+        "By loveless act and thoughtless word.",
+        "Make me to see the wrong I do",
+        "Will crucify my Lord anew."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Give me Thy courage, Lord, to speak",
+        "Whenever strong oppress the weak.",
+        "Should I myself the victim be,",
+        "Help me forgive, remembering Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "With Thine own love may I be filled",
+        "And by Thy Holy Spirit willed,",
+        "That all I touch, where’er I be,",
+        "May be divinely touched by Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

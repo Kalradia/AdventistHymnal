@@ -1,0 +1,63 @@
+{
+  "Number": 160,
+  "Title": "Ride On in Majesty",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Ride on! ride on in majesty!",
+        "Hark, all the tribes hosanna cry;",
+        "O Saviour meek, pursue Thy road",
+        "With palms and scattered garments strowed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Ride on! ride on in majesty!",
+        "In lowly pomp ride on to die;",
+        "O Christ, Thy triumphs now begin",
+        "O’er captive death and conquered sin."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Ride on! ride on in majesty!",
+        "The winged squadrons of the sky",
+        "Look down with sad and wondering eyes",
+        "To see the approaching sacrifice."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Ride on! ride on in majesty!",
+        "In lowly pomp ride on to die;",
+        "Bow Thy meek head to mortal pain,",
+        "Then take, O God, Thy power and reign."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

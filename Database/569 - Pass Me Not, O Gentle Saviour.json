@@ -1,0 +1,75 @@
+{
+  "Number": 569,
+  "Title": "Pass Me Not, O Gentle Saviour",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Pass me not, O gentle Saviour,",
+        "hear my humble cry;",
+        "while on others thou art calling,",
+        "do not pass me by."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Saviour, Saviour, hear my humble cry;",
+        "while on others thou art calling,",
+        "do not pass me by."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Let me at thy throne of mercy",
+        "find a sweet relief,",
+        "kneeling there in deep contrition;",
+        "help my unbelief."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Trusting only in thy merit,",
+        "would I seek thy face;",
+        "heal my wounded, broken spirit,",
+        "save me by thy grace."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thou the spring of all my comfort,",
+        "more than life to me,",
+        "whom have I on earth beside thee?",
+        "Whom in heaven but thee?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

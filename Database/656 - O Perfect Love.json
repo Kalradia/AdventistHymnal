@@ -1,0 +1,50 @@
+{
+  "Number": 656,
+  "Title": "O Perfect Love",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O perfect Love, all human thought transcending,",
+        "lowly we kneel in prayer before thy throne,",
+        "that theirs may be the love which knows no ending,",
+        "whom thou forevermore dost join in one."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O perfect Life, be thou their full assurance",
+        "of tender charity and steadfast faith,",
+        "of patient hope and quiet, brave endurance,",
+        "with childlike trust that fears nor pain nor death."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Grant them the joy which brightens earthly sorrow;",
+        "grant them the peace which calms all earthly strife,",
+        "and to life’s day the glorious unknown morrow",
+        "that dawns upon eternal love and life."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

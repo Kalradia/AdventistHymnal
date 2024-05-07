@@ -1,0 +1,50 @@
+{
+  "Number": 549,
+  "Title": "Loving Shepherd of Thy Sheep",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Loving Shepherd of Thy sheep,",
+        "Keep Thy lamb, in safety keep;",
+        "Nothing can Thy power withstand;",
+        "None can pluck me from Thy hand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Loving Shepherd, ever near,",
+        "Teach Thy lamb Thy voice to hear;",
+        "Suffer not my steps to stray",
+        "From the straight and narrow way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Where Thou leadest I would go,",
+        "Walking in Thy steps below,",
+        "Till within the heavenly fold",
+        "I my Shepherd shall behold."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 112,
+  "Title": "Let Us With a Gladsome Mind",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let us with a gladsome mind",
+        "Praise the Lord, for He is kind:",
+        "For His mercies shall endure,",
+        "Ever faithful, ever sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He, with all commanding might,",
+        "Filled the new made world with light:",
+        "For His mercies shall endure,",
+        "Ever faithful, ever sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All things living He does feed;",
+        "His full hand supplies their need:",
+        "For His mercies shall endure,",
+        "Ever faithful, ever sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Let us then with gladsome mind",
+        "Praise the Lord, for He is kind:",
+        "For His mercies shall endure,",
+        "Ever faithful, ever sure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

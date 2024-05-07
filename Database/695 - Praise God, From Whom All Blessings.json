@@ -1,0 +1,24 @@
+{
+  "Number": 695,
+  "Title": "Praise God, From Whom All Blessings",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Praise God, from Whom all blessings flow;",
+        "Praise Him, all creatures here below;",
+        "Praise Him above, ye heavenly host;",
+        "Praise Father, Son, and Holy Ghost."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

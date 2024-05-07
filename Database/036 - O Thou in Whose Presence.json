@@ -1,0 +1,63 @@
+{
+  "Number": 36,
+  "Title": "O Thou in Whose Presence",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Thou in whose presence my soul takes delight,",
+        "On whom in affliction I call,",
+        "My comfort by day and my song in the night,",
+        "My hope, my salvation, my all!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "His voice, as the sound of the dulcimer sweet,",
+        "Is heard through the shadows of death;",
+        "The cedars of Lebanon bow at His feet,",
+        "The air is perfumed with His breath."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "His lips, as a fountain of righteousness flow,",
+        "To water the gardens of grace;",
+        "From which their salvation the Gentiles shall know,",
+        "And bask in the smiles of His face."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He looks, and ten thousands of angels rejoice,",
+        "And myriads wait for His word;",
+        "He speaks, and eternity, filled with His voice,",
+        "Re-echoes the praise of the Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

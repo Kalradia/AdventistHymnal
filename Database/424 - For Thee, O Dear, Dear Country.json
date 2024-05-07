@@ -1,0 +1,76 @@
+{
+  "Number": 424,
+  "Title": "For Thee, O Dear, Dear Country",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "For thee, O dear country,",
+        "Mine eyes their vigils keep;",
+        "For very love beholding",
+        "Thy holy name, they weep."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O one, O only mansion!",
+        "O Paradise of joy!",
+        "Where tears are ever banish’d",
+        "And smiles have no alloy;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "With jasper glow thy burwarks,",
+        "Thy streets with emeralds blaze;",
+        "The sardius and the topaz",
+        "Unite in thee their rays;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "The cross is all thy splendour,",
+        "The Crucified thy praise;",
+        "His laud and benediction",
+        "Thy ransom’d saints shall raise;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "O sweet and blessed country,",
+        "The home of God’s elect!",
+        "O sweet and blessed country",
+        "That eager hearts expect!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "Number": 182,
+  "Title": "Christ Is Alive",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 68041,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Christ is alive!",
+        "Let Christians sing.",
+        "His cross stands empty to the sky.",
+        "Let streets and homes with praises ring.",
+        "His love in death shall never die."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Christ is alive!",
+        "No longer bound",
+        "To distant years in Palestine,",
+        "He comes to claim the here and now",
+        "And conquer every place and time."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "In every insult,",
+        "rift, and war",
+        "Where colour, scorn or wealth divide,",
+        "He suffers still, yet loves the more,",
+        "And lives, though ever crucified."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Christ is alive!",
+        "Ascended Lord",
+        "He rules the world His Father made,",
+        "Till, in the end, His love adored",
+        "Shall be to all on earth displayed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

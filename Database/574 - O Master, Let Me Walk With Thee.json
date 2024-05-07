@@ -1,0 +1,63 @@
+{
+  "Number": 574,
+  "Title": "O Master, Let Me Walk With Thee",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Master, let me walk with thee",
+        "in lowly paths of service free;",
+        "tell me thy secret; help me bear",
+        "the strain of toil, the fret of care."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Help me the slow of heart to move",
+        "by some clear, winning word of love;",
+        "teach me the wayward feet to stay,",
+        "and guide them in the homeward way."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Teach me thy patience; still with thee",
+        "in closer, dearer company,",
+        "in work that keeps faith sweet and strong,",
+        "in trust that triumphs over wrong;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In hope that sends a shining ray",
+        "far down the future’s broadening way,",
+        "in peace that only thou canst give,",
+        "with thee, O Master, let me live."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

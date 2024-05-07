@@ -1,0 +1,73 @@
+{
+  "Number": 601,
+  "Title": "Watchmen, on the Walls of Zion",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Watchmen, on the walls of Zion,",
+        "What O tell us, of the night?",
+        "Is the daystar now arising?",
+        "Will the morn soon greet our sight?",
+        "O’er your vision Shine there now",
+        "some rays of light?",
+        "O’er your vision Shine there now",
+        "some rays of light?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Tell, O tell us, are the landmarks",
+        "On our voyage all passed by?",
+        "Are we nearing now the haven?",
+        "Can we e’en the land descry?",
+        "Do we truly See the heavenly kingdom nigh?",
+        "Do we truly See the heavenly kingdom nigh?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Light is beaming, day is coming!",
+        "Let us sound aloud the cry;",
+        "We behold the daystar rising",
+        "Pure and bright in yonder sky!",
+        "Saints, be joyful; Your redemption draweth nigh;",
+        "Saints, be joyful; Your redemption draweth nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "We have found the chart and compass,",
+        "And are sure the land is near;",
+        "Onward, onward we are hasting,",
+        "Soon the haven will appear;",
+        "Let your voices Sound aloud your holy cheer;",
+        "Let your voices Sound aloud your holy cheer."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

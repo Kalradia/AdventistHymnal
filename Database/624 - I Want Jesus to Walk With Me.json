@@ -1,0 +1,59 @@
+{
+  "Number": 624,
+  "Title": "I Want Jesus to Walk With Me",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I want Jesus to walk with me.",
+        "(walk with me)",
+        "I want Jesus to walk with me.",
+        "(walk with me)",
+        "All along my pilgrim journey,",
+        "I want Jesus to walk with me.",
+        "(walk with me)"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In my trials, Lord walk with me.",
+        "(walk with me)",
+        "In my trials, Lord walk with me.",
+        "(walk with me)",
+        "When the shades of life are falling,",
+        "I want Jesus to walk with me.",
+        "(walk with me)"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "In my sorrows, Lord walk with me.",
+        "(walk with me)",
+        "In my sorrows, Lord walk with me.",
+        "(walk with me)",
+        "When my heart within is aching,",
+        "I want Jesus to walk with me.",
+        "(walk with me)"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

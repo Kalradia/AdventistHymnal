@@ -1,0 +1,63 @@
+{
+  "Number": 498,
+  "Title": "Still, Still With Thee",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Still, still with Thee, when purple morning breaketh,",
+        "When the bird waketh, and the shadows flee;",
+        "Fairer than morning, lovelier than daylight,",
+        "Dawns the sweet consciousness, I am with Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Alone with Thee, amid the mystic shadows,",
+        "The solemn hush of nature newly born;",
+        "Alone with Thee in breathless adoration,",
+        "In the calm dew and freshness of the morn."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Still, still with Thee! As to each newborn morning",
+        "A fresh and solemn splendour still is given,",
+        "So does this blessed consciousness, awaking,",
+        "Breathe each day nearness unto Thee and heaven."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "So shall it be at last, in that bright morning,",
+        "When the soul waketh and life’s shadows flee;",
+        "O in that hour, fairer than daylight dawning,",
+        "Shall rise the glorious thought, I am with Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

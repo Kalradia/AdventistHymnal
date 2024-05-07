@@ -1,0 +1,101 @@
+{
+  "Number": 188,
+  "Title": "My Song Is Love Unknown",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My song is love unknown,",
+        "My Saviour’s love to me,",
+        "Love to the loveless shown,",
+        "That they might lovely be.",
+        "O who am I that for my sake",
+        "My Lord should take frail flesh and die?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He came from His blest throne,",
+        "Salvation to bestow,",
+        "But men made strange, and none",
+        "The longed for Christ would know.",
+        "But O my Friend, my Friend indeed",
+        "Who at my need His life did spend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sometimes they strew His way,",
+        "And His sweet praises sing,",
+        "Resounding all the day,",
+        "Hosannas to their King.",
+        "Then “Crucify” is all their breath,",
+        "And for His death they thirst and cry."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Why, what hath my Lord done?",
+        "What makes this rage and spite?",
+        "He made the lame to run,",
+        "He gave the blind their sight.",
+        "Sweet injuries! yet they at these",
+        "Themselves displease, and ’gainst Him rise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "They rise, and needs will have",
+        "My dear Lord made away;",
+        "A murderer they save,",
+        "The Prince of life they slay.",
+        "Yet cheerful He to suff’ring goes,",
+        "That He His foes from thence might free."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    },
+    {
+      "Lines": [
+        "Here might I stay and sing,",
+        "No story so divine:",
+        "Never was love, dear King,",
+        "Never was grief like Thine!",
+        "This is my Friend, in whose sweet praise",
+        "I all my days could gladly spend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 6
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5",
+    "Verse 6"
+  ]
+}

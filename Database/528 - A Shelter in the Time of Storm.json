@@ -1,0 +1,76 @@
+{
+  "Number": 528,
+  "Title": "A Shelter in the Time of Storm",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord’s our Rock, in Him we hide,",
+        "A shelter in the time of storm;",
+        "Secure whatever ill betide,",
+        "A shelter in the time of storm."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Mighty Rock in a weary land,",
+        "Cooling shade on the burning sand,",
+        "Faithful guide for the pilgrim band—",
+        "A shelter in the time of storm."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "A shade by day, defence by night,",
+        "A shelter in the time of storm;",
+        "No fears alarm, no foes afright,",
+        "A shelter in the time of storm."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The raging storms may round us beat,",
+        "A shelter in the time of storm",
+        "We’ll never leave our safe retreat,",
+        "A shelter in the time of storm."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Rock divine, O Refuge dear,",
+        "A Shelter in the time of storm;",
+        "Be Thou our helper ever near,",
+        "A Shelter in the time of storm."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

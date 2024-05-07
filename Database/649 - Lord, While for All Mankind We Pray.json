@@ -1,0 +1,63 @@
+{
+  "Number": 649,
+  "Title": "Lord, While for All Mankind We Pray",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord, while for all mankind we pray",
+        "Of every clime and coast,",
+        "O hear us for our native land,",
+        "The land we love the most!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O guard our shores from every foe,",
+        "With peace our borders bless;",
+        "With prosperous times our cities crown,",
+        "Our fields with plenteousness!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Unite us in the sacred love",
+        "Of knowledge, truth, and Thee;",
+        "And let our hills and valleys shout",
+        "The songs of liberty."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord of the nations, thus to Thee",
+        "Our country we commend;",
+        "Be Thou her Refuge and her trust,",
+        "Her everlasting friend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

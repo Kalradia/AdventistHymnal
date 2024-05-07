@@ -1,0 +1,77 @@
+{
+  "Number": 362,
+  "Title": "Lift High the Cross",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 5169,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lift high the cross, the love of Christ proclaim,",
+        "Till all the world adore His sacred Name."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Come, Christians, follow where our Captain trod,",
+        "Our King victorious, Christ, the Son of God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Led on their way by this triumphant sign,",
+        "The hosts of God in conquering ranks combine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "All newborn soldiers of the Crucified",
+        "Bear on their brows the seal of Him Who died."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Lord, once lifted on the glorious tree,",
+        "As Thou hast promised, draw us all to Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "So shall our song of triumph ever be:",
+        "Praise to the Crucified for victory!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Chorus",
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

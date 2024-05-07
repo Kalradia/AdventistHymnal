@@ -1,0 +1,67 @@
+{
+  "Number": 22,
+  "Title": "God Is Our Song",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 7069982,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God is our Song, and every singer blest",
+        "Who praising Him finds energy and rest.",
+        "All who praise God with unaffected joy",
+        "Give back to us the wisdom we destroy,",
+        "Give back to us the wisdom we destroy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "God is our Song, for Jesus comes to save;",
+        "While praising Him we offer all we have.",
+        "New songs we sing, in ventures new unite,",
+        "When Jesus leads us upward into light,",
+        "When Jesus leads us upward into light."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "This is our Song no conflict ever drowns;",
+        "Who praises God our human wrath disowns.",
+        "Love knows what rich complexities of sound",
+        "God builds upon a simple common ground,",
+        "God builds upon a simple common ground."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "God is our Silence when no songs are sung,",
+        "When ecstasy or sorrow stills the tongue.",
+        "Glorious the faith which silently obeys",
+        "Until we find again the voice of praise,",
+        "Until we find again the voice of praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 399,
+  "Title": "Beneath the Forms of Outward Rite",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Beneath the forms of outward rite",
+        "Thy supper, Lord, is spread",
+        "In every quiet upper room",
+        "Where fainting souls are fed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The bread is always consecrate",
+        "Which men divide with men;",
+        "And every act of brotherhood",
+        "Repeats Thy feast again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The blessed cup is only passed",
+        "True memory of Thee,",
+        "When life anew pours out its wine",
+        "With rich sufficiency."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O Master, through these symbols shared,",
+        "Thine own dear self impart,",
+        "That in our daily life may flame",
+        "The passion of Thy heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

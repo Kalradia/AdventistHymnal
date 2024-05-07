@@ -1,0 +1,37 @@
+{
+  "Number": 398,
+  "Title": "Bread of the World",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Bread of the world in mercy broken,",
+        "Wine of the soul in mercy shed,",
+        "By whom the words of life are spoken,",
+        "And in whose death our sins are dead;"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Look on the heart by sorrow broken,",
+        "Look on the tears by sinners shed;",
+        "And be Thy feast to us the token",
+        "That by Thy grace our souls are fed. Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

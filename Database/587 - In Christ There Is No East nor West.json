@@ -1,0 +1,63 @@
+{
+  "Number": 587,
+  "Title": "In Christ There Is No East nor West",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "In Christ there is no east nor west,",
+        "In Him no south or north;",
+        "But one great fellowship of love",
+        "Throughout the whole wide earth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In Him shall true heart everywhere",
+        "Their high communion find;",
+        "His service is the golden cord",
+        "Close binding all mankind."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Join hands, then, brothers of the faith,",
+        "Whate’er your race may be.",
+        "Who serves my Father as a son",
+        "Is surely kin to me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "In Christ now meet both east and west,",
+        "In Him meet south and north;",
+        "All Christly souls are one in Him",
+        "Throughout the whole wide earth."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

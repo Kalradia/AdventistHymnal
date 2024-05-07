@@ -1,0 +1,75 @@
+{
+  "Number": 318,
+  "Title": "Whiter Than Snow",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord Jesus, I long to be perfectly whole;",
+        "I want Thee forever to live in my soul;",
+        "Break down every idol, cast out every foe;",
+        "Now wash me, and I shall be whiter than snow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Whiter than snow, yes, whiter than snow;",
+        "Now wash me, and I shall be whiter than snow."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Lord Jesus, look down from Thy throne in the skies,",
+        "And help me to make a complete sacrifice;",
+        "I give up myself, and whatever I know;",
+        "Now wash me, and I shall be whiter than snow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lord Jesus, for this I most humbly entreat;",
+        "I wait, blessed Lord, at Thy crucified feet,",
+        "By faith, for my cleansing; I see Thy blood flow;",
+        "Now wash me, and I shall be whiter than snow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord Jesus, Thou seest I patiently wait;",
+        "Come now, and within me a new heart create;",
+        "To those who have sought Thee,",
+        "Thou never said’st No;",
+        "Now wash me, and I shall be whiter than snow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

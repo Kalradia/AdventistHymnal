@@ -1,0 +1,56 @@
+{
+  "Number": 554,
+  "Title": "O Let Me Walk With Thee",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O let me walk with Thee, my God,",
+        "As Enoch walked in days of old;",
+        "Place Thou my trembling hand in Thine,",
+        "And sweet communion with me hold;",
+        "E’en though the path I may not see,",
+        "Yet, Jesus, let me walk with Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I cannot, dare not, walk alone;",
+        "The tempest rages in the sky,",
+        "A thousand snares beset my feet,",
+        "A thousand foes are lurking nigh.",
+        "Still Thou the raging of the sea,",
+        "O Master! let me walk with Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "If I may rest my hand in Thine,",
+        "I’ll count the joys of earth but loss,",
+        "And firmly, bravely journey on;",
+        "I’ll bear the banner of the cross",
+        "Till Zion’s glorious gates I see;",
+        "Yet, Saviour, let me walk with Thee."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

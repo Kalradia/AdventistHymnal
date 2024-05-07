@@ -1,0 +1,76 @@
+{
+  "Number": 626,
+  "Title": "In a Little While We’re Going Home",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Let us sing a song that will cheer us by the way,",
+        "In a little while we’re going home.",
+        "For the night will end in the everlasting day,",
+        "In a little while we’re going home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In a little while, In a little while,",
+        "We shall cross the billow’s foam;",
+        "We shall meet at last, When the stormy winds are past,",
+        "In a little while we’re going home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "We will do the work that our hands may find to do,",
+        "In a little while we’re going home.",
+        "And the grace of God will our daily strength renew,",
+        "In a little while we’re going home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We will smooth the path for some weary, wayworn feet,",
+        "In a little while we’re going home.",
+        "And may loving hearts spread around an influence sweet!",
+        "In a little while we’re going home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "There’s a rest beyond, there’s relief from every care,",
+        "In a little while we’re going home;",
+        "And no tears shall fall in that city bright and fair,",
+        "In a little while we’re going home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

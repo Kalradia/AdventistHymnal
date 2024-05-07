@@ -1,0 +1,89 @@
+{
+  "Number": 534,
+  "Title": "Will Your Anchor Hold",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Will your anchor hold in the storms of life,",
+        "When the clouds unfold their wings of strife?",
+        "When the strong tides lift, and the cables strain,",
+        "Will your anchor drift or firm remain?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We have an anchor that keeps the soul",
+        "Steadfast and sure while the billows roll,",
+        "Fastened to the Rock which cannot move,",
+        "Grounded firm and deep in the Saviour’s love."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "It is safely moored, ’twill the storm withstand,",
+        "For ’tis well secured by the Saviour’s hand;",
+        "And the cables passed from His heart to mine,",
+        "Can defy the blast, through strength divine."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "It will firmly hold in the straits of fear,",
+        "When the breakers have told the reef is near;",
+        "Though the tempest rave and the wild winds blow,",
+        "Not an angry wave shall our bark o’erflow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "It will surely hold in the floods of death,",
+        "When the waters cold chill our latest breath;",
+        "On the rising tide it can never fail,",
+        "While our hopes abide within the veil."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "When our eyes behold, in the dawning light,",
+        "Shining gates of pearl, our harbor bright,",
+        "We shall anchor fast to the heavenly shore,",
+        "With the storms all past forevermore."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "Number": 493,
+  "Title": "Fill My Cup, Lord",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 15946,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Like the woman at the well I was seeking",
+        "For things that could not satisfy:",
+        "And then I heard my Saviour speaking:",
+        "” Draw from my well that never shall run dry”."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Fill my cup Lord, I lift it up, Lord!",
+        "Come and quench this thirsting of my soul;",
+        "Bread of heaven, Feed me till I want no more–",
+        "Fill my cup, fill it up and make me whole!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There are millions in this world who are craving",
+        "The pleasures earthly things afford;",
+        "But none can match the wondrous treasure",
+        "That I find in Jesus Christ my Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "So, my brother, if the things this world gave you",
+        "Leave hungers that won’t pass away,",
+        "My blessed Lord will come and save you,",
+        "If you kneel to Him and humbly pray:"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

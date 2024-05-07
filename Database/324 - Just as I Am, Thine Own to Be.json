@@ -1,0 +1,63 @@
+{
+  "Number": 324,
+  "Title": "Just as I Am, Thine Own to Be",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Just as I am, Thine own to be,",
+        "Friend of the young, who lovest me,",
+        "To consecrate myself to Thee,",
+        "O Jesus Christ, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "In the glad morning of my day,",
+        "My life to give, my vows to pay,",
+        "With no reserve and no delay,",
+        "With all my heart I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I would live ever in the light,",
+        "I would work ever for the right;",
+        "I would serve Thee with all my might;",
+        "Therefore, to Thee I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Just as I am, young, strong, and free,",
+        "To be the best that I can be",
+        "For truth, and righteousness, and Thee,",
+        "Lord of my life, I come."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

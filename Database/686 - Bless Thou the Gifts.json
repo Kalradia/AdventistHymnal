@@ -1,0 +1,25 @@
+{
+  "Number": 686,
+  "Title": "Bless Thou the Gifts",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Bless thou the gifts our hands have brought;",
+        "bless thou the work our hearts have planned.",
+        "Ours is the faith, the will, the thought;",
+        "the rest, O God, is in thy hand.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

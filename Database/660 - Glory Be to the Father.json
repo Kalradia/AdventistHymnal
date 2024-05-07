@@ -1,0 +1,27 @@
+{
+  "Number": 660,
+  "Title": "Glory Be to the Father",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Glory be to the Father,",
+        "and to the Son,",
+        "and to the Holy Ghost;",
+        "As it was in the beginning,",
+        "is now, and ever shall be,",
+        "world without end.",
+        "Amen, Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "Number": 109,
+  "Title": "Marvellous Grace",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Marvellous grace of our loving Lord.",
+        "Grace that exceeds our sin and our guilt!",
+        "Yonder on Calvary’s mount outpoured",
+        "There where the blood of the Lamb was spilt."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Grace, grace, God’s grace,",
+        "Grace that will pardon and cleanse within",
+        "Grace, grace, God’s grace,",
+        "Grace that is greater than all our sin!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Sin and despair, like the sea waves cold,",
+        "Threaten the soul with infinite loss;",
+        "Grace that is greater, yes, grace untold",
+        "Points to the Refuge, the mighty Cross."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Marvellous, infinite, matchless grace,",
+        "Freely bestowed on all who believe!",
+        "You that are longing to see His face,",
+        "Will you this moment His grace receive?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

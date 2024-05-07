@@ -1,0 +1,22 @@
+{
+  "Number": 676,
+  "Title": "Thy Word Is a Lantern",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Thy Word is a lantern unto my feet,",
+        "And a light unto my path."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "Number": 49,
+  "Title": "Saviour, Breathe an Evening Blessing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Saviour, breathe an evening blessing,",
+        "Ere repose our spirits seal;",
+        "Sin and want we come confessing;",
+        "Thou canst save, and Thou canst heal."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Though the night be dark and dreary,",
+        "Darkness cannot hide from Thee;",
+        "Thou art He who, never weary,",
+        "Watchest where Thy people be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Though destruction walk around us.",
+        "Though the arrow past us fly,",
+        "Angel guards from Thee Surround us,",
+        "We are safe if Thou art nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Should swift death this night o’re-take us,",
+        "And our couch become our tomb,",
+        "May the morn of glory wake us,",
+        "Clad in light and deathless bloom."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

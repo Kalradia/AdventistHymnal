@@ -1,0 +1,86 @@
+{
+  "Number": 546,
+  "Title": "The Lord’s My Shepherd",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The Lord’s my shepherd, I’ll not want",
+        "He makes me down to lie",
+        "In pastures green; he leadeth me",
+        "The quiet waters by.",
+        "He leadeth me, He leadeth me",
+        "The quiet waters by."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "My soul he doth restore again",
+        "And me to walk doth make",
+        "Within the paths of righteousness",
+        "Even for his own name’s sake.",
+        "Within the paths of righteousness",
+        "Even for his own name’s sake."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Yea, though I walk through death’s dark vale",
+        "Yet will I fear no ill",
+        "For thou art with me, and thy rod",
+        "And staff me comfort still.",
+        "For thou art with me, and thy rod",
+        "And staff me comfort still."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "My table thou has furnished",
+        "In presence of my foes;",
+        "My head thou dost with oil anoint",
+        "And my cup overflows.",
+        "My head thou dost with oil anoint",
+        "And my cup overflows."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "Goodness and mercy all my life",
+        "Shall surely follow me,",
+        "And in God’s house for evermore",
+        "My dwelling-place shall be.",
+        "And in God’s house for evermore",
+        "My dwelling-place shall be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

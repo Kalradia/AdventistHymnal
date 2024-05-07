@@ -1,0 +1,23 @@
+{
+  "Number": 665,
+  "Title": "All Things Come of Thee",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "All things come of thee, O Lord;",
+        "and of thine own have we given thee.",
+        "Amen."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1"
+  ]
+}

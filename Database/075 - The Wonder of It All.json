@@ -1,0 +1,53 @@
+{
+  "Number": 75,
+  "Title": "The Wonder of It All",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 15733,
+  "Stanzas": [
+    {
+      "Lines": [
+        "There’s the wonder of sunset at evening,",
+        "The wonder as sunrise I see;",
+        "But the wonder of wonders that thrills my soul",
+        "Is the wonder that God loves me."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O, the wonder of it all!",
+        "The wonder of it all!",
+        "Just to think that God loves me.",
+        "O, the wonder of it all!",
+        "The wonder of it all!",
+        "Just to think that God loves me."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "There’s the wonder of springtime and harvest,",
+        "The sky, the stars, the sun;",
+        "But the wonder of wonders that thrills my soul",
+        "Is the wonder that’s only begun."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus"
+  ]
+}

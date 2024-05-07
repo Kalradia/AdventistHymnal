@@ -1,0 +1,50 @@
+{
+  "Number": 581,
+  "Title": "When the Church of Jesus",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 163355,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When the church of Jesus shuts its outer door,",
+        "Lest the roar of traffic drown the voice of prayer:",
+        "May our prayers, Lord make up ten times more aware",
+        "That the world we banish is our Christian care."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "If our hearts are lifted where devotion soars",
+        "High above this hungry suffering world of ours:",
+        "Lest our hymns should drug us to forget its needs,",
+        "Forge our Christian worship into Christian deeds."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lest the gifts we offer, money, talents, time,",
+        "Serve to salve our conscience to our secret shame:",
+        "Lord, reprove, inspire us by the way you give;",
+        "Teach us, dying Saviour, how true Christians live."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

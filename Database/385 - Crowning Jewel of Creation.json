@@ -1,0 +1,63 @@
+{
+  "Number": 385,
+  "Title": "Crowning Jewel of Creation",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 7019347,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Crowning jewel of creation,",
+        "Blest and hallowed, sanctified;",
+        "Time and changes all transcending,",
+        "Shared forever, glorified."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Blessed Sabbath made for man,",
+        "Gift from the Creator’s hand."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Sin and sickness, prayer and weeping",
+        "Cease at close of earthly days;",
+        "But Thy Sabbath is eternal,",
+        "Joyful thanks to Thee we raise!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Teach us Lord, in storm or sunshine",
+        "How to truly rest in Thee,",
+        "May Thy Sabbath peace enfold us",
+        "And our shelter ever be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

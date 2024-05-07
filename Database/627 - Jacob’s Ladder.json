@@ -1,0 +1,63 @@
+{
+  "Number": 627,
+  "Title": "Jacob’s Ladder",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "We are climbing Jacob’s ladder,",
+        "We are climbing Jacob’s ladder,",
+        "We are climbing Jacob’s ladder,",
+        "Soldiers of the cross."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Every round goes higher, higher,",
+        "Every round goes higher, higher,",
+        "Every round goes higher, higher,",
+        "Soldiers of the cross."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Sinner, do you love my Jesus?",
+        "Sinner, do you love my Jesus?",
+        "Sinner, do you love my Jesus?",
+        "Soldiers of the cross."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "If you love him, why not serve him?",
+        "If you love him, why not serve him?",
+        "If you love him, why not serve him?",
+        "Soldiers of the cross."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

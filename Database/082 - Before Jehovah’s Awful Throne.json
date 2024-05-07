@@ -1,0 +1,63 @@
+{
+  "Number": 82,
+  "Title": "Before Jehovah’s Awful Throne",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Before Jehovah’s awful throne,",
+        "Ye nations, bow with sacred joy;",
+        "Know that the Lord is God alone;",
+        "He can create, and He destroy."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "His sovereign power, without our aid,",
+        "Made us of clay, and formed us men;",
+        "and when like wandering sheep we strayed,",
+        "He brought us to His fold again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "We’ll crowd His gates with thankful songs,",
+        "High as the heavens our voices raise;",
+        "And earth, with her ten thousand tongues,",
+        "Shall fill His courts with sounding praise."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Wide as the world is His command,",
+        "Vast as Eternity His love;",
+        "Firm as a rock His truth shall stand,",
+        "When rolling years shall cease to move."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

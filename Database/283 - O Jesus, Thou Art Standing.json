@@ -1,0 +1,62 @@
+{
+  "Number": 283,
+  "Title": "O Jesus, Thou Art Standing",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O Jesus, thou art standing,",
+        "outside the fast closed door,",
+        "in lowly patience waiting",
+        "to pass the threshold o’er:",
+        "O shame, professing Christians,",
+        "his Name and sign who bear,",
+        "O shame, thrice shame upon us,",
+        "to keep him standing there!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O Jesus, thou art knocking;",
+        "and lo, that hand is scarred,",
+        "and thorns thy brow encircle,",
+        "and tears thy face have marred:",
+        "O love that passeth knowledge,",
+        "so patiently to wait!",
+        "O sin that hath no equal,",
+        "so fast to bar the gate!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O Jesus, thou art pleading",
+        "in accents meek and low,",
+        "“I died for you, my children,",
+        "and will you treat me so?”",
+        "O Lord, with shame and sorrow",
+        "we open now the door;",
+        "dear Saviour, enter, enter,",
+        "and leave us never more."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

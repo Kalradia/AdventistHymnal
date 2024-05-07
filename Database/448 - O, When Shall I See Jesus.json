@@ -1,0 +1,62 @@
+{
+  "Number": 448,
+  "Title": "O, When Shall I See Jesus",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O, when shall I see Jesus and reign with Him above,",
+        "And shall hear the trumpet sound in that morning?",
+        "And from the flowing fountain drink everlasting love,",
+        "And shall hear the trumpet sound in that morning."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O, shout, glory!",
+        "For I shall mount above the skies,",
+        "When I hear the trumpet sound in that morning."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Gird on the gospel armor of faith and hope and love,",
+        "And you’ll hear the trumpet sound in that morning.",
+        "And when the combat’s ended He’ll carry you above,",
+        "And you’ll hear the trumpet sound in that morning."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Our ears shall hear with transport the host of heaven sing,",
+        "And shall hear the trumpet sound in that morning.",
+        "Our tongues shall chant the glories of our immortal King.",
+        "And shall hear the trumpet sound in that morning,"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

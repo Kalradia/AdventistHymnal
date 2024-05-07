@@ -1,0 +1,63 @@
+{
+  "Number": 155,
+  "Title": "When I Survey the Wondrous Cross",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When I survey the wondrous cross",
+        "On which the Prince of glory died,",
+        "My richest gain I count but loss,",
+        "And pour contempt on all my pride."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "See, from His head, His feet,",
+        "Sorrow and love flow mingled down;",
+        "Did e’er such love and sorrow meet?",
+        "Or thorns compose so rich a crown?"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Since I, who was undone and lost,",
+        "Have pardon through His name and word;",
+        "Forbid it, then, that I should boast,",
+        "Save in the cross of Christ my Lord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Were the whole realm of nature mine,",
+        "That were a tribute far too small;",
+        "Love so amazing, so divine,",
+        "Demands my life, my soul, my all."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

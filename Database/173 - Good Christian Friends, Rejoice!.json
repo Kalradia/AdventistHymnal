@@ -1,0 +1,63 @@
+{
+  "Number": 173,
+  "Title": "Good Christian Friends, Rejoice!",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 265552,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Good Christian friends, rejoice and sing!",
+        "Now is the triumph of our King!",
+        "To all the world glad news we bring:",
+        "Alleluia! Alleluia! Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "The Lord of life is risen for aye;",
+        "Bring flowers of song to strew His way;",
+        "Let all mankind rejoice and say:",
+        "Alleluia! Alleluia! Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Praise we in songs of victory",
+        "That love, that life which cannot die,",
+        "And sing with hearts uplifted high:",
+        "Alleluia! Alleluia! Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Thy name we bless, O risen Lord,",
+        "And sing today with one accord",
+        "The life laid down, the life restored:",
+        "Alleluia! Alleluia! Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

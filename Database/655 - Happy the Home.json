@@ -1,0 +1,63 @@
+{
+  "Number": 655,
+  "Title": "Happy the Home",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Happy the home when God is there,",
+        "and love fills every breast;",
+        "when one their wish, and one their prayer,",
+        "and one their heavenly rest."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Happy the home where Jesus’ name",
+        "is sweet to every ear;",
+        "where children early speak his fame,",
+        "and parents hold him dear."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Happy the home where prayer is heard,",
+        "and praise is wont to rise;",
+        "where parents love the sacred Word",
+        "and all its wisdom prize."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Lord, let us in our homes agree",
+        "this blessed peace to gain;",
+        "unite our hearts in love to thee,",
+        "and love to all will reign."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

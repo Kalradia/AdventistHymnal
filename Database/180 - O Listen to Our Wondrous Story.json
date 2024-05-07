@@ -1,0 +1,66 @@
+{
+  "Number": 180,
+  "Title": "O Listen to Our Wondrous Story",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "O listen to our wondrous story,",
+        "Counted once among the lost;",
+        "Yet One came down from heaven’s glory,",
+        "Saving us at awful cost!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Who saved us from eternal loss?",
+        "Who but God’s Son upon the cross?",
+        "What did He do? He died for you!",
+        "Where is He now? Believe it thou,",
+        "In heaven interceding! In heaven interceding!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "No angel could His place have taken,",
+        "Highest of the high tho’ he;",
+        "The loved One on the cross forsaken",
+        "Was One of the Godhead three!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Will you surrender to this Saviour?",
+        "To His scepter humbly bow?",
+        "You, too, shall come to know His favour,",
+        "He will save you, save you now."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus",
+    "Verse 3",
+    "Chorus"
+  ]
+}

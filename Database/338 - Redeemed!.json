@@ -1,0 +1,63 @@
+{
+  "Number": 338,
+  "Title": "Redeemed!",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Redeemed, how I love to proclaim it!",
+        "Redeemed by the blood of the Lamb;",
+        "Redeemed thro’ His infinite mercy,",
+        "His child, and forever, I am."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Redeemed, redeemed,",
+        "Redeemed by the blood of the Lamb;",
+        "Redeemed, how I love to proclaim it!",
+        "His child and forever I am."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I think of my blessed Redeemer,",
+        "I think of Him all the day long;",
+        "I sing, for I cannot be silent;",
+        "His love is the theme of my song."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I know I shall see in His beauty",
+        "The King in whose law I delight,",
+        "Who lovingly guardeth my footsteps,",
+        "And giveth me songs in the night."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

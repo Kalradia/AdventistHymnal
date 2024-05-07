@@ -1,0 +1,89 @@
+{
+  "Number": 296,
+  "Title": "Lord, I’m Coming Home",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "I’ve wandered far away from God,",
+        "Now I’m coming home;",
+        "The paths of sin too long I’ve trod;",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Coming home, coming home",
+        "Never more to roam;",
+        "Open wide Thine arms of love;",
+        "Lord I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "I’ve wasted many precious years,",
+        "Now I’m coming home;",
+        "I now repent with bitter tears;",
+        "Lord, I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "I’m tired of sin and straying Lord,",
+        "Now I’m coming home;",
+        "I’ll trust thy love, believe thy word;",
+        "Lord I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "My only hope, my only plea,",
+        "Now I’m coming home;",
+        "That Jesus died, and died for me;",
+        "Lord I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "I need His cleansing blood I know,",
+        "Now I’m coming home;",
+        "O wash me whiter than the snow;",
+        "Lord I’m coming home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

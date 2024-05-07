@@ -1,0 +1,51 @@
+{
+  "Number": 632,
+  "Title": "Until Then",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 31906,
+  "Stanzas": [
+    {
+      "Lines": [
+        "My heart can sing when I pause to remember,",
+        "A heartache here is but a stepping stone.",
+        "Along a trail, that’s winding always upward,",
+        "This troubled world, is not my final home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "But until then, my heart will go on singing,",
+        "Until then, with joy I’ll carry on,",
+        "Until the day my eyes behold the city,",
+        "Until the day God calls me home."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "The things of earth will dim and lose their value,",
+        "If we recall they’re borrowed for awhile;",
+        "And things of earth that cause the heart to tremble,",
+        "Remembered there, will only bring a smile."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Chorus"
+  ]
+}

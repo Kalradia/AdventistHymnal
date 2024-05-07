@@ -1,0 +1,75 @@
+{
+  "Number": 71,
+  "Title": "Come Thou Almighty King",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Come, Thou almighty King,",
+        "Help us Thy name to sing,",
+        "Help us to praise!",
+        "Father all glorious,",
+        "O’er all victorious,",
+        "Come, and reign over us,",
+        "Ancient of Days!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Come, Thou incarnate Word,",
+        "Gird on Thy mighty sword,",
+        "Our prayer attend;",
+        "Come, and Thy people bless,",
+        "And give Thy Word success;",
+        "Spirit of holiness,",
+        "On us descend!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Come, holy Comforter,",
+        "Thy sacred witness bear,",
+        "In this glad hour:",
+        "Thou who almighty art,",
+        "Now rule in every heart,",
+        "And ne’er from us depart,",
+        "Spirit of power!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "To Thee, great One in Three,",
+        "Eternal praises be,",
+        "Hence, evermore:",
+        "Thy sovereign majesty",
+        "May we in glory see,",
+        "And to eternity",
+        "Love and adore!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

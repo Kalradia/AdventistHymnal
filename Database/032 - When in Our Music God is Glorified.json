@@ -1,0 +1,63 @@
+{
+  "Number": 32,
+  "Title": "When in Our Music God is Glorified",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 10037,
+  "Stanzas": [
+    {
+      "Lines": [
+        "When in our music God is glorified,",
+        "And adoration leaves no room for pride,",
+        "It is as though the whole creation cried:",
+        "Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "How oft, in making music, we have found",
+        "A new dimension in the world of sound,",
+        "As worship moved us to a more profound",
+        "Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And did not Jesus sing a psalm that night",
+        "When utmost evil strove against the light?",
+        "Then let us sing for whom He won the fight:",
+        "Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Let every instrument be used for praise;",
+        "Let all rejoice who have a voice to raise;",
+        "And may God give us faith to sing always:",
+        "Alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

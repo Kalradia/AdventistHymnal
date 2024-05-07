@@ -1,0 +1,52 @@
+{
+  "Number": 278,
+  "Title": "Lord Jesus, Once You Spoke to Men",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": 3248081,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Lord Jesus, once You spoke to men",
+        "Upon the mountain and the plain,",
+        "O help us listen now as then",
+        "And wonder at Your words again."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We all have secret fears to face,",
+        "Our minds and motives to amend.",
+        "We seek Your truth,",
+        "We need your grace,",
+        "Our living Lord and present friend."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "The gospel speaks; and we receive",
+        "Your light, Your love,",
+        "Your own command.",
+        "O help us live what we believe,",
+        "In daily word of heart and hand."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

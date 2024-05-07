@@ -1,0 +1,76 @@
+{
+  "Number": 179,
+  "Title": "The Wonders of Redeeming Love",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "The wonders of redeeming love",
+        "Our highest thoughts exceed;",
+        "The Son of God comes from above",
+        "For sinful man to bleed."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "He gives Himself, His life, His all,",
+        "A sinless sacrifice.",
+        "For man He drains the cup of gall,",
+        "For man the victim dies."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "And now before His Father’s face",
+        "His precious blood He pleads;",
+        "For those who seek the throne of grace",
+        "His love still intercedes."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "He knows the frailties of our frame,",
+        "For He has borne our grief;",
+        "Our great High Priest once felt the same,",
+        "And He can send relief."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "His love will not be satisfied,",
+        "Till He in glory sees",
+        "The faithful ones for whom He died",
+        "From sin forever free."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 5
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4",
+    "Verse 5"
+  ]
+}

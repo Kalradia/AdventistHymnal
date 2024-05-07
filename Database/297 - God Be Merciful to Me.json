@@ -1,0 +1,79 @@
+{
+  "Number": 297,
+  "Title": "God Be Merciful to Me",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "God, be merciful to me,",
+        "On Thy grace I rest my plea;",
+        "Plenteous in compassion Thou,",
+        "Blot out my transgressions now;",
+        "Wash me, make me pure within,",
+        "Cleanse, O cleanse me from my sin,",
+        "Wash me, make me pure within,",
+        "Cleanse, O cleanse me from my sin."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "I am evil, born in sin;",
+        "Thou desirest truth within.",
+        "Thou alone my Saviour art,",
+        "Teach Thy wisdom to my heart;",
+        "Make me pure, Thy grace bestow,",
+        "Wash me whiter than the snow,",
+        "Make me pure, Thy grace bestow,",
+        "Wash me whiter than the snow."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Gracious God, my heart renew,",
+        "Make my spirit right and true;",
+        "Cast me not away from Thee,",
+        "Let Thy Spirit dwell in me;",
+        "Thy salvation’s joy impart,",
+        "Steadfast make my willing heart,",
+        "Thy salvation’s joy impart,",
+        "Steadfast make my willing heart."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Sinners then shall learn from me",
+        "And return, O God, to Thee;",
+        "Saviour, all my guilt remove,",
+        "And my tongue shall sing Thy love;",
+        "Touch my silent lips, O Lord,",
+        "And my mouth shall praise accord,",
+        "Touch my silent lips, O Lord,",
+        "And my mouth shall praise accord."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

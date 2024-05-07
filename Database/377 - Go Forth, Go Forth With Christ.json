@@ -1,0 +1,56 @@
+{
+  "Number": 377,
+  "Title": "Go Forth, Go Forth With Christ",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Go forth, go forth with Christ,",
+        "Who called you to this day,",
+        "He who has led, will lead",
+        "And keep you in His way:",
+        "His word is fast, His promise sure",
+        "To all who serve Him and endure."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Go forth, go forth with Christ,",
+        "With purpose not your own,",
+        "Each vict’ry you shall gain",
+        "Through Him your Lord alone:",
+        "To guard you in fidelity",
+        "His Spirit shall your strength’ner be."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Go forth, go forth with Christ,",
+        "His Priesthood you shall share,",
+        "Who bought us by His blood",
+        "To be His servants here:",
+        "Walk in the way your Saviour trod,",
+        "Go forth with Him, go forth with God."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

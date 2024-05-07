@@ -1,0 +1,75 @@
+{
+  "Number": 472,
+  "Title": "A Song of Heaven and Homeland",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Sometimes I hear strange music,",
+        "Like none e’er heard before,",
+        "Come floating softly earthward",
+        "As thro’ heav’n’s open door:",
+        "It seems like angel voices,",
+        "In strains of and love,",
+        "That swell the mighty chorus",
+        "Around the throne above."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O sweet, celestial music,",
+        "Heard from a land afar-",
+        "The song of Heav’n and Homeland,",
+        "Thro’ doors God leaves ajar!"
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 0
+      }
+    },
+    {
+      "Lines": [
+        "Now soft, and low, and restful,",
+        "It floods my soul with peace,",
+        "As if God’s benediction",
+        "Bade all earth’s troubles cease.",
+        "Then grander than the voices,",
+        "Of wind, and wave, and sea-",
+        "It fills the dome of heaven",
+        "With glorious harmony."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "This music haunts me ever,",
+        "Like something heard in dreams-",
+        "It seems to catch the cadence",
+        "Of heav’nly winds and streams,",
+        "My heart is filled with rapture,",
+        "To think, some day to come,",
+        "I’ll sing it with the angels-",
+        "The song of heav’n and home."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus",
+    "Verse 2",
+    "Verse 3"
+  ]
+}

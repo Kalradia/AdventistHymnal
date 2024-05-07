@@ -1,0 +1,75 @@
+{
+  "Number": 228,
+  "Title": "A Hymn of Glory Let Us Sing",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "A hymn of glory let us sing;",
+        "New hymns thro’-out the world shall ring",
+        "Alleluia! Alleluia!",
+        "Christ, by a road before untrod,",
+        "Ascends unto the throne of God.",
+        "Alleluia! Alleluia!",
+        "Alleluia, alleluia, alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "O Lord, our homeward pathway bend,",
+        "That our unwearied hearts ascend.",
+        "Alleluia! Alleluia!",
+        "Where, seated on Your Father’s throne,",
+        "You reign as King of kings alone.",
+        "Alleluia! Alleluia!",
+        "Alleluia, alleluia, alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Give us Your joy on earth, O Lord,",
+        "In heav’n to be our great reward.",
+        "Alleluia! Alleluia!",
+        "When throned with You forever, we",
+        "Shall praise Your name eternally.",
+        "Alleluia! Alleluia!",
+        "Alleluia, alleluia, alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O risen Christ, ascended Lord,",
+        "All praise to you let earth accord:",
+        "Alleluia! Alleluia!",
+        "You are, while endless ages run,",
+        "With Father and with Spirit one.",
+        "Alleluia! Alleluia!",
+        "Alleluia, alleluia, alleluia!"
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}

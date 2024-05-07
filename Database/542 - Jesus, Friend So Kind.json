@@ -1,0 +1,41 @@
+{
+  "Number": 542,
+  "Title": "Jesus, Friend So Kind",
+  "Author": null,
+  "Copyright": "Copyrighted",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Jesus, Friend, so kind and gentle,",
+        "Little ones we bring to Thee:",
+        "Grant to them Thy dearest blessing,",
+        "Let Thine arms around them be;",
+        "Now enfold them in Thy goodness,",
+        "From all danger keep them free."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Thou who did receive the children",
+        "To Thyself so tenderly,",
+        "Give to all who teach and guide them",
+        "Wisdom and humility.",
+        "Vision true to keep them noble,",
+        "Love to serve them faithfully."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2"
+  ]
+}

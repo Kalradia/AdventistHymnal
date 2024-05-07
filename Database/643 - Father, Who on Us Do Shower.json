@@ -1,0 +1,63 @@
+{
+  "Number": 643,
+  "Title": "Father, Who on Us Do Shower",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Father, who on us do shower",
+        "Gifts of plenty form Your dower,",
+        "To Your people give the power",
+        "All Your gifts to use aright."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Give pure happiness in leisure",
+        "Temperance in every pleasure,",
+        "Wholesome use of earthly treasure",
+        "Bodies clean and spirits bright."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "Lift from this and every nation",
+        "All that brings us degradation;",
+        "Quell the forces of temptation;",
+        "Put Your enemies to flight."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "Father, You who sought and found us,",
+        "Son of God, whose love has bound us,",
+        "Holy Spirit, in us, round us,",
+        "Hear us, Godhead infinite."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Verse 2",
+    "Verse 3",
+    "Verse 4"
+  ]
+}
