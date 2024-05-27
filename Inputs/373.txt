@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 373
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]
 Seeking the lost,
@@ -15,7 +16,7 @@ Words of the Master speaking today.
 
 [Chorus]
 Going afar
-Upon the mountain
+upon the mountain
 Bringing the wanderer back again,
 back again,
 

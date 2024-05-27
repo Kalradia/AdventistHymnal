@@ -168,6 +168,18 @@ namespace AdventistHymnal.Importer
 				_activeStanzaNumber = 0;
 				CreateStanza(ref hymn, StanzaType.Chorus, _activeStanzaNumber);
 			}
+			else if (line.StartsWith("[Chorus 1]"))
+			{
+				_activeStanza = StanzaType.Chorus;
+				_activeStanzaNumber = 1;
+				CreateStanza(ref hymn, StanzaType.Chorus, _activeStanzaNumber);
+			}
+			else if (line.StartsWith("[Chorus 2]"))
+			{
+				_activeStanza = StanzaType.Chorus;
+				_activeStanzaNumber = 2;
+				CreateStanza(ref hymn, StanzaType.Chorus, _activeStanzaNumber);
+			}
 			else
 			{
 				Stanza stanza = hymn.GetStanza(_activeStanza, _activeStanzaNumber);
@@ -219,6 +231,14 @@ namespace AdventistHymnal.Importer
 					break;
 				case "Chorus":
 					type = StanzaType.Chorus;
+					break;
+				case "Chorus 1":
+					type = StanzaType.Chorus;
+					number = 1;
+					break;
+				case "Chorus 2":
+					type = StanzaType.Chorus;
+					number = 2;
 					break;
 				default:
 					throw new SystemException($"Not implemented stanza type: {s}");

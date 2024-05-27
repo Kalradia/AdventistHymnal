@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 569
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 [Verse 1]
 Pass me not, O gentle Saviour,

@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 358
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 [Verse 1]
 Far and near the fields are teeming

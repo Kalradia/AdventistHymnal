@@ -1,27 +1,42 @@
-Title:Baptise Us Anew
+Title:Baptize Us Anew
 Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 258
+PlayOrder:Verse 1,Chorus 1,Verse 2,Chorus 1,Verse 3,Chorus 1,Verse 4,Chorus 2
 
 [Verse 1]
-Baptise us anew With power from on high,
-With love, O refresh us! Dear Saviour, draw nigh.
+Baptize us anew
+With power from on high,
+With love, O refresh us!
+Dear Saviour, draw nigh.
 
-[Chorus]
-We humbly beseech Thee, Lord Jesus, we pray,
-With love and the Spirit baptise us today.
-We praise Thee, we bless Thee, dear Lamb that was slain
-We laud and adore Thee, Amen and Amen.
+[Chorus 1]
+We humbly beseech Thee,
+Lord Jesus, we pray,
+With love and the Spirit
+baptize us today.
 
 [Verse 2]
-Unworthy we cry, Unholy, unclean,
-O wash us and cleanse us From sin’s guilty stain.
+Unworthy we cry,
+Unholy, unclean,
+O wash us and cleanse us
+From sin’s guilty stain.
 
 [Verse 3]
-O heavenly Dove, Descend from on high!
-We plead Thy rich blessing; In mercy draw nigh.
+O heavenly Dove,
+Descend from on high!
+We plead Thy rich blessing;
+In mercy draw nigh.
 
 [Verse 4]
-O list the glad voice! From heaven it came:
-Thou art My beloved, Well pleased I am.
+O list the glad voice!
+From heaven it came:
+Thou art My beloved,
+Well pleased I am.
+
+[Chorus 2]
+We praise Thee, we bless Thee,
+dear Lamb that was slain,
+We laud and adore Thee,
+Amen and Amen.

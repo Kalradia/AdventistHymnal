@@ -35,14 +35,14 @@
     },
     {
       "Lines": [
-        "His banner over us in love,",
-        "Our sword the Word of God;",
-        "We tread the road the saints above",
-        "With shouts of triumph trod.",
-        "By faith they, like whirlwind’s breath,",
-        "Swept on o’er ev’ry field;",
-        "The faith by which they conquered death",
-        "Is still our shining shield."
+        "On every hand the foe we find",
+        "Drawn up in dread array;",
+        "Let tents of ease be left behind,",
+        "And on-ward to the fray;",
+        "Salvation's helmet on each head,",
+        "With truth all girt about,",
+        "The earth shall tremble 'neath our tread,",
+        "And echo with our shot."
       ],
       "Reference": {
         "Type": "Verse",
@@ -51,14 +51,14 @@
     },
     {
       "Lines": [
-        "To him who overcomes the foe",
-        "White raiment shall be giv’n;",
+        "To him that overcomes the foe",
+        "White raiment shall be giv'n;",
         "Before the angels he shall know",
-        "His name confessed in heav’n.",
+        "His name confessed in heav'n.",
         "Then onward from the hills of light,",
-        "Our hearts with love aflame;",
-        "We’ll vanquish all the hosts of night,",
-        "In Jesus’ conq’ring name."
+        "Our hearts with love aflame,",
+        "We'll vanquish all the hosts of night,",
+        "In Jesus' conq'ring name."
       ],
       "Reference": {
         "Type": "Verse",
@@ -70,6 +70,8 @@
     "Verse 1",
     "Chorus",
     "Verse 2",
-    "Verse 3"
+    "Chorus",
+    "Verse 3",
+    "Chorus"
   ]
 }

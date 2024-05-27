@@ -3,6 +3,7 @@ Author:
 Copyright:Projection Not Permitted
 CCLI:
 Hymnal:Hymn 431
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus
 
 
 [Verse 1]
@@ -13,13 +14,10 @@ Buildeth a mansion for me.
 
 [Chorus]
 Over yonder, down by the crystal sea,
-down              by the crystal sea,
 Over yonder, there’s where I long to be,
-There’s            where I long to be,
 No more sorrow, toil, grief, nor care,
 In the homeland bright and fair,
 Over, over there.
-Over there.
 
 [Verse 2]
 Water of life there floweth,

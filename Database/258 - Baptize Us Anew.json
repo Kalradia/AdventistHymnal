@@ -1,0 +1,91 @@
+{
+  "Number": 258,
+  "Title": "Baptize Us Anew",
+  "Author": null,
+  "Copyright": "PublicDomain",
+  "CcliNumber": null,
+  "Stanzas": [
+    {
+      "Lines": [
+        "Baptize us anew",
+        "With power from on high,",
+        "With love, O refresh us!",
+        "Dear Saviour, draw nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "We humbly beseech Thee,",
+        "Lord Jesus, we pray,",
+        "With love and the Spirit",
+        "baptize us today."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 1
+      }
+    },
+    {
+      "Lines": [
+        "Unworthy we cry,",
+        "Unholy, unclean,",
+        "O wash us and cleanse us",
+        "From sin’s guilty stain."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 2
+      }
+    },
+    {
+      "Lines": [
+        "O heavenly Dove,",
+        "Descend from on high!",
+        "We plead Thy rich blessing;",
+        "In mercy draw nigh."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 3
+      }
+    },
+    {
+      "Lines": [
+        "O list the glad voice!",
+        "From heaven it came:",
+        "Thou art My beloved,",
+        "Well pleased I am."
+      ],
+      "Reference": {
+        "Type": "Verse",
+        "Number": 4
+      }
+    },
+    {
+      "Lines": [
+        "We praise Thee, we bless Thee,",
+        "dear Lamb that was slain,",
+        "We laud and adore Thee,",
+        "Amen and Amen."
+      ],
+      "Reference": {
+        "Type": "Chorus",
+        "Number": 2
+      }
+    }
+  ],
+  "StanzaOrder": [
+    "Verse 1",
+    "Chorus 1",
+    "Verse 2",
+    "Chorus 1",
+    "Verse 3",
+    "Chorus 1",
+    "Verse 4",
+    "Chorus 2"
+  ]
+}

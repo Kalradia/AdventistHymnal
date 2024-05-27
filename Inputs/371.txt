@@ -3,6 +3,7 @@ Author:
 Copyright:Projection Not Permitted
 CCLI:
 Hymnal:Hymn 371
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus
 
 
 [Verse 1]

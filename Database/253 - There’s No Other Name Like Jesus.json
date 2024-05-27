@@ -19,9 +19,9 @@
     },
     {
       "Lines": [
-        "Sweet name, (sweet name) dear name, (dear name)",
+        "Sweet name, dear name,",
         "There’s no other name like Jesus;",
-        "Sweet name, (sweet name) dear name, (dear name)",
+        "Sweet name, dear name,",
         "There’s no other name like Jesus."
       ],
       "Reference": {
@@ -82,8 +82,12 @@
     "Verse 1",
     "Chorus",
     "Verse 2",
+    "Chorus",
     "Verse 3",
+    "Chorus",
     "Verse 4",
-    "Verse 5"
+    "Chorus",
+    "Verse 5",
+    "Chorus"
   ]
 }

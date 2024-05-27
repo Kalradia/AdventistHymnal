@@ -3,6 +3,7 @@ Author:©
 Copyright:Public Domain
 CCLI:
 Hymnal:Hymn 253
+PlayOrder:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus,Verse 5,Chorus
 
 [Verse 1]
 There’s no other name like Jesus,
@@ -11,9 +12,9 @@ There’s no other name like Jesus,
 ’Tis the Christian’s joy below.
 
 [Chorus]
-Sweet name, (sweet name) dear name, (dear name)
+Sweet name, dear name,
 There’s no other name like Jesus;
-Sweet name, (sweet name) dear name, (dear name)
+Sweet name, dear name,
 There’s no other name like Jesus.
 
 [Verse 2]
